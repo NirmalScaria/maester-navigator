@@ -1,19 +1,14 @@
 import React, { useState, useRef } from 'react';
 // import './PanZoomImage.css';
 
-export const PanZoomImage = ({ imageUrl }) => {
+export const PanZoomImage = ({ imageUrl, elements }) => {
     const [scale, setScale] = useState(1);
     const [position, setPosition] = useState({ x: 0, y: 0 });
-    // const [start, setStart] = useState(null);
     const containerRef = useRef(null);
     var startval = null;
 
 
     const handleMouseDown = (e) => {
-        // setStart({
-        //     x: e.clientX - position.x,
-        //     y: e.clientY - position.y
-        // });
         startval = {
             x: e.clientX - position.x,
             y: e.clientY - position.y
@@ -60,17 +55,27 @@ export const PanZoomImage = ({ imageUrl }) => {
                 userSelect: 'none'
             }}
         >
-            <img
-                src={imageUrl}
-                alt="Pan and Zoom"
-                style={{
-                    transform: `translate(${position.x}px, ${position.y}px) scale(${scale})`,
-                    transition: 'transform 0.1s ease',
-                    transformOrigin: '50% 50%',
-                    pointerEvents: 'none',
+            <div style={{
+                transform: `translate(${position.x}px, ${position.y}px) scale(${scale})`,
+                transition: 'transform 0.1s ease',
+                transformOrigin: '50% 50%',
+                pointerEvents: 'none',
+            }}>
+                {
+                    elements.map((element) => {
+                        const scaleValue = 1 / scale;
+                        return <div style={{ position: 'absolute', left: element.x + "%", top: element.y + "%", zIndex: 100, transform: `scale(${scaleValue})` }}>{element.item}</div>
+                    })
+                }
+                <img
+                    src={imageUrl}
+                    style={{
+                        transform: ``,
+                    }}
+                    alt="Pan and Zoom"
 
-                }}
-            />
+                />
+            </div>
         </div>
     );
 };
