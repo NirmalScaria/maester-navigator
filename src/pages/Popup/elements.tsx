@@ -1,9 +1,43 @@
+import { Polygon, useMapEvents } from 'react-leaflet';
 // @ts-ignore
 import currentLocationIcon from '../../assets/img/currentlocation.png'
 import L from 'leaflet';
+import React from 'react';
+import { Marker } from 'react-leaflet';
+import places from './data/places.json'
 
 export const currentLocationMarker = new L.Icon({
     iconUrl: currentLocationIcon,
     iconSize: [30, 30],
     iconAnchor: [12, 41],
 });
+
+export function ContinentLabels() {
+    return <>{places["continent"].map((place, index) => {
+        return <TextLabel key={index} text={place.name} coords={place.coordinates} className='continent-label' />
+    })}
+    </>
+}
+
+export function TextLabel({ text, coords, className }: { text: string, coords: any, className?: string }) {
+    return (
+        <Marker
+            position={coords}
+            icon={L.divIcon({
+                className: className ? ' ' + className : '',
+                html: `<div>${text}</div>`,
+                iconSize: [200, 40], // Adjust size as needed
+                iconAnchor: [100, 20] // Adjust anchor as needed
+            })}
+        />
+    );
+}
+
+export function CoordinatesCopier() {
+    useMapEvents({
+        click: (e) => {
+            navigator.clipboard.writeText(`[${e.latlng.lat}, ${e.latlng.lng}]`)
+        }
+    })
+    return <div></div>
+}
