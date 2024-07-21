@@ -5,6 +5,8 @@ import 'leaflet/dist/leaflet.css';
 import React from 'react';
 import { GeoJSON, MapContainer, Marker } from 'react-leaflet';
 import geojsonData from './map.json';
+// @ts-ignore
+import currentLocationIcon from '../../assets/img/currentlocation.png'
 
 const center: LatLngExpression = [52.107017102899, -32.4634878401302]; // Change this to your desired map center coordinates
 
@@ -19,12 +21,9 @@ const style = (feature: any) => {
 };
 
 const customMarkerIcon = new L.Icon({
-  iconUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon.png',
-  iconSize: [25, 41],
+  iconUrl: currentLocationIcon,
+  iconSize: [30, 30],
   iconAnchor: [12, 41],
-  popupAnchor: [1, -34],
-  shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-shadow.png',
-  shadowSize: [41, 41]
 });
 const GeoJsonMap: React.FC = () => {
   return (
