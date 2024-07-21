@@ -39,7 +39,7 @@ export const PanZoomImage = ({ imageUrl }) => {
 
     const handleWheel = (e) => {
         e.preventDefault();
-        const zoomFactor = -0.02;
+        const zoomFactor = 0.02;
         const newScale = Math.max(1, Math.min(10, scale + e.deltaY * -zoomFactor));
         setScale(newScale);
     };
@@ -66,7 +66,7 @@ export const PanZoomImage = ({ imageUrl }) => {
                 style={{
                     transform: `translate(${position.x}px, ${position.y}px) scale(${scale})`,
                     transition: 'transform 0.1s ease',
-                    transformOrigin: '20% 20%',
+                    transformOrigin: '50% 50%',
                     pointerEvents: 'none',
 
                 }}
