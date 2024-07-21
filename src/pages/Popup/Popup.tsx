@@ -1,6 +1,10 @@
 import React, { useEffect } from 'react';
 import './Popup.css';
 
+
+// @ts-ignore
+import mapImage from "../../assets/img/mapImage.jpg"
+
 const Popup = () => {
   const [videoDetails, setVideoDetails] = React.useState<any>(null);
 
@@ -44,6 +48,7 @@ const Popup = () => {
         </p>
         <p>Current Time: {videoDetails?.currentTime ?? "Loading"} / {videoDetails?.duration ?? "Loading"}</p>
       </header>
+      <img src={mapImage}></img>
     </div>
   );
 };
