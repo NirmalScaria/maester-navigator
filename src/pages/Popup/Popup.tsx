@@ -1,13 +1,13 @@
 import React, { useEffect } from 'react';
 import './Popup.css';
-
+// @ts-ignore
+import { PanZoomImage } from "./panner.jsx";
 
 // @ts-ignore
 import mapImage from "../../assets/img/mapImage.jpg"
 
 const Popup = () => {
   const [videoDetails, setVideoDetails] = React.useState<any>(null);
-
   function getDetails() {
     chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
       chrome.scripting.executeScript(
@@ -40,15 +40,11 @@ const Popup = () => {
       getDetails();
     }, 1000);
   }, []);
+  const bounds = [[0, 0], [1000, 1000]];
+
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Maester Navigator
-        </p>
-        <p>Current Time: {videoDetails?.currentTime ?? "Loading"} / {videoDetails?.duration ?? "Loading"}</p>
-      </header>
-      <img src={mapImage}></img>
+      <PanZoomImage imageUrl={mapImage} />
     </div>
   );
 };

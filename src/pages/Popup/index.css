@@ -15,3 +15,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* PanZoomImage.css */
+.pan-zoom-container {
+  position: relative;
+  width: 800px; /* Set the fixed width */
+  height: 600px; /* Set the fixed height */
+  border: 1px solid #ccc;
+  overflow: hidden;
+}
+
+.pan-zoom-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
