@@ -5,7 +5,8 @@ export const PanZoomImage = ({ imageUrl, elements }) => {
     const [scale, setScale] = useState(1);
     const [position, setPosition] = useState({ x: 0, y: 0 });
     const containerRef = useRef(null);
-    var startval = null;
+    var startval = useRef(null);
+    var imgRef = useRef(null);
 
 
     const handleMouseDown = (e) => {
@@ -35,6 +36,39 @@ export const PanZoomImage = ({ imageUrl, elements }) => {
     const handleWheel = (e) => {
         e.preventDefault();
         const zoomFactor = 0.02;
+        if (e.deltaY < 0) {
+            // zoom in  
+            // adjust the position of the image to zoom in the center of the mouse
+            const mouseX = e.clientX
+            const mouseY = e.clientY
+            const img = imgRef.current
+            const rect = img.getBoundingClientRect()
+            const xPercent = mouseX / rect.width
+            const yPercent = mouseY / rect.height
+            const newScale = Math.max(1, Math.min(10, scale + e.deltaY * -zoomFactor));
+            setPosition({
+                x: position.x - (rect.width * (newScale - scale) * xPercent),
+                y: position.y - (rect.height * (newScale - scale) * yPercent)
+            })
+            // setScale(newScale);
+            console.log("xPercent", xPercent, "yPercent", yPercent)
+        }
+        else {
+            // zoom out
+            const mouseX = e.clientX
+            const mouseY = e.clientY
+            const img = imgRef.current
+            const rect = img.getBoundingClientRect()
+            const xPercent = mouseX / rect.width
+            const yPercent = mouseX / rect.height
+            const newScale = Math.max(1, Math.min(10, scale + e.deltaY * -zoomFactor));
+            setPosition({
+                x: position.x * newScale / scale,
+                y: position.y * newScale / scale
+            })
+            // setScale(newScale);
+            console.log("xPercent", xPercent, "yPercent", yPercent)
+        }
         const newScale = Math.max(1, Math.min(10, scale + e.deltaY * -zoomFactor));
         setScale(newScale);
     };
@@ -55,12 +89,14 @@ export const PanZoomImage = ({ imageUrl, elements }) => {
                 userSelect: 'none'
             }}
         >
-            <div style={{
-                transform: `translate(${position.x}px, ${position.y}px) scale(${scale})`,
-                transition: 'transform 0.1s ease',
-                transformOrigin: '50% 50%',
-                pointerEvents: 'none',
-            }}>
+            <div ref={imgRef}
+                style={{
+                    transform: `translate(${position.x}px, ${position.y}px) scale(${scale})`,
+                    transition: 'transform 0.1s ease',
+                    transformOrigin: `0% 0%`,
+                    pointerEvents: 'none',
+
+                }}>
                 {
                     elements.map((element) => {
                         const scaleValue = 1 / scale;
@@ -72,6 +108,7 @@ export const PanZoomImage = ({ imageUrl, elements }) => {
                     style={{
                         transform: ``,
                     }}
+
                     alt="Pan and Zoom"
 
                 />
