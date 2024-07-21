@@ -5,6 +5,8 @@ import currentLocationIcon from '../../assets/img/currentlocation.png'
 import cityIcon from '../../assets/img/city.png'
 // @ts-ignore
 import castleIcon from '../../assets/img/castle.png'
+// @ts-ignore
+import pointIcon from '../../assets/img/point.png'
 import L, { LatLngExpression } from 'leaflet';
 import React from 'react';
 import { Marker } from 'react-leaflet';
@@ -19,6 +21,40 @@ export const currentLocationMarker = new L.Icon({
 export function ContinentLabels() {
     return <>{places["continent"].map((place, index) => {
         return <TextLabel key={index} text={place.name} coords={place.coordinates} className='continent-label' />
+    })}
+    </>
+}
+
+export function RuinsLabels() {
+    return <>{places["ruin"].map((place, index) => {
+        return <>
+            <TextLabel key={index} text={place.name} coords={place.coordinates} className='ruin-label' />
+            <Marker
+                position={place.coordinates as LatLngExpression}
+                icon={new L.Icon({
+                    iconUrl: pointIcon,
+                    iconSize: [6, 6],
+                    iconAnchor: [3, 27],
+                })}
+            />
+        </>
+    })}
+    </>
+}
+
+export function TownLabels() {
+    return <>{places["town"].map((place, index) => {
+        return <>
+            <TextLabel key={index} text={place.name} coords={place.coordinates} className='town-label' />
+            <Marker
+                position={place.coordinates as LatLngExpression}
+                icon={new L.Icon({
+                    iconUrl: pointIcon,
+                    iconSize: [6, 6],
+                    iconAnchor: [3, 27],
+                })}
+            />
+        </>
     })}
     </>
 }
@@ -50,7 +86,7 @@ export function CastleLabels() {
                 icon={new L.Icon({
                     iconUrl: castleIcon,
                     iconSize: [17, 17.],
-                        iconAnchor: [8.5, 2.5],
+                    iconAnchor: [8.5, 2.5],
                 })}
             />
         </>
