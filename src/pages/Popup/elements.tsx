@@ -1,7 +1,11 @@
 import { Polygon, useMapEvents } from 'react-leaflet';
 // @ts-ignore
 import currentLocationIcon from '../../assets/img/currentlocation.png'
-import L from 'leaflet';
+// @ts-ignore
+import cityIcon from '../../assets/img/city.png'
+// @ts-ignore
+import castleIcon from '../../assets/img/castle.png'
+import L, { LatLngExpression } from 'leaflet';
 import React from 'react';
 import { Marker } from 'react-leaflet';
 import places from './data/places.json'
@@ -19,8 +23,43 @@ export function ContinentLabels() {
     </>
 }
 
+export function CityLabels() {
+    return <>
+
+        {places["city"].map((place, index) => {
+            return <>
+                <TextLabel key={index} text={place.name} coords={place.coordinates} className='city-label' />
+                <Marker
+                    position={place.coordinates as LatLngExpression}
+                    icon={new L.Icon({
+                        iconUrl: cityIcon,
+                        iconSize: [17, 17.],
+                        iconAnchor: [8.5, 2.5],
+                    })}
+                />
+            </>
+        })}
+    </>
+}
+export function CastleLabels() {
+    return <>{places["castle"].map((place, index) => {
+        return <>
+            <TextLabel key={index} text={place.name} coords={place.coordinates} className='castle-label' />
+            <Marker
+                position={place.coordinates as LatLngExpression}
+                icon={new L.Icon({
+                    iconUrl: castleIcon,
+                    iconSize: [17, 17.],
+                        iconAnchor: [8.5, 2.5],
+                })}
+            />
+        </>
+    })}
+    </>
+}
+
 export function TextLabel({ text, coords, className }: { text: string, coords: any, className?: string }) {
-    return (
+    return (<>
         <Marker
             position={coords}
             icon={L.divIcon({
@@ -29,7 +68,7 @@ export function TextLabel({ text, coords, className }: { text: string, coords: a
                 iconSize: [200, 40], // Adjust size as needed
                 iconAnchor: [100, 20] // Adjust anchor as needed
             })}
-        />
+        /> </>
     );
 }
 
