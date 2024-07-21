@@ -1,15 +1,11 @@
 import React, { useEffect } from 'react';
-// import logo from '../../assets/img/logo.svg';
-// import Greetings from '../../containers/Greetings/Greetings';
 import './Popup.css';
 
 const Popup = () => {
   const [videoDetails, setVideoDetails] = React.useState<any>(null);
-  useEffect(() => {
-    console.log("Loading")
+
+  function getDetails() {
     chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
-      console.log("Executing script")
-      console.log("Scripting is ", chrome.scripting)
       chrome.scripting.executeScript(
         {
           target: { tabId: tabs[0].id! },
@@ -33,6 +29,12 @@ const Popup = () => {
         }
       );
     });
+  }
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      getDetails();
+    }, 1000);
   }, []);
   return (
     <div className="App">
