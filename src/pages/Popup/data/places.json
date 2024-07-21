@@ -1,0 +1,516 @@
+{
+    "continent": [
+        {
+            "type": "continent",
+            "name": "Westeros",
+            "coordinates": [
+                30.375,
+                -30.375
+            ]
+        },
+        {
+            "type": "continent",
+            "name": "Essos",
+            "coordinates": [
+                20.375,
+                20.375
+            ]
+        },
+        {
+            "type": "continent",
+            "name": "The North",
+            "coordinates": [
+                50.375,
+                -30.375
+            ]
+        },
+        {
+            "type": "continent",
+            "name": "Gray Waste",
+            "coordinates": [
+                28.223208581813893,
+                119.15370291148896
+            ]
+        },
+        {
+            "type": "continent",
+            "name": "Great Grass Sea",
+            "coordinates": [
+                30.79210327971784,
+                59.78218950471321
+            ]
+        }
+    ],
+    "city": [
+        {
+            "type": "city",
+            "name": "Oldtown",
+            "coordinates": [
+                22.4281869116497,
+                -45.5787136379966
+            ]
+        },
+        {
+            "type": "city",
+            "name": "King's Landing",
+            "coordinates": [
+                31.487059014871,
+                -27.157842906248
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Lannisport",
+            "coordinates": [
+                33.062705328271,
+                -45.2038194804881
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Gulltown",
+            "coordinates": [
+                37.9202916086237,
+                -17.7865600946998
+            ]
+        },
+        {
+            "type": "city",
+            "name": "White Harbor",
+            "coordinates": [
+                47.3509724738542,
+                -28.8712877270892
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Lys",
+            "coordinates": [
+                19.5473802353167,
+                -7.60621998704278
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Tyrosh",
+            "coordinates": [
+                25.119697190609,
+                -11.5329685054032
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Myr",
+            "coordinates": [
+                25.7615542235537,
+                -4.34571194288314
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Pentos",
+            "coordinates": [
+                31.6404656906617,
+                -8.12964363933559
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Braavos",
+            "coordinates": [
+                42.216335050062,
+                -8.41527728315159
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Lorath",
+            "coordinates": [
+                40.94356297246,
+                -0.983803955168822
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Norvos",
+            "coordinates": [
+                35.7977647206145,
+                2.58018983554533
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Qohor",
+            "coordinates": [
+                31.684014804046,
+                12.5759392008862
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Volantis",
+            "coordinates": [
+                19.1097007038167,
+                10.005593448597
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Mantarys",
+            "coordinates": [
+                20.5247186291562,
+                22.8037659018277
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Meereen",
+            "coordinates": [
+                22.5813747476747,
+                40.8740213357921
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Yunkai",
+            "coordinates": [
+                20.9483924156482,
+                38.9463512820889
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Astapor",
+            "coordinates": [
+                17.1112559629877,
+                37.1372191905693
+            ]
+        },
+        {
+            "type": "city",
+            "name": "New Ghis",
+            "coordinates": [
+                8.70890315701647,
+                39.9457119933901
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Vaes Dothrak",
+            "coordinates": [
+                34.8477812974937,
+                60.4138618671899
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Kayakayanaya",
+            "coordinates": [
+                32.2676604593012,
+                79.2392612469929
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Samyriana",
+            "coordinates": [
+                25.0905915017642,
+                76.0026750205029
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Bayasabahd",
+            "coordinates": [
+                19.4305198004062,
+                79.3824351109557
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Qarth",
+            "coordinates": [
+                12.8079908092797,
+                69.9811607668069
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Faros",
+            "coordinates": [
+                8.22745567236647,
+                67.9820823021496
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Yin",
+            "coordinates": [
+                7.65847228141647,
+                88.9497340105726
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Asshai",
+            "coordinates": [
+                -2.21710982758378,
+                109.96487231228
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Port of Ibben",
+            "coordinates": [
+                49.043260382399,
+                61.6988562223072
+            ]
+        },
+        {
+            "type": "city",
+            "name": "Lotus Port",
+            "coordinates": [
+                5.82043708888222,
+                -13.1278753640608
+            ]
+        }
+    ],
+    "castle": [
+        {
+            "type": "castle",
+            "name": "Starfall",
+            "coordinates": [
+                20.7024165189452,
+                -39.9902913967365
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Sunspear",
+            "coordinates": [
+                19.6193785182485,
+                -18.2671387004202
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Highgarden",
+            "coordinates": [
+                25.975798354223,
+                -40.8029191133931
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Storm's End",
+            "coordinates": [
+                27.2781138002012,
+                -21.6047678284102
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Dragonstone",
+            "coordinates": [
+                34.005467039122,
+                -18.8737531514744
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Harrenhal",
+            "coordinates": [
+                35.3957560709317,
+                -29.6385711027899
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Pyke",
+            "coordinates": [
+                38.3934231821752,
+                -44.9513907477657
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Riverrun",
+            "coordinates": [
+                36.839879685116,
+                -35.6311649500496
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "The Eyrie",
+            "coordinates": [
+                38.8455461382147,
+                -25.4426128751329
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "The Twins",
+            "coordinates": [
+                40.793001213624,
+                -34.5461141456036
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Torrhen's Square",
+            "coordinates": [
+                50.0416073937505,
+                -37.4256583173236
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Winterfell",
+            "coordinates": [
+                52.107017102899,
+                -32.4634878401302
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Deepwood Motte",
+            "coordinates": [
+                54.6074802663585,
+                -38.0447692402948
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "The Dreadfort",
+            "coordinates": [
+                52.811681148614,
+                -24.1690438657683
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Karhold",
+            "coordinates": [
+                54.5709340254782,
+                -18.3267647235668
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Castle Black",
+            "coordinates": [
+                59.6985685767665,
+                -26.7968733888755
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Eastwatch",
+            "coordinates": [
+                59.6985685767665,
+                -23.5813526436169
+            ]
+        },
+        {
+            "type": "castle",
+            "name": "Last Hearth",
+            "coordinates": [
+                56.2551248626902,
+                -25.4829586273219
+            ]
+        }
+    ],
+    "ruin": [
+        {
+            "type": "ruin",
+            "name": "Summerhall",
+            "coordinates": [
+                26.5222412493007,
+                -28.2700289068565
+            ]
+        },
+        {
+            "type": "ruin",
+            "name": "Hardhome",
+            "coordinates": [
+                62.3253022850637,
+                -22.4627398860225
+            ]
+        },
+        {
+            "type": "ruin",
+            "name": "Ghoyan Drohe",
+            "coordinates": [
+                32.734445679646,
+                -2.59013615957904
+            ]
+        },
+        {
+            "type": "ruin",
+            "name": "Chroyane",
+            "coordinates": [
+                25.8928580830037,
+                5.54970860506742
+            ]
+        },
+        {
+            "type": "ruin",
+            "name": "Valyria",
+            "coordinates": [
+                9.92696529318097,
+                19.73427535697
+            ]
+        },
+        {
+            "type": "ruin",
+            "name": "Old Ghis",
+            "coordinates": [
+                12.49439342496,
+                38.7499781519654
+            ]
+        },
+        {
+            "type": "ruin",
+            "name": "Vaes Tolorro",
+            "coordinates": [
+                17.016498344418,
+                61.598170362862
+            ]
+        },
+        {
+            "type": "ruin",
+            "name": "Moat Cailin",
+            "coordinates": [
+                46.1127770792407,
+                -31.4045011056824
+            ]
+        }
+    ],
+    "town": [
+        {
+            "type": "town",
+            "name": "Stoney Sept",
+            "coordinates": [
+                33.6861798208927,
+                -34.7082112384692
+            ]
+        },
+        {
+            "type": "town",
+            "name": "Barrowton",
+            "coordinates": [
+                47.5873194208642,
+                -38.3853873605454
+            ]
+        },
+        {
+            "type": "town",
+            "name": "Tall Trees Town",
+            "coordinates": [
+                4.08087979093547,
+                -9.82523635743833
+            ]
+        }
+    ]
+}
