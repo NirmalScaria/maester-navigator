@@ -4,8 +4,11 @@ import './Popup.css';
 import { PanZoomImage } from "./panner.jsx";
 import {CurrentLocation} from "./elements"
 
+// import Leaf from 'leaflet';
+
 // @ts-ignore
 import mapImage from "../../assets/img/mapImage.jpg"
+import GeoJsonMap from './geoJsonMap';
 
 const Popup = () => {
   const [videoDetails, setVideoDetails] = React.useState<any>(null);
@@ -51,7 +54,7 @@ const Popup = () => {
   ]
   return (
     <div className="App">
-      <PanZoomImage imageUrl={mapImage} elements={elements} />
+      <GeoJsonMap />
     </div>
   );
 };
