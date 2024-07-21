@@ -1,7 +1,9 @@
-import React from "react";
+// @ts-ignore
+import currentLocationIcon from '../../assets/img/currentlocation.png'
+import L from 'leaflet';
 
-export function CurrentLocation() {
-    return <div style={{ padding: 4, backgroundColor: '#0335fc55', borderRadius: 9999 }}>
-        <div style={{ height: 13, width: 13, backgroundColor: '#0335fc', borderRadius: 9999 }}></div>
-    </div>
-}
+export const currentLocationMarker = new L.Icon({
+    iconUrl: currentLocationIcon,
+    iconSize: [30, 30],
+    iconAnchor: [12, 41],
+});

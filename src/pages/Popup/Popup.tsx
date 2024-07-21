@@ -1,13 +1,5 @@
 import React, { useEffect } from 'react';
 import './Popup.css';
-// @ts-ignore
-import { PanZoomImage } from "./panner.jsx";
-import {CurrentLocation} from "./elements"
-
-// import Leaf from 'leaflet';
-
-// @ts-ignore
-import mapImage from "../../assets/img/mapImage.jpg"
 import GeoJsonMap from './geoJsonMap';
 
 const Popup = () => {
@@ -40,18 +32,11 @@ const Popup = () => {
   }
 
   useEffect(() => {
-    const interval = setInterval(() => {
+    setInterval(() => {
       getDetails();
     }, 1000);
   }, []);
-  const bounds = [[0, 0], [1000, 1000]];
-  const elements = [
-    {
-      item: <CurrentLocation />,
-      x: 18,
-      y: 53.818362,
-    },
-  ]
+
   return (
     <div className="App">
       <GeoJsonMap />
