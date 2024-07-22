@@ -59,6 +59,40 @@ export function TownLabels() {
     </>
 }
 
+export function BigPlaceLabels() {
+    return <>{places["bigPlaces"].map((place, index) => {
+        return <>
+            <TextLabel key={index} text={place.name} coords={place.coordinates} className='big-place-label' />
+            <Marker
+                position={place.coordinates as LatLngExpression}
+                icon={new L.Icon({
+                    iconUrl: pointIcon,
+                    iconSize: [6, 6],
+                    iconAnchor: [3, 27],
+                })}
+            />
+        </>
+    })}
+    </>
+}
+
+export function SmallPlaceLabels() {
+    return <>{places["smallPlaces"].map((place, index) => {
+        return <>
+            <TextLabel key={index} text={place.name} coords={place.coordinates} className='big-place-label' />
+            <Marker
+                position={place.coordinates as LatLngExpression}
+                icon={new L.Icon({
+                    iconUrl: pointIcon,
+                    iconSize: [6, 6],
+                    iconAnchor: [3, 27],
+                })}
+            />
+        </>
+    })}
+    </>
+}
+
 export function CityLabels() {
     return <>
 

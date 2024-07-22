@@ -2,7 +2,7 @@ import L, { LatLngExpression, LatLngTuple } from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import React, { useEffect } from 'react';
 import { GeoJSON, MapContainer, Marker, useMap, useMapEvents } from 'react-leaflet';
-import { CastleLabels, CityLabels, ContinentLabels, CoordinatesCopier, currentLocationMarker, RuinsLabels, TextLabel, TownLabels } from './elements';
+import { BigPlaceLabels, CastleLabels, CityLabels, ContinentLabels, CoordinatesCopier, currentLocationMarker, RuinsLabels, SmallPlaceLabels, TextLabel, TownLabels } from './elements';
 import geojsonData from './map.json';
 import places from './data/places.json'
 
@@ -23,7 +23,7 @@ const style = (feature: any) => {
 };
 
 const GeoJsonMap: React.FC = () => {
-  const [levelsToShow, setLevelsToShow] = React.useState<string[]>(["continent"]);
+  const [levelsToShow, setLevelsToShow] = React.useState<string[]>(["city", "castle", "town", "ruin"]);
 
   function ZoomSetter() {
     useMapEvents({
@@ -36,8 +36,14 @@ const GeoJsonMap: React.FC = () => {
         else if (e.target.getZoom() < 4.2) {
           setLevelsToShow(["city", "castle"])
         }
-        else {
+        else if(e.target.getZoom() < 4.4){
           setLevelsToShow(["city", "castle", "town", "ruin"])
+        }
+        else if(e.target.getZoom() < 5) {
+          setLevelsToShow(["city", "castle", "town", "ruin", "bigPlaces"])
+        }
+        else {
+          setLevelsToShow(["city", "castle", "town", "ruin", "bigPlaces", "smallPlaces"])
         }
       }
 
@@ -53,6 +59,8 @@ const GeoJsonMap: React.FC = () => {
       {levelsToShow.includes('castle') && <CastleLabels />}
       {levelsToShow.includes('town') && <TownLabels />}
       {levelsToShow.includes('ruin') && <RuinsLabels />}
+      {levelsToShow.includes('smallPlaces') && <SmallPlaceLabels />}
+      {levelsToShow.includes('bigPlaces') && <BigPlaceLabels />}
       <CoordinatesCopier />
       <ZoomSetter />
     </MapContainer>
