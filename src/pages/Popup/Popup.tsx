@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import './Popup.css';
-import GeoJsonMap from './geoJsonMap';
+import GeoJsonMap from './map';
 
 const Popup = () => {
   const [videoDetails, setVideoDetails] = React.useState<any>(null);
