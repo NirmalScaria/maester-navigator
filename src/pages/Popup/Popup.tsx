@@ -44,11 +44,13 @@ const Popup = () => {
       const locationName: string = currentScene.location
       // @ts-ignore
       const location: any = locations[locationName]
-      setCurrentLocation(location)
+      if (currentLocation != location)
+        setCurrentLocation(location)
     }
   }
 
   useEffect(() => {
+    getDetails();
     setInterval(() => {
       getDetails();
     }, 1000);
