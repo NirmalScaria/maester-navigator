@@ -536,5 +536,265 @@
                 -9.82523635743833
             ]
         }
+    ],
+    "bigPlaces": [
+        {
+            "name": "Blackwater Bay",
+            "coordinates": [
+                32.8037131694931,
+                -23.817904090281342
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Craster's Keep",
+            "coordinates": [
+                60.996767288671634,
+                -28.19216116391142
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Dorne",
+            "coordinates": [
+                21.76776220764619,
+                -31.966523756034494
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Fist of the First Men",
+            "coordinates": [
+                63.24577374558994,
+                -31.640841014837203
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Mole's Town",
+            "coordinates": [
+                59.19320623464925,
+                -26.40576878082061
+            ],
+            "type": "place"
+        }
+    ],
+    "smallPlaces": [
+        {
+            "name": "Away from the Twins",
+            "coordinates": [
+                40.018409643051385,
+                -35.77562369484213
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Battlefield",
+            "coordinates": [
+                36.23141563081585,
+                -32.570118319039274
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Bear Island",
+            "coordinates": [
+                58.17718902782815,
+                -39.45533149475246
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Blackwater Rush",
+            "coordinates": [
+                32.43578663429438,
+                -29.376055670314443
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Camp of the North",
+            "coordinates": [
+                35.8798265035469,
+                -44.16735581606665
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Casterly Rock",
+            "coordinates": [
+                33.88214964064453,
+                -45.356072659511966
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Castle Stokeworth",
+            "coordinates": [
+                33.53572386837937,
+                -25.085065421510922
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Cave Outside Wildling Camp",
+            "coordinates": [
+                67.123653614087,
+                -34.701370338925145
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Coast of the Vale",
+            "coordinates": [
+                37.27671676858258,
+                -20.711942978328754
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Crossroads Inn",
+            "coordinates": [
+                37.20747383280678,
+                -28.453099007594535
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Destroyed Cabin",
+            "coordinates": [
+                62.89927879451518,
+                -30.64616898450864
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Dothraki Camp",
+            "coordinates": [
+                34.36235913239671,
+                50.316162530382215
+            ],
+            "type": "place"
+        },
+        {
+            "name": "East to King's Landing",
+            "coordinates": [
+                31.32904292565735,
+                -21.005501613631633
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Eastern Road",
+            "coordinates": [
+                38.193859006029676,
+                -27.380354539119498
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Forest",
+            "coordinates": [
+                35.90302347061907,
+                -32.95561157058215
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Frostfang Mountains",
+            "coordinates": [
+                64.75470411654254,
+                -39.904270189874644
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Hollow Hill",
+            "coordinates": [
+                35.2518051210622,
+                -40.679916408001915
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Horn Hill",
+            "coordinates": [
+                30.07912664291454,
+                -38.909598159546064
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Inn",
+            "coordinates": [
+                37.71377587047233,
+                -24.510038258605228
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Lannister Camp",
+            "coordinates": [
+                31.98944183792288,
+                -46.39526367187501
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Lhazareen Village",
+            "coordinates": [
+                35.41681771410719,
+                53.74792712721627
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Lordsport",
+            "coordinates": [
+                39.44193468228626,
+                -45.41318874926428
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Near Nightfort",
+            "coordinates": [
+                60.73203119966372,
+                -27.4326131942163
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Nightfort",
+            "coordinates": [
+                59.39585158907186,
+                -30.034063119691037
+            ],
+            "type": "place"
+        },
+        {
+            "name": "Nightswatch March South",
+            "coordinates": [
+                58.4079444907625,
+                -29.881036653486643
+            ],
+            "type": "place"
+        },
+        {
+            "name": "North to the Red Fork",
+            "coordinates": [
+                36.47321554359912,
+                -32.72011447188033
+            ],
+            "type": "place"
+        },
+        {
+            "name": "North to the Wall",
+            "coordinates": [
+                60.61961417278302,
+                -30.49314251830423
+            ],
+            "type": "place"
+        }
     ]
 }
