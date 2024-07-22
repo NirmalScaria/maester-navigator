@@ -15,7 +15,7 @@ import places from './data/places.json'
 export const currentLocationMarker = new L.Icon({
     iconUrl: currentLocationIcon,
     iconSize: [30, 30],
-    iconAnchor: [12, 41],
+    iconAnchor: [15, 15],
 });
 
 export function ContinentLabels() {
