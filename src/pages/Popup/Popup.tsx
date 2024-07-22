@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useRef } from 'react';
 import './Popup.css';
 import GeoJsonMap from './map';
 import episodes from './data/knownEpisodes.json'
@@ -9,6 +9,21 @@ const Popup = () => {
   const [videoDetails, setVideoDetails] = React.useState<any>(null);
   const [content, setContent] = React.useState<any>(null);
   const [currentLocation, setCurrentLocation] = React.useState<LatLngExpression | null>(null);
+  const [currentSeason, setCurrentSeason] = React.useState<number>(1);
+  const [selectedSeason, setSelectedSeason] = React.useState<number>(1);
+  const [currentEpisode, setCurrentEpisode] = React.useState<number>(1);
+
+  const currentSeasonRef = useRef(currentSeason);
+  const currentEpisodeRef = useRef(currentEpisode);
+
+  useEffect(() => {
+    currentSeasonRef.current = currentSeason;
+  }, [currentSeason]);
+
+  useEffect(() => {
+    currentEpisodeRef.current = currentEpisode;
+  }, [currentEpisode]);
+
   function getDetails() {
     chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
       chrome.scripting.executeScript(
@@ -37,7 +52,7 @@ const Popup = () => {
   }
 
   function getLocation({ currentTime }: { currentTime: number }) {
-    const episode = episodes[1][6]
+    const episode = episodes[currentSeasonRef.current][currentEpisodeRef.current]
     const scenes = episode.scenes
     const currentScene = scenes!.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
     if (currentScene && currentScene.location) {
@@ -58,6 +73,36 @@ const Popup = () => {
 
   return (
     <div className="App">
+      <div className="top-bar">
+        <select
+          value={currentSeason}
+          onChange={(e) => setSelectedSeason(parseInt(e.target.value))}
+        >
+          {Object.keys(episodes).map((season) => {
+            if (season === '0')
+              return null;
+            return <option key={season} value={season}>
+              Season {season}
+            </option>
+          })}
+        </select>
+        <select
+          value={currentEpisode}
+          onChange={(e) => {
+            console.log("Setting current episode : ", e.target.value)
+            setCurrentSeason(selectedSeason)
+            setCurrentEpisode(parseInt(e.target.value))
+          }}
+        >
+          {Object.keys(episodes[selectedSeason]).map((episode) => {
+            if (episode === '0')
+              return null;
+            return <option key={episode} value={episode}>
+              Episode {episode} - {episodes[selectedSeason][Number(episode)].title}
+            </option>
+          })}
+        </select>
+      </div>
       <GeoJsonMap currentLocation={currentLocation} />
     </div>
   );
