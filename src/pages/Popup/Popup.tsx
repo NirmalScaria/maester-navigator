@@ -24,6 +24,16 @@ const Popup = () => {
     currentEpisodeRef.current = currentEpisode;
   }, [currentEpisode]);
 
+  useEffect(() => {
+    chrome.storage.local.get(['currentSeason', 'currentEpisode'], (result) => {
+      if (result.currentSeason)
+        setCurrentSeason(result.currentSeason)
+      if (result.currentEpisode)
+        setCurrentEpisode(result.currentEpisode)
+    }
+    )
+  }, [])
+
   function getDetails() {
     chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
       chrome.scripting.executeScript(
@@ -52,6 +62,7 @@ const Popup = () => {
   }
 
   function getLocation({ currentTime }: { currentTime: number }) {
+    // console.log("Using ", currentSeasonRef.current, currentEpisodeRef.current, currentTime)
     const episode = episodes[currentSeasonRef.current][currentEpisodeRef.current]
     const scenes = episode.scenes
     const currentScene = scenes!.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
@@ -92,6 +103,7 @@ const Popup = () => {
             console.log("Setting current episode : ", e.target.value)
             setCurrentSeason(selectedSeason)
             setCurrentEpisode(parseInt(e.target.value))
+            chrome.storage.local.set({ currentSeason: selectedSeason, currentEpisode: parseInt(e.target.value) })
           }}
         >
           {Object.keys(episodes[selectedSeason]).map((episode) => {
