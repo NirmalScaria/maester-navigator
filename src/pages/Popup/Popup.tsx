@@ -6,8 +6,6 @@ import locations from './data/knownLocations.json' assert { type: "json" };
 import { LatLngExpression } from 'leaflet';
 
 const Popup = () => {
-  const [videoDetails, setVideoDetails] = React.useState<any>(null);
-  const [content, setContent] = React.useState<any>(null);
   const [currentLocation, setCurrentLocation] = React.useState<LatLngExpression | null>(null);
   const [currentSeason, setCurrentSeason] = React.useState<number>(1);
   const [selectedSeason, setSelectedSeason] = React.useState<number>(1);
@@ -53,7 +51,6 @@ const Popup = () => {
         },
         (results) => {
           if (results && results[0] && results[0].result) {
-            setVideoDetails(results[0].result);
             getLocation(results[0].result);
           }
         }
@@ -62,7 +59,6 @@ const Popup = () => {
   }
 
   function getLocation({ currentTime }: { currentTime: number }) {
-    // console.log("Using ", currentSeasonRef.current, currentEpisodeRef.current, currentTime)
     const episode = episodes[currentSeasonRef.current][currentEpisodeRef.current]
     const scenes = episode.scenes
     const currentScene = scenes!.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
@@ -121,7 +117,6 @@ const Popup = () => {
 };
 
 function stringToNum(time: string) {
-  // Takes time like '1:23:45' and returns number of seconds
   var res = 0;
   const parts = time.split(':');
   for (let i = 0; i < parts.length; i++) {
