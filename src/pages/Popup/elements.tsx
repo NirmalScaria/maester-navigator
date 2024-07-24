@@ -12,6 +12,46 @@ import React from 'react';
 import { Marker } from 'react-leaflet';
 import places from './data/places.json'
 
+function ClusterGroup({ group }: { group: any }) {
+    var groupHtml="<div style='relative'>"
+    var i = 0;
+    for (const char of group) {
+        if(char.image === undefined) continue;
+        groupHtml+=`<img src=${char.image} style='position:absolute; height:30px; width: 30px; border:2px solid white; border-radius:15px; left:${i * 20}px;' alt=${char.name} />`
+        i += 1;
+    }
+    groupHtml+="</div>"
+    // @ts-ignore
+    return <Marker position={group[0].location as LatLngExpression} icon={new L.divIcon({
+        className: 'cluster-group',
+        html: groupHtml,
+        iconSize: [40, 40], // Adjust size as needed
+        iconAnchor: [20, 20] // Adjust anchor as needed
+    })} />
+}
+export function Tier1Characters({ characters }: { characters: any }) {
+    const groupWise = {}
+    const tier1Chars = characters.filter((char: any) => char.priority === 1)
+    for (const char of tier1Chars) {
+        if (char.location.toString() in groupWise) {
+            // @ts-ignore
+            groupWise[char.location.toString()].push(char)
+        }
+        else {
+            // @ts-ignore
+            groupWise[char.location.toString()] = [char]
+        }
+    }
+    console.log(groupWise)
+
+    return <>{Object.keys(groupWise).map((group: any, index: number) => {
+        // @ts-ignore
+        return <ClusterGroup key={index} group={groupWise[group]} />
+    })}</>
+}
+
+
+
 export const currentLocationMarker = new L.Icon({
     iconUrl: currentLocationIcon,
     iconSize: [30, 30],

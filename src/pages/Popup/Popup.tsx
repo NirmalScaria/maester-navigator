@@ -6,11 +6,19 @@ import locations from './data/knownLocations.json' assert { type: "json" };
 import { LatLngExpression } from 'leaflet';
 import characters from './data/knownCharacters.json' assert { type: "json" };
 
+interface Character {
+  name: string;
+  image: string;
+  location: LatLngExpression;
+  priority: number;
+}
+
 const Popup = () => {
   const [currentLocation, setCurrentLocation] = React.useState<LatLngExpression | null>(null);
   const [currentSeason, setCurrentSeason] = React.useState<number>(1);
   const [selectedSeason, setSelectedSeason] = React.useState<number>(1);
   const [currentEpisode, setCurrentEpisode] = React.useState<number>(1);
+  const [chars, setChars] = React.useState<Character[]>([]);
 
   var episodeData = {}
 
@@ -67,15 +75,34 @@ const Popup = () => {
             const scenes = currentEpisodeData.scenes
             const currentTime = results[0].result.currentTime
             const currentScene = scenes.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
-            if(currentScene && currentScene.location) {
+            if (currentScene && currentScene.location) {
               const locationName: string = currentScene.location
               // @ts-ignore
               const location: any = locations[locationName]
               if (currentLocation != location)
                 setCurrentLocation(location)
             }
-            if(currentScene && currentScene.allCharacters) {
-              // console.log(currentScene.allCharacters)
+            if (currentScene && currentScene.allCharacters) {
+              const charactersInScene = currentScene.allCharacters
+              const characterList: Character[] = []
+              console.log("Characters in scene: ", charactersInScene)
+              // Loop through the dict
+              for (const characterName of Object.keys(charactersInScene)) {
+                const thisCharacter = charactersInScene[characterName]
+                const characterObject = {
+                  name: characterName,
+                  // @ts-ignore
+                  image: characters[characterName]["characterImageThumb"],
+                  // @ts-ignore
+                  location: locations[thisCharacter.location],
+                  priority: thisCharacter.priority
+                }
+                characterList.push(characterObject)
+              }
+              console.log('list: ', characterList)
+              if (characterList != chars) {
+                setChars(characterList)
+              }
             }
           }
         }
@@ -128,7 +155,7 @@ const Popup = () => {
           })}
         </select>
       </div>
-      <GeoJsonMap currentLocation={currentLocation} />
+      <GeoJsonMap currentLocation={currentLocation} characters={chars}/>
     </div>
   );
 };

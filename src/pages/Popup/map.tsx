@@ -2,14 +2,14 @@ import L, { LatLngExpression, Map } from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import React, { useEffect, useRef } from 'react';
 import { ImageOverlay, MapContainer, Marker, useMapEvents } from 'react-leaflet';
-import { CoordinatesCopier, currentLocationMarker } from './elements';
+import { CoordinatesCopier, currentLocationMarker, Tier1Characters } from './elements';
 // @ts-ignore
 import mapImage from "../../assets/img/mapImage.jpg";
 
 
 const defaultLocation: LatLngExpression = [33.38395654179022, -27.678533609484532]
 
-function GeoJsonMap({ currentLocation }: { currentLocation: LatLngExpression | null }) {
+function GeoJsonMap({ currentLocation, characters }: { currentLocation: LatLngExpression | null, characters: any }) {
   const [levelsToShow, setLevelsToShow] = React.useState<string[]>(["city", "castle", "town", "ruin"]);
   const [center, setCenter] = React.useState<LatLngExpression>(currentLocation ?? defaultLocation);
   const mapRef = useRef<Map>(null);
@@ -22,11 +22,23 @@ function GeoJsonMap({ currentLocation }: { currentLocation: LatLngExpression | n
   })
 
   return (
-    <MapContainer minZoom={2.32} maxZoom={7} maxBoundsViscosity={10000} maxBounds={new L.LatLngBounds([-4.369702166630044, -60.84149843858185], [61.29030647250153, 125.86686650752802])} ref={mapRef} zoomSnap={0.7} attributionControl={false} center={currentLocation ?? defaultLocation} zoom={5} style={{ height: 405, width: '100%', margin: 0, padding: 0, backgroundColor: '#66e1e3' }}>
+    <MapContainer
+      minZoom={2.32}
+      maxZoom={7}
+      maxBoundsViscosity={10000}
+      maxBounds={new L.LatLngBounds([-4.369702166630044, -60.84149843858185], [61.29030647250153, 125.86686650752802])}
+      ref={mapRef}
+      zoomSnap={0.7}
+      attributionControl={false}
+      center={currentLocation ?? defaultLocation}
+      zoom={5}
+      style={{ height: 405, width: '100%', margin: 0, padding: 0, backgroundColor: '#66e1e3' }}
+    >
       {/* <GeoJSON data={geojsonData as any} style={style} /> */}
       {currentLocation && <Marker position={currentLocation} icon={currentLocationMarker} />}
       <ImageOverlay url={mapImage} bounds={[[-20, -66], [72, 130]]} />
       <CoordinatesCopier />
+      <Tier1Characters characters={characters} />
       <ZoomSetter />
     </MapContainer>
   );
