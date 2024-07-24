@@ -1,7 +1,7 @@
 {
-  "name": "maester-navigator",
-  "version": "5.0.4",
-  "description": "Live map browser extension for Game of Thrones and House of Dragons.",
+  "name": "maester",
+  "version": "1.0.0",
+  "description": "Experience Game of Thrones & House of the Dragon like never before with our live map. Track scenes & characters in real-time!",
   "license": "MIT",
   "repository": {
     "type": "git",
