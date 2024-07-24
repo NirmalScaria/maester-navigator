@@ -20,17 +20,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
                 "Robert Baratheon": {
                     "location": "King's Landing",
                     "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Dothraki Camp",
@@ -40,13 +148,57 @@
                     "location": "Dothraki Camp",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Dothraki Camp",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -54,6 +206,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -64,6 +220,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -73,6 +233,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -108,13 +276,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -124,13 +404,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -138,6 +462,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -148,6 +476,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -157,6 +489,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -179,13 +519,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -195,13 +647,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -209,6 +705,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -219,6 +719,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -228,6 +732,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -250,13 +762,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -266,13 +890,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -280,6 +948,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -290,6 +962,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -299,6 +975,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -324,13 +1008,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -340,13 +1136,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -354,6 +1194,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -364,6 +1208,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -373,6 +1221,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -417,13 +1273,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -433,13 +1401,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -447,6 +1459,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -457,6 +1473,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -466,6 +1486,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -492,13 +1520,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -508,13 +1648,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -522,6 +1706,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -532,6 +1720,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -541,6 +1733,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -567,13 +1767,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -583,13 +1895,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -597,6 +1953,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -607,6 +1967,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -616,6 +1980,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -663,13 +2035,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -679,13 +2163,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -693,6 +2221,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -703,6 +2235,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -712,6 +2248,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -750,13 +2294,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -766,13 +2422,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -780,6 +2480,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -790,6 +2494,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -799,6 +2507,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -825,13 +2541,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Eastern Road",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -841,13 +2669,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -855,6 +2727,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -865,6 +2741,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -874,6 +2754,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "Eastern Road",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -915,13 +2803,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "The Eyrie",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -931,13 +2931,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "King's Landing",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "King's Landing",
@@ -945,6 +2989,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -955,6 +3003,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -964,6 +3016,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -997,13 +3057,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "The Eyrie",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -1013,13 +3185,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "The Kingswood",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "The Kingswood",
@@ -1027,6 +3243,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -1037,6 +3257,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -1046,6 +3270,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -1082,13 +3314,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "The Eyrie",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -1098,13 +3442,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "The Kingswood",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "The Kingswood",
@@ -1112,6 +3500,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -1122,6 +3514,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -1131,6 +3527,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -1184,13 +3588,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "The Eyrie",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -1200,13 +3716,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "The Kingswood",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "The Kingswood",
@@ -1214,6 +3774,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -1224,6 +3788,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -1233,6 +3801,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -1266,13 +3842,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
                 },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "The Wolfswood",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "The Eyrie",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
                     "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -1282,13 +3970,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "The Kingswood",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "The Kingswood",
@@ -1296,6 +4028,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -1306,6 +4042,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -1315,6 +4055,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -1345,9 +4093,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "The Eyrie",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -1357,13 +4221,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "The Kingswood",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "The Kingswood",
@@ -1371,6 +4279,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -1381,6 +4293,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -1390,6 +4306,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -1424,9 +4348,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "The Eyrie",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -1436,13 +4476,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "The Kingswood",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "The Kingswood",
@@ -1450,6 +4534,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -1460,6 +4548,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -1469,6 +4561,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
@@ -1521,9 +4621,125 @@
                 }
             ],
             "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                },
+                "Jon Snow": {
+                    "location": "Castle Black",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "The Wolfswood",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "The Eyrie",
+                    "priority": 2
+                },
                 "Rickon Stark": {
                     "location": "Winterfell",
                     "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "The Eyrie",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Tyrion Lannister": {
+                    "location": "The Eyrie",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Daenerys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Vaes Dothrak",
+                    "priority": 2
                 },
                 "Drogon": {
                     "location": "Vaes Dothrak",
@@ -1533,13 +4749,57 @@
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },
+                "Viserion": {
+                    "location": "Vaes Dothrak",
+                    "priority": 3
+                },
+                "Doreah": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Vaes Dothrak",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lord Varys": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
                 "Grand Maester Pycelle": {
                     "location": "King's Landing",
                     "priority": 3
                 },
+                "Renly Baratheon": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Petyr Baelish": {
+                    "location": "King's Landing",
+                    "priority": 2
+                },
+                "Jeor Mormont": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Alliser Thorne": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
                 "Pypar": {
                     "location": "Castle Black",
                     "priority": 4
+                },
+                "Grenn": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Barristan Selmy": {
+                    "location": "The Kingswood",
+                    "priority": 3
                 },
                 "Lancel Lannister": {
                     "location": "The Kingswood",
@@ -1547,6 +4807,10 @@
                 },
                 "Rakharo": {
                     "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Yoren": {
+                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Maester Aemon": {
@@ -1557,6 +4821,10 @@
                     "location": "Winterfell",
                     "priority": 4
                 },
+                "Samwell Tarly": {
+                    "location": "Castle Black",
+                    "priority": 2
+                },
                 "Janos Slynt": {
                     "location": "King's Landing",
                     "priority": 4
@@ -1566,6 +4834,14 @@
                     "priority": 3
                 },
                 "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Bronn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Loras Tyrell": {
                     "location": "King's Landing",
                     "priority": 3
                 },
