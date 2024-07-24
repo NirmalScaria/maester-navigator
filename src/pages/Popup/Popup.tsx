@@ -77,7 +77,7 @@ const Popup = () => {
             const scenes = currentEpisodeData.scenes
             const currentTime = results[0].result.currentTime
             const currentScene = scenes.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
-            if(currentSceneValue == currentScene) {
+            if (currentSceneValue == currentScene) {
               console.log("Same. skipping")
               return;
             }
@@ -129,7 +129,7 @@ const Popup = () => {
 
   return (
     <div className="App">
-      <div className="top-bar">
+      <div className="top-bar custom-select">
         <select
           value={currentSeason}
           onChange={(e) => setSelectedSeason(parseInt(e.target.value))}
@@ -159,8 +159,10 @@ const Popup = () => {
             </option>
           })}
         </select>
+        {currentLocation ? <div className="video-status video-status-playing">Live</div> :
+          <div className="video-status video-status-notfound">No Video</div>}
       </div>
-      <GeoJsonMap currentLocation={currentLocation} characters={chars}/>
+      <GeoJsonMap currentLocation={currentLocation} characters={chars} />
     </div>
   );
 };
