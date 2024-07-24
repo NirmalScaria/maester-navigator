@@ -64,10 +64,6 @@
                     "location": "Eastern Road",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -320,10 +316,6 @@
                     "location": "Eastern Road",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -563,10 +555,6 @@
                     "location": "Eastern Road",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -804,10 +792,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "Eastern Road",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -1050,10 +1034,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "Eastern Road",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -1317,10 +1297,6 @@
                     "location": "Eastern Road",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -1564,10 +1540,6 @@
                     "location": "Eastern Road",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -1809,10 +1781,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "Eastern Road",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -2079,10 +2047,6 @@
                     "location": "Eastern Road",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -2338,10 +2302,6 @@
                     "location": "Eastern Road",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -2583,10 +2543,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "Eastern Road",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -2847,10 +2803,6 @@
                     "location": "The Eyrie",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -3099,10 +3051,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "The Eyrie",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -3356,10 +3304,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "The Eyrie",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -3632,10 +3576,6 @@
                     "location": "The Eyrie",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -3886,10 +3826,6 @@
                     "location": "The Eyrie",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -4135,10 +4071,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "The Eyrie",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -4390,10 +4322,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "The Eyrie",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -4665,10 +4593,6 @@
                     "location": "The Eyrie",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -4722,10 +4646,6 @@
                     "priority": 4
                 },
                 "Daenerys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
                     "location": "Vaes Dothrak",
                     "priority": 1
                 },

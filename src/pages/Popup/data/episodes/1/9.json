@@ -60,10 +60,6 @@
                     "location": "The Neck",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -114,10 +110,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -332,10 +324,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -386,10 +374,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -604,10 +588,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -658,10 +638,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -871,10 +847,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -925,10 +897,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -1150,10 +1118,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -1204,10 +1168,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -1420,10 +1380,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -1474,10 +1430,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -1702,10 +1654,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -1756,10 +1704,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -1966,10 +1910,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -2020,10 +1960,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -2242,10 +2178,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -2296,10 +2228,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -2502,10 +2430,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -2556,10 +2480,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -2769,10 +2689,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -2823,10 +2739,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "Lhazareen Village",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -3044,10 +2956,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -3098,10 +3006,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Desert",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -3314,10 +3218,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -3368,10 +3268,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Desert",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -3598,10 +3494,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -3652,10 +3544,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Desert",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -3894,10 +3782,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -3948,10 +3832,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -4182,10 +4062,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -4236,10 +4112,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -4456,10 +4328,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -4510,10 +4378,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -4727,10 +4591,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -4781,10 +4641,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -5007,10 +4863,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -5061,10 +4913,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -5281,10 +5129,6 @@
                     "location": "The Twins",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -5335,10 +5179,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -5552,10 +5392,6 @@
                     "location": "Riverrun",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -5606,10 +5442,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -5826,10 +5658,6 @@
                     "location": "Riverrun",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -5880,10 +5708,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -6109,10 +5933,6 @@
                     "location": "Riverrun",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -6163,10 +5983,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -6389,10 +6205,6 @@
                     "location": "Riverrun",
                     "priority": 4
                 },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Winterfell",
                     "priority": 4
@@ -6443,10 +6255,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {
@@ -6678,10 +6486,6 @@
                     "location": "Riverrun",
                     "priority": 2
                 },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
-                },
                 "Catelyn Stark": {
                     "location": "Riverrun",
                     "priority": 2
@@ -6704,10 +6508,6 @@
                 },
                 "Rodrik Cassel": {
                     "location": "Riverrun",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
                     "priority": 4
                 },
                 "Summer": {
@@ -6760,10 +6560,6 @@
                 },
                 "Daenerys Targaryen": {
                     "location": "The Red Waste",
-                    "priority": 1
-                },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
                     "priority": 1
                 },
                 "Khal Drogo": {

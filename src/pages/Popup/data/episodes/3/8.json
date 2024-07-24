@@ -15,10 +15,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -30,10 +26,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -55,14 +47,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -78,10 +62,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -111,10 +91,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -135,10 +111,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -154,10 +126,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -178,10 +146,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -222,10 +186,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -410,10 +370,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -425,10 +381,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -450,14 +402,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -473,10 +417,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -506,10 +446,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -530,10 +466,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -549,10 +481,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -573,10 +501,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -617,10 +541,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -798,10 +718,6 @@
             "end": "0:04:50",
             "characters": [],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -813,10 +729,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -838,14 +750,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -861,10 +765,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -894,10 +794,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -918,10 +814,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -937,10 +829,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -961,10 +849,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -1005,10 +889,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -1200,10 +1080,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -1215,10 +1091,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -1240,14 +1112,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -1263,10 +1127,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -1296,10 +1156,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -1320,10 +1176,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -1339,10 +1191,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -1363,10 +1211,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -1407,10 +1251,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -1614,10 +1454,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -1629,10 +1465,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -1654,14 +1486,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -1677,10 +1501,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -1710,10 +1530,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -1734,10 +1550,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -1753,10 +1565,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -1777,10 +1585,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -1821,10 +1625,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -2023,10 +1823,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -2038,10 +1834,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -2063,14 +1855,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -2086,10 +1870,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -2119,10 +1899,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -2143,10 +1919,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -2162,10 +1934,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -2186,10 +1954,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -2230,10 +1994,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -2422,10 +2182,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -2437,10 +2193,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -2462,14 +2214,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -2485,10 +2229,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -2518,10 +2258,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -2542,10 +2278,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -2561,10 +2293,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -2585,10 +2313,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -2629,10 +2353,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -2825,10 +2545,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -2840,10 +2556,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -2865,14 +2577,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -2888,10 +2592,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -2921,10 +2621,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -2945,10 +2641,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -2964,10 +2656,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -2988,10 +2676,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -3032,10 +2716,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -3225,10 +2905,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -3240,10 +2916,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -3265,14 +2937,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -3288,10 +2952,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -3321,10 +2981,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -3345,10 +3001,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -3364,10 +3016,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -3388,10 +3036,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -3432,10 +3076,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -3622,10 +3262,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -3637,10 +3273,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -3662,14 +3294,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -3685,10 +3309,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -3718,10 +3338,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -3742,10 +3358,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -3761,10 +3373,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -3785,10 +3393,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -3829,10 +3433,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -4023,10 +3623,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -4038,10 +3634,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -4063,14 +3655,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -4086,10 +3670,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -4119,10 +3699,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -4143,10 +3719,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -4162,10 +3734,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -4186,10 +3754,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -4230,10 +3794,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -4415,10 +3975,6 @@
             "end": "0:15:54",
             "characters": [],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -4430,10 +3986,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -4455,14 +4007,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -4478,10 +4022,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -4511,10 +4051,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -4535,10 +4071,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -4554,10 +4086,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -4578,10 +4106,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -4622,10 +4146,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -4820,10 +4340,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -4835,10 +4351,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -4860,14 +4372,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -4883,10 +4387,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -4916,10 +4416,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -4940,10 +4436,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -4959,10 +4451,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -4983,10 +4471,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -5027,10 +4511,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -5225,10 +4705,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -5240,10 +4716,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -5265,14 +4737,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -5288,10 +4752,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -5321,10 +4781,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -5345,10 +4801,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -5364,10 +4816,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -5388,10 +4836,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -5432,10 +4876,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -5624,10 +5064,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -5639,10 +5075,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -5664,14 +5096,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -5687,10 +5111,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -5720,10 +5140,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -5744,10 +5160,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -5763,10 +5175,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -5787,10 +5195,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -5831,10 +5235,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -6016,10 +5416,6 @@
             "end": "0:20:27",
             "characters": [],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -6031,10 +5427,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -6056,14 +5448,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -6079,10 +5463,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -6112,10 +5492,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -6136,10 +5512,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -6155,10 +5527,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -6179,10 +5547,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -6223,10 +5587,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -6418,10 +5778,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -6433,10 +5789,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -6458,14 +5810,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -6481,10 +5825,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -6514,10 +5854,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -6538,10 +5874,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -6557,10 +5889,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -6581,10 +5909,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -6625,10 +5949,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -6817,10 +6137,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -6832,10 +6148,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -6857,14 +6169,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -6880,10 +6184,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -6913,10 +6213,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -6937,10 +6233,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -6956,10 +6248,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -6980,10 +6268,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -7024,10 +6308,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -7260,10 +6540,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -7275,10 +6551,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -7300,14 +6572,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -7323,10 +6587,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -7356,10 +6616,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -7380,10 +6636,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -7399,10 +6651,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -7423,10 +6671,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -7467,10 +6711,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -7673,10 +6913,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -7688,10 +6924,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -7713,14 +6945,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -7736,10 +6960,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -7769,10 +6989,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -7793,10 +7009,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -7812,10 +7024,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -7836,10 +7044,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -7880,10 +7084,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -8080,10 +7280,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -8095,10 +7291,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -8120,14 +7312,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -8143,10 +7327,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -8176,10 +7356,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -8200,10 +7376,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -8219,10 +7391,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -8243,10 +7411,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -8287,10 +7451,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -8487,10 +7647,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -8502,10 +7658,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -8527,14 +7679,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -8550,10 +7694,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -8583,10 +7723,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -8607,10 +7743,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -8626,10 +7758,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -8650,10 +7778,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -8694,10 +7818,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -8886,10 +8006,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -8901,10 +8017,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -8926,14 +8038,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -8949,10 +8053,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -8982,10 +8082,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -9006,10 +8102,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -9025,10 +8117,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -9049,10 +8137,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -9093,10 +8177,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -9305,10 +8385,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -9320,10 +8396,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -9345,14 +8417,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -9368,10 +8432,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -9401,10 +8461,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -9425,10 +8481,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -9444,10 +8496,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -9468,10 +8516,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -9512,10 +8556,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -9718,10 +8758,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -9733,10 +8769,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -9758,14 +8790,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -9781,10 +8805,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -9814,10 +8834,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -9838,10 +8854,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -9857,10 +8869,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -9881,10 +8889,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -9925,10 +8929,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -10121,10 +9121,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -10136,10 +9132,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -10161,14 +9153,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -10184,10 +9168,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -10217,10 +9197,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -10241,10 +9217,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -10260,10 +9232,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -10284,10 +9252,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -10328,10 +9292,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -10517,10 +9477,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -10532,10 +9488,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -10557,14 +9509,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -10580,10 +9524,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -10613,10 +9553,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -10637,10 +9573,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -10656,10 +9588,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -10680,10 +9608,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -10724,10 +9648,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -10922,10 +9842,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -10937,10 +9853,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -10962,14 +9874,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -10985,10 +9889,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -11018,10 +9918,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -11042,10 +9938,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -11061,10 +9953,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -11085,10 +9973,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -11129,10 +10013,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -11322,10 +10202,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -11337,10 +10213,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -11362,14 +10234,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -11385,10 +10249,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -11418,10 +10278,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -11442,10 +10298,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -11461,10 +10313,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -11485,10 +10333,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -11529,10 +10373,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -11731,10 +10571,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -11746,10 +10582,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -11771,14 +10603,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -11794,10 +10618,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -11827,10 +10647,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -11851,10 +10667,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -11870,10 +10682,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -11894,10 +10702,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -11938,10 +10742,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -12130,10 +10930,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -12145,10 +10941,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -12170,14 +10962,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -12193,10 +10977,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -12226,10 +11006,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -12250,10 +11026,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -12269,10 +11041,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -12293,10 +11061,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -12337,10 +11101,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -12529,10 +11289,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -12544,10 +11300,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -12569,14 +11321,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -12592,10 +11336,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -12625,10 +11365,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -12649,10 +11385,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -12668,10 +11400,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -12692,10 +11420,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -12736,10 +11460,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -12925,10 +11645,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -12940,10 +11656,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -12965,14 +11677,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -12988,10 +11692,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -13021,10 +11721,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -13045,10 +11741,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -13064,10 +11756,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -13088,10 +11776,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -13132,10 +11816,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -13328,10 +12008,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -13343,10 +12019,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -13368,14 +12040,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -13391,10 +12055,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -13424,10 +12084,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -13448,10 +12104,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -13467,10 +12119,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -13491,10 +12139,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -13535,10 +12179,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -13728,10 +12368,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -13743,10 +12379,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -13768,14 +12400,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -13791,10 +12415,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -13824,10 +12444,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -13848,10 +12464,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -13867,10 +12479,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -13891,10 +12499,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -13935,10 +12539,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -14138,10 +12738,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -14153,10 +12749,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -14178,14 +12770,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -14201,10 +12785,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -14234,10 +12814,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -14258,10 +12834,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -14277,10 +12849,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -14301,10 +12869,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -14345,10 +12909,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -14540,10 +13100,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -14555,10 +13111,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -14580,14 +13132,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -14603,10 +13147,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -14636,10 +13176,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -14660,10 +13196,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -14679,10 +13211,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -14703,10 +13231,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -14747,10 +13271,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -14939,10 +13459,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -14954,10 +13470,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -14979,14 +13491,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -15002,10 +13506,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -15035,10 +13535,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -15059,10 +13555,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -15078,10 +13570,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -15102,10 +13590,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -15146,10 +13630,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -15331,10 +13811,6 @@
             "end": "0:43:05",
             "characters": [],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -15346,10 +13822,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -15371,14 +13843,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -15394,10 +13858,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -15427,10 +13887,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -15451,10 +13907,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -15470,10 +13922,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -15494,10 +13942,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -15538,10 +13982,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -15727,10 +14167,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -15742,10 +14178,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -15767,14 +14199,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -15790,10 +14214,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -15823,10 +14243,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -15847,10 +14263,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -15866,10 +14278,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -15890,10 +14298,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -15934,10 +14338,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -16127,10 +14527,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -16142,10 +14538,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -16167,14 +14559,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -16190,10 +14574,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -16223,10 +14603,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -16247,10 +14623,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -16266,10 +14638,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -16290,10 +14658,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -16334,10 +14698,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -16530,10 +14890,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -16545,10 +14901,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -16570,14 +14922,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -16593,10 +14937,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -16626,10 +14966,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -16650,10 +14986,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -16669,10 +15001,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -16693,10 +15021,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -16737,10 +15061,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -16949,10 +15269,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -16964,10 +15280,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -16989,14 +15301,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -17012,10 +15316,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -17045,10 +15345,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -17069,10 +15365,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -17088,10 +15380,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -17112,10 +15400,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -17156,10 +15440,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -17352,10 +15632,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -17367,10 +15643,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -17392,14 +15664,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -17415,10 +15679,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -17448,10 +15708,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -17472,10 +15728,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -17491,10 +15743,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -17515,10 +15763,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -17559,10 +15803,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -17754,10 +15994,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -17769,10 +16005,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -17794,14 +16026,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -17817,10 +16041,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -17850,10 +16070,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -17874,10 +16090,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -17893,10 +16105,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -17917,10 +16125,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -17961,10 +16165,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -18162,10 +16362,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -18177,10 +16373,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -18202,14 +16394,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -18225,10 +16409,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -18258,10 +16438,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -18282,10 +16458,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -18301,10 +16473,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -18325,10 +16493,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -18369,10 +16533,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -18564,10 +16724,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -18579,10 +16735,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -18604,14 +16756,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -18627,10 +16771,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -18660,10 +16800,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -18684,10 +16820,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -18703,10 +16835,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -18727,10 +16855,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -18771,10 +16895,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -18972,10 +17092,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Fist of the First Men",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -18987,10 +17103,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -19012,14 +17124,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -19035,10 +17139,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -19068,10 +17168,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -19092,10 +17188,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -19111,10 +17203,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -19135,10 +17223,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -19179,10 +17263,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -19388,10 +17468,6 @@
                 }
             ],
             "allCharacters": {
-                "White Walker": {
-                    "location": "Destroyed Cabin",
-                    "priority": 2
-                },
                 "Jon Snow": {
                     "location": "The Gift",
                     "priority": 1
@@ -19403,10 +17479,6 @@
                 "Robb Stark": {
                     "location": "Camp of the North",
                     "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
                 },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
@@ -19428,14 +17500,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -19451,10 +17515,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -19484,10 +17544,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -19508,10 +17564,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -19527,10 +17579,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -19551,10 +17599,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -19595,10 +17639,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -19808,10 +17848,6 @@
                     "location": "Camp of the North",
                     "priority": 2
                 },
-                "Eddard Stark": {
-                    "location": "King's Landing",
-                    "priority": 1
-                },
                 "Catelyn Stark": {
                     "location": "Camp of the North",
                     "priority": 2
@@ -19832,14 +17868,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "North to the Wall",
                     "priority": 4
@@ -19855,10 +17883,6 @@
                 "Jaime Lannister": {
                     "location": "Harrenhal",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
                 },
                 "Joffrey Baratheon": {
                     "location": "King's Landing",
@@ -19888,10 +17912,6 @@
                     "location": "Yunkai",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -19912,10 +17932,6 @@
                     "location": "Yunkai",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
                 "Rast": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -19931,10 +17947,6 @@
                 "Petyr Baelish": {
                     "location": "King's Landing",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -19955,10 +17967,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -19999,10 +18007,6 @@
                 "Osha": {
                     "location": "North to the Wall",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
