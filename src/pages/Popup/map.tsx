@@ -35,10 +35,10 @@ function GeoJsonMap({ currentLocation, characters }: { currentLocation: LatLngEx
       style={{ height: 405, width: '100%', margin: 0, padding: 0, backgroundColor: '#66e1e3' }}
     >
       {/* <GeoJSON data={geojsonData as any} style={style} /> */}
+      <Tier1Characters characters={characters} />
       {currentLocation && <Marker position={currentLocation} icon={currentLocationMarker} />}
       <ImageOverlay url={mapImage} bounds={[[-20, -66], [72, 130]]} />
       <CoordinatesCopier />
-      <Tier1Characters characters={characters} />
       <ZoomSetter />
     </MapContainer>
   );

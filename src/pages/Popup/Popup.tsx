@@ -100,7 +100,7 @@ const Popup = () => {
                 characterList.push(characterObject)
               }
               console.log('list: ', characterList)
-              if (characterList != chars) {
+              if (chars != characterList) {
                 setChars(characterList)
               }
             }
