@@ -1,0 +1,2338 @@
+{
+    "title": "Winter Is Coming",
+    "link": "/title/tt1480055/",
+    "scenes": [
+        {
+            "location": "Castle Black",
+            "start": "0:00:40",
+            "end": "0:01:45",
+            "characters": [
+                {
+                    "name": "Gared"
+                },
+                {
+                    "name": "Waymar Royce"
+                },
+                {
+                    "name": "Will"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:01:45",
+            "end": "0:03:24",
+            "characters": [
+                {
+                    "name": "Gared"
+                },
+                {
+                    "name": "Waymar Royce"
+                },
+                {
+                    "name": "Will"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:03:24",
+            "end": "0:03:31",
+            "characters": [
+                {
+                    "name": "Will"
+                },
+                {
+                    "name": "Wight Wildling Girl",
+                    "alive": false
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:03:31",
+            "end": "0:03:38",
+            "characters": [
+                {
+                    "name": "Will"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:03:38",
+            "end": "0:03:44",
+            "characters": [],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:03:44",
+            "end": "0:05:36",
+            "characters": [
+                {
+                    "name": "Gared"
+                },
+                {
+                    "name": "Waymar Royce"
+                },
+                {
+                    "name": "Will"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:05:36",
+            "end": "0:05:41",
+            "characters": [
+                {
+                    "name": "Will"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:05:41",
+            "end": "0:05:48",
+            "characters": [
+                {
+                    "name": "Gared"
+                },
+                {
+                    "name": "Waymar Royce"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:05:48",
+            "end": "0:05:58",
+            "characters": [
+                {
+                    "name": "Will"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:05:58",
+            "end": "0:06:21",
+            "characters": [
+                {
+                    "name": "Gared"
+                },
+                {
+                    "name": "Waymar Royce",
+                    "alive": false,
+                    "mannerOfDeath": "Back stab",
+                    "killedBy": [
+                        "White Walker"
+                    ]
+                },
+                {
+                    "name": "White Walker"
+                }
+            ],
+            "allCharacters": {
+                "White Walker": {
+                    "location": "The Haunted Forest",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:06:21",
+            "end": "0:06:39",
+            "characters": [
+                {
+                    "name": "Will"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:06:39",
+            "end": "0:06:49",
+            "characters": [
+                {
+                    "name": "Will"
+                },
+                {
+                    "name": "Wight Wildling Girl"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:06:49",
+            "end": "0:07:45",
+            "characters": [
+                {
+                    "name": "Will"
+                },
+                {
+                    "name": "Gared",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "White Walker"
+                    ]
+                },
+                {
+                    "name": "White Walker"
+                }
+            ],
+            "allCharacters": {}
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:09:27",
+            "end": "0:12:38",
+            "characters": [
+                {
+                    "name": "Will"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Rickon Stark"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Rodrik Cassel"
+                },
+                {
+                    "name": "Septa Mordane"
+                }
+            ],
+            "allCharacters": {
+                "Jon Snow": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:12:38",
+            "end": "0:15:41",
+            "characters": [
+                {
+                    "name": "Will",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "Eddard Stark"
+                    ]
+                },
+                {
+                    "name": "Eddard Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                },
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Rodrik Cassel"
+                },
+                {
+                    "name": "Jory Cassel"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Jon Snow": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:15:41",
+            "end": "0:18:44",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Eddard Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Rodrik Cassel"
+                },
+                {
+                    "name": "Jory Cassel"
+                },
+                {
+                    "name": "Grey Wind"
+                },
+                {
+                    "name": "Lady"
+                },
+                {
+                    "name": "Nymeria"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Shaggydog"
+                },
+                {
+                    "name": "Ghost"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Ghost": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:44",
+            "end": "0:20:45",
+            "characters": [
+                {
+                    "name": "Jon Arryn",
+                    "alive": false,
+                    "title": "Hand",
+                    "mannerOfDeath": "Poison",
+                    "killedBy": [
+                        "Lysa Arryn"
+                    ]
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Jaime Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:20:45",
+            "end": "0:22:43",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Eddard Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Eddard Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:22:43",
+            "end": "0:23:09",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Maester Luwin"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Maester Luwin": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:23:09",
+            "end": "0:23:39",
+            "characters": [
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "King's Landing",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:23:39",
+            "end": "0:29:16",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Maester Luwin"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lion's Tooth"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Rickon Stark"
+                },
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Jory Cassel"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Rodrik Cassel"
+                },
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Myrcella Baratheon"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tommen Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:29:16",
+            "end": "0:30:47",
+            "characters": [
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Eddard Stark"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:30:47",
+            "end": "0:32:57",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "sex": {
+                        "with": [
+                            "Ros"
+                        ],
+                        "type": "paid",
+                        "when": "present"
+                    }
+                },
+                {
+                    "name": "Ros",
+                    "sex": {
+                        "with": [
+                            "Tyrion Lannister"
+                        ],
+                        "type": "paid",
+                        "when": "present"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tyrion Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Ros": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:32:57",
+            "end": "0:33:45",
+            "characters": [
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Eddard Stark"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tyrion Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Pentos",
+            "start": "0:33:45",
+            "end": "0:36:17",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen"
+                },
+                {
+                    "name": "Viserys Targaryen"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tyrion Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Daenerys Targaryen": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Viserys Targaryen": {
+                    "location": "Pentos",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Pentos",
+            "start": "0:36:17",
+            "end": "0:38:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen"
+                },
+                {
+                    "name": "Viserys Targaryen"
+                },
+                {
+                    "name": "Illyrio Mopatis"
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal"
+                },
+                {
+                    "name": "Qotho"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tyrion Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Daenerys Targaryen": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Pentos",
+            "start": "0:38:23",
+            "end": "0:40:05",
+            "characters": [
+                {
+                    "name": "Viserys Targaryen"
+                },
+                {
+                    "name": "Illyrio Mopatis"
+                },
+                {
+                    "name": "Daenerys Targaryen"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tyrion Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Daenerys Targaryen": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:40:05",
+            "end": "0:40:56",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sansa Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tyrion Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:40:56",
+            "end": "0:41:19",
+            "characters": [
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Rodrik Cassel"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Rodrik Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tyrion Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:41:19",
+            "end": "0:44:14",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Benjen Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Tyrion Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:44:14",
+            "end": "0:47:28",
+            "characters": [
+                {
+                    "name": "Rodrik Cassel"
+                },
+                {
+                    "name": "Benjen Stark"
+                },
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Joffrey Baratheon"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Theon Greyjoy": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:47:28",
+            "end": "0:50:29",
+            "characters": [
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Maester Luwin"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Pentos",
+            "start": "0:50:29",
+            "end": "0:56:05",
+            "characters": [
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal",
+                    "married": {
+                        "to": "Daenerys Targaryen",
+                        "when": "present",
+                        "type": "arranged",
+                        "consummated": true
+                    }
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi",
+                    "married": {
+                        "to": "Khal Drogo",
+                        "when": "present",
+                        "type": "arranged",
+                        "consummated": true
+                    }
+                },
+                {
+                    "name": "Viserys Targaryen"
+                },
+                {
+                    "name": "Illyrio Mopatis"
+                },
+                {
+                    "name": "Qotho"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Drogon",
+                    "born": false
+                },
+                {
+                    "name": "Rhaegal",
+                    "born": false
+                },
+                {
+                    "name": "Viserion",
+                    "born": false
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Pentos",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Viserion": {
+                    "location": "Pentos",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Pentos",
+            "start": "0:56:05",
+            "end": "0:57:48",
+            "characters": [
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal",
+                    "sex": {
+                        "with": [
+                            "Daenerys Targaryen"
+                        ],
+                        "when": "present",
+                        "type": "rape"
+                    }
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi",
+                    "sex": {
+                        "with": [
+                            "Khal Drogo"
+                        ],
+                        "when": "present",
+                        "type": "rape"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Pentos",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:57:48",
+            "end": "0:59:06",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Benjen Stark"
+                },
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Summer": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Pentos",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:59:06",
+            "end": "1:00:57",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "sex": {
+                        "with": [
+                            "Cersei Lannister"
+                        ],
+                        "when": "present",
+                        "type": "love"
+                    }
+                },
+                {
+                    "name": "Cersei Lannister",
+                    "sex": {
+                        "with": [
+                            "Jaime Lannister"
+                        ],
+                        "when": "present",
+                        "type": "love"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Cersei Lannister": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "Pentos",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                }
+            }
+        }
+    ]
+}

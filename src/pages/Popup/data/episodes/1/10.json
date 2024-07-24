@@ -1,0 +1,1696 @@
+{
+    "title": "Fire and Blood",
+    "link": "/title/tt1851397/",
+    "scenes": [
+        {
+            "location": "King's Landing",
+            "start": "0:02:17",
+            "end": "0:03:03",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Ilyn Payne",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eddard Stark",
+                    "alive": false
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Yoren"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:03:03",
+            "end": "0:03:25",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Yoren"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:03:25",
+            "end": "0:03:53",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Three-Eyed Raven"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:03:53",
+            "end": "0:04:24",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Hodor"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:04:24",
+            "end": "0:05:40",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Shaggydog"
+                },
+                {
+                    "name": "Rickon Stark"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:05:40",
+            "end": "0:06:07",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Maester Luwin"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:06:07",
+            "end": "0:08:07",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Robb Stark"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:08:07",
+            "end": "0:10:52",
+            "characters": [
+                {
+                    "name": "Marillion"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Ilyn Payne",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:10:52",
+            "end": "0:13:32",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Eddard Stark",
+                    "alive": false
+                },
+                {
+                    "name": "Septa Mordane",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:13:32",
+            "end": "0:15:48",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Rodrik Cassel"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Greatjon Umber"
+                },
+                {
+                    "name": "Rickard Karstark"
+                },
+                {
+                    "name": "Jonos Bracken"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:15:48",
+            "end": "0:18:51",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:51",
+            "end": "0:19:23",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "sex": {
+                        "with": [
+                            "Lancel Lannister"
+                        ],
+                        "when": "past",
+                        "type": "incest"
+                    }
+                },
+                {
+                    "name": "Lancel Lannister",
+                    "sex": {
+                        "with": [
+                            "Cersei Lannister"
+                        ],
+                        "when": "past",
+                        "type": "incest"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Lannister Camp",
+            "start": "0:19:23",
+            "end": "0:20:39",
+            "characters": [
+                {
+                    "name": "Tywin Lannister"
+                },
+                {
+                    "name": "Kevan Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Leo Lefford"
+                },
+                {
+                    "name": "Addam Marbrand"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Lannister Camp",
+            "start": "0:20:39",
+            "end": "0:22:37",
+            "characters": [
+                {
+                    "name": "Tywin Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Red Waste",
+            "start": "0:22:37",
+            "end": "0:24:30",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Rhaego",
+                    "alive": false,
+                    "mannerOfDeath": "Malformed Birth"
+                },
+                {
+                    "name": "Mirri Maz Duur"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Red Waste",
+            "start": "0:24:30",
+            "end": "0:26:07",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Mirri Maz Duur"
+                },
+                {
+                    "name": "Rakharo"
+                },
+                {
+                    "name": "Irri"
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Red Waste",
+            "start": "0:26:07",
+            "end": "0:27:31",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Mirri Maz Duur"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:27:31",
+            "end": "0:28:28",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Ghost"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Lannister Camp",
+            "start": "0:28:28",
+            "end": "0:29:52",
+            "characters": [
+                {
+                    "name": "Shae",
+                    "sex": {
+                        "with": [
+                            "Tyrion Lannister"
+                        ],
+                        "when": "future",
+                        "type": "paid"
+                    }
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "sex": {
+                        "with": [
+                            "Shae"
+                        ],
+                        "when": "future",
+                        "type": "paid"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:29:52",
+            "end": "0:31:55",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ghost"
+                },
+                {
+                    "name": "Pypar"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Grenn"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Red Waste",
+            "start": "0:31:55",
+            "end": "0:33:02",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Red Waste",
+            "start": "0:33:02",
+            "end": "0:34:28",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal",
+                    "alive": false,
+                    "mannerOfDeath": "Suffocation",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:28",
+            "end": "0:37:33",
+            "characters": [
+                {
+                    "name": "Grand Maester Pycelle",
+                    "sex": {
+                        "with": [
+                            "Ros"
+                        ],
+                        "when": "past",
+                        "type": "paid"
+                    }
+                },
+                {
+                    "name": "Ros",
+                    "sex": {
+                        "with": [
+                            "Grand Maester Pycelle"
+                        ],
+                        "when": "past",
+                        "type": "paid"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:33",
+            "end": "0:37:52",
+            "characters": [
+                {
+                    "name": "Grand Maester Pycelle"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:52",
+            "end": "0:39:58",
+            "characters": [
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:58",
+            "end": "0:40:38",
+            "characters": [
+                {
+                    "name": "Yoren"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:38",
+            "end": "0:40:48",
+            "characters": [
+                {
+                    "name": "Yoren"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:48",
+            "end": "0:43:03",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Lommy Greenhands"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Yoren"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:43:03",
+            "end": "0:45:00",
+            "characters": [
+                {
+                    "name": "Jeor Mormont"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:45:00",
+            "end": "0:45:46",
+            "characters": [
+                {
+                    "name": "Jeor Mormont"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Red Waste",
+            "start": "0:45:46",
+            "end": "0:50:09",
+            "characters": [
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal",
+                    "alive": false
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Rakharo"
+                },
+                {
+                    "name": "Drogon",
+                    "born": false
+                },
+                {
+                    "name": "Rhaegal",
+                    "born": false
+                },
+                {
+                    "name": "Viserion",
+                    "born": false
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Mirri Maz Duur",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Red Waste",
+            "start": "0:50:09",
+            "end": "0:51:57",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Rakharo"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Rhaegal"
+                },
+                {
+                    "name": "Viserion"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

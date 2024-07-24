@@ -1,0 +1,1295 @@
+{
+    "title": "Valar Dohaeris",
+    "link": "/title/tt2178782/",
+    "scenes": [
+        {
+            "location": "Fist of the First Men",
+            "start": "0:00:06",
+            "end": "0:00:17",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:00:17",
+            "end": "0:01:03",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:01:03",
+            "end": "0:01:28",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Man of the Nightswatch",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "White Walker"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:01:28",
+            "end": "0:01:50",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "White Walker"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:01:50",
+            "end": "0:02:06",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "White Walker"
+                },
+                {
+                    "name": "Ghost"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:02:06",
+            "end": "0:02:19",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "White Walker",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Jeor Mormont"
+                    ]
+                },
+                {
+                    "name": "Ghost"
+                },
+                {
+                    "name": "Jeor Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:02:19",
+            "end": "0:03:17",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "White Walker",
+                    "alive": false
+                },
+                {
+                    "name": "Jeor Mormont"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Rast"
+                },
+                {
+                    "name": "Ghost"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:05:05",
+            "end": "0:05:39",
+            "characters": [
+                {
+                    "name": "Rattleshirt",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:05:39",
+            "end": "0:05:47",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:05:47",
+            "end": "0:06:40",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Dongo the Giant"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:06:40",
+            "end": "0:07:40",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Rattleshirt",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:07:40",
+            "end": "0:09:37",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Rattleshirt",
+                    "weapon": [
+                        {
+                            "action": "gives",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte",
+                    "weapon": [
+                        {
+                            "action": "receives",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Mance Rayder",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Mance Rayder": {
+                    "location": "Frostfang Mountains",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:09:37",
+            "end": "0:12:28",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Mance Rayder",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:28",
+            "end": "0:12:34",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:34",
+            "end": "0:13:16",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Mirelle"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:13:16",
+            "end": "0:13:36",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Mirelle"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:13:36",
+            "end": "0:17:04",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:17:04",
+            "end": "0:17:57",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:17:57",
+            "end": "0:18:00",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:00",
+            "end": "0:18:51",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:18:51",
+            "end": "0:19:58",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:19:58",
+            "end": "0:20:39",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Boat Commander"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:20:39",
+            "end": "0:23:32",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Salladhor Saan"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:23:32",
+            "end": "0:24:07",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Roose Bolton"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:24:07",
+            "end": "0:24:37",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:24:37",
+            "end": "0:25:00",
+            "characters": [
+                {
+                    "name": "Roose Bolton"
+                },
+                {
+                    "name": "Rickard Karstark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:25:00",
+            "end": "0:26:45",
+            "characters": [
+                {
+                    "name": "Roose Bolton"
+                },
+                {
+                    "name": "Rickard Karstark"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Qyburn"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Qyburn": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:26:45",
+            "end": "0:31:42",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:42",
+            "end": "0:32:45",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:45",
+            "end": "0:33:19",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Ros"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:19",
+            "end": "0:34:13",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:13",
+            "end": "0:35:23",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Ros"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "The Summer Sea",
+            "start": "0:35:23",
+            "end": "0:35:48",
+            "characters": [
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "The Summer Sea",
+            "start": "0:35:48",
+            "end": "0:36:13",
+            "characters": [
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "The Summer Sea",
+            "start": "0:36:13",
+            "end": "0:37:12",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:37:12",
+            "end": "0:37:31",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:37:31",
+            "end": "0:40:13",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:13",
+            "end": "0:40:26",
+            "characters": [
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:26",
+            "end": "0:40:30",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:30",
+            "end": "0:40:45",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:45",
+            "end": "0:41:15",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Margaery's Handmaiden"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:41:15",
+            "end": "0:41:30",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Margaery's Handmaiden"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:41:30",
+            "end": "0:41:39",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:41:39",
+            "end": "0:42:56",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Margaery's Handmaiden"
+                },
+                {
+                    "name": "Orphan Kid"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:42:56",
+            "end": "0:43:18",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:18",
+            "end": "0:45:50",
+            "characters": [
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Slaver's Bay",
+            "start": "0:45:50",
+            "end": "0:46:04",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:46:04",
+            "end": "0:50:09",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Kraznys mo Nakloz"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Unsullied"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:50:09",
+            "end": "0:51:57",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Warlock"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:51:57",
+            "end": "0:53:06",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        }
+    ]
+}

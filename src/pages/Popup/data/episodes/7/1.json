@@ -1,0 +1,1058 @@
+{
+    "title": "Dragonstone",
+    "link": "/title/tt5654088/",
+    "scenes": [
+        {
+            "location": "The Twins",
+            "start": "0:03:54",
+            "end": "0:04:20",
+            "characters": [
+                {
+                    "name": "Walder Frey"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Twins",
+            "start": "0:04:20",
+            "end": "0:07:04",
+            "characters": [
+                {
+                    "name": "Walder Frey"
+                },
+                {
+                    "name": "Kitty Frey"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Twins",
+            "start": "0:07:04",
+            "end": "0:07:46",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Kitty Frey"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "South to the Wall",
+            "start": "0:09:33",
+            "end": "0:11:19",
+            "characters": [
+                {
+                    "name": "The Night King",
+                    "title": "King"
+                },
+                {
+                    "name": "White Walker"
+                },
+                {
+                    "name": "Wun Wun Wight"
+                },
+                {
+                    "name": "Mag the Mighty Wight"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:11:19",
+            "end": "0:11:33",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:11:33",
+            "end": "0:12:48",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Eddison Tollett"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:12:48",
+            "end": "0:13:00",
+            "characters": [
+                {
+                    "name": "Eddison Tollett"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:13:00",
+            "end": "0:16:37",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Robett Glover"
+                },
+                {
+                    "name": "Yohn Royce"
+                },
+                {
+                    "name": "Lyanna Mormont"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Alys Karstark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:16:37",
+            "end": "0:18:00",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Robett Glover"
+                },
+                {
+                    "name": "Yohn Royce"
+                },
+                {
+                    "name": "Lyanna Mormont"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Alys Karstark"
+                },
+                {
+                    "name": "Ned Umber"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:18:00",
+            "end": "0:18:08",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:18:08",
+            "end": "0:19:37",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:19:37",
+            "end": "0:19:49",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Maester Wolkan"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:19:49",
+            "end": "0:20:50",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:20:50",
+            "end": "0:21:03",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:21:03",
+            "end": "0:24:59",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:24:59",
+            "end": "0:25:35",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:35",
+            "end": "0:26:28",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:26:28",
+            "end": "0:30:25",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Euron Greyjoy",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:30:25",
+            "end": "0:33:19",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:33:19",
+            "end": "0:36:38",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Archmaester Ebrose"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:36:38",
+            "end": "0:37:18",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:37:18",
+            "end": "0:37:54",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:37:54",
+            "end": "0:38:18",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:38:18",
+            "end": "0:38:23",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:38:23",
+            "end": "0:38:38",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:38:38",
+            "end": "0:39:27",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "South to King's Landing",
+            "start": "0:39:27",
+            "end": "0:43:36",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:43:36",
+            "end": "0:44:41",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:44:41",
+            "end": "0:45:09",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Thoros of Myr"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:45:09",
+            "end": "0:46:26",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                },
+                {
+                    "name": "Farmer Hamlet",
+                    "alive": false
+                },
+                {
+                    "name": "Farmer's Daughter",
+                    "alive": false
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:46:26",
+            "end": "0:50:26",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:50:26",
+            "end": "0:52:51",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Thoros of Myr"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:52:51",
+            "end": "0:53:04",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:53:04",
+            "end": "0:54:24",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:54:24",
+            "end": "0:55:30",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:55:30",
+            "end": "0:56:20",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Rhaegal"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:56:20",
+            "end": "0:58:36",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:58:36",
+            "end": "0:59:25",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:59:25",
+            "end": "1:00:04",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "1:00:04",
+            "end": "1:01:04",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        }
+    ]
+}

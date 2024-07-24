@@ -1,0 +1,1731 @@
+{
+    "title": "Breaker of Chains",
+    "link": "/title/tt2972426/",
+    "scenes": [
+        {
+            "location": "King's Landing",
+            "start": "0:01:55",
+            "end": "0:02:07",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Dontos Hollard"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:02:07",
+            "end": "0:02:13",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:02:13",
+            "end": "0:02:16",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Dontos Hollard"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:02:16",
+            "end": "0:02:21",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:02:21",
+            "end": "0:02:25",
+            "characters": [],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:02:25",
+            "end": "0:03:07",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Dontos Hollard"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:03:07",
+            "end": "0:03:59",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Dontos Hollard"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:03:59",
+            "end": "0:04:40",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Dontos Hollard",
+                    "alive": false,
+                    "mannerOfDeath": "Arrow",
+                    "killedBy": [
+                        "Petyr Baelish"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:04:40",
+            "end": "0:05:04",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:05:04",
+            "end": "0:06:03",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Dontos Hollard",
+                    "alive": false
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:06:03",
+            "end": "0:06:15",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:06:15",
+            "end": "0:07:54",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:07:54",
+            "end": "0:09:38",
+            "characters": [
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false,
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:09:38",
+            "end": "0:09:43",
+            "characters": [
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false,
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "High Septon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:09:43",
+            "end": "0:11:55",
+            "characters": [
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false,
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:11:45",
+            "end": "0:12:14",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false,
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "High Septon"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:14",
+            "end": "0:12:25",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false,
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "High Septon"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:25",
+            "end": "0:15:31",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "sex": {
+                        "with": [
+                            "Jaime Lannister"
+                        ],
+                        "when": "present",
+                        "type": "rape"
+                    }
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false,
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "sex": {
+                        "with": [
+                            "Cersei Lannister"
+                        ],
+                        "when": "present",
+                        "type": "rape"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:15:31",
+            "end": "0:16:34",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:16:34",
+            "end": "0:17:38",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Farmer Hamlet"
+                },
+                {
+                    "name": "Farmer's Daughter"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:17:38",
+            "end": "0:20:48",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Farmer Hamlet"
+                },
+                {
+                    "name": "Farmer's Daughter"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:20:48",
+            "end": "0:21:14",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Farmer Hamlet"
+                },
+                {
+                    "name": "Farmer's Daughter"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:21:14",
+            "end": "0:21:52",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:21:52",
+            "end": "0:22:14",
+            "characters": [
+                {
+                    "name": "Night's Watchman"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Janos Slynt"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:22:14",
+            "end": "0:25:05",
+            "characters": [
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:25:05",
+            "end": "0:25:30",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:25:30",
+            "end": "0:27:20",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:27:20",
+            "end": "0:29:27",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Shireen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Mole's Town",
+            "start": "0:29:27",
+            "end": "0:29:42",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Mole's Town",
+            "start": "0:29:42",
+            "end": "0:30:49",
+            "characters": [
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                },
+                {
+                    "name": "Mole's Town Whore"
+                },
+                {
+                    "name": "Mole's Town Madam"
+                },
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Mole's Town",
+            "start": "0:30:49",
+            "end": "0:31:54",
+            "characters": [
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Mole's Town",
+            "start": "0:31:54",
+            "end": "0:31:58",
+            "characters": [
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:58",
+            "end": "0:34:00",
+            "characters": [
+                {
+                    "name": "Ellaria Sand",
+                    "sex": {
+                        "with": [
+                            "Olyvar",
+                            "Marei",
+                            "King's Landing Whore",
+                            "Oberyn Martell"
+                        ],
+                        "when": "present",
+                        "type": "paid"
+                    }
+                },
+                {
+                    "name": "Olyvar",
+                    "sex": {
+                        "with": [
+                            "Ellaria Sand",
+                            "Marei",
+                            "King's Landing Whore",
+                            "Oberyn Martell"
+                        ],
+                        "when": "present",
+                        "type": "paid"
+                    }
+                },
+                {
+                    "name": "Marei",
+                    "sex": {
+                        "with": [
+                            "Ellaria Sand",
+                            "Olyvar",
+                            "King's Landing Whore",
+                            "Oberyn Martell"
+                        ],
+                        "when": "present",
+                        "type": "paid"
+                    }
+                },
+                {
+                    "name": "King's Landing Whore",
+                    "sex": {
+                        "with": [
+                            "Ellaria Sand",
+                            "Olyvar",
+                            "Marei",
+                            "Oberyn Martell"
+                        ],
+                        "when": "present",
+                        "type": "paid"
+                    }
+                },
+                {
+                    "name": "Oberyn Martell",
+                    "sex": {
+                        "with": [
+                            "Ellaria Sand",
+                            "Olyvar",
+                            "Marei",
+                            "King's Landing Whore"
+                        ],
+                        "when": "present",
+                        "type": "paid"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:00",
+            "end": "0:34:26",
+            "characters": [
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Olyvar"
+                },
+                {
+                    "name": "Marei"
+                },
+                {
+                    "name": "King's Landing Whore"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:26",
+            "end": "0:38:14",
+            "characters": [
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:14",
+            "end": "0:43:16",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:43:16",
+            "end": "0:43:30",
+            "characters": [],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:43:30",
+            "end": "0:43:42",
+            "characters": [
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Guymon",
+                    "alive": false,
+                    "mannerOfDeath": "Arrow",
+                    "killedBy": [
+                        "Ygritte"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:43:42",
+            "end": "0:43:56",
+            "characters": [
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Olly's Mother",
+                    "alive": false,
+                    "mannerOfDeath": "Back stab",
+                    "killedBy": [
+                        "Styr"
+                    ]
+                },
+                {
+                    "name": "Guymon",
+                    "alive": false
+                },
+                {
+                    "name": "Styr"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:43:56",
+            "end": "0:44:53",
+            "characters": [
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Styr"
+                },
+                {
+                    "name": "Thenn Warg"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:44:53",
+            "end": "0:45:25",
+            "characters": [
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Styr"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:45:25",
+            "end": "0:46:44",
+            "characters": [
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Othell Yarwyck"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Maester Aemon"
+                },
+                {
+                    "name": "Pypar"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:46:44",
+            "end": "0:46:57",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Grenn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:46:57",
+            "end": "0:48:07",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Pypar"
+                },
+                {
+                    "name": "Eddison Tollett"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:48:07",
+            "end": "0:48:31",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:48:31",
+            "end": "0:48:54",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Hizdahr zo Loraq": {
+                    "location": "Meereen",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:48:54",
+            "end": "0:49:33",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Oznak zo Pahl"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:49:33",
+            "end": "0:49:56",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Oznak zo Pahl"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:49:56",
+            "end": "0:49:59",
+            "characters": [
+                {
+                    "name": "Hizdahr zo Loraq"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:49:59",
+            "end": "0:50:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Oznak zo Pahl"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:50:23",
+            "end": "0:51:36",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Oznak zo Pahl"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:51:36",
+            "end": "0:51:53",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Oznak zo Pahl"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:51:53",
+            "end": "0:52:35",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Oznak zo Pahl"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:52:35",
+            "end": "0:52:41",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Oznak zo Pahl",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "Daario Naharis"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:52:41",
+            "end": "0:55:30",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

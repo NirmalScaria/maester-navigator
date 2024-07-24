@@ -1,0 +1,1587 @@
+{
+    "title": "A Golden Crown",
+    "link": "/title/tt1837862/",
+    "scenes": [
+        {
+            "location": "King's Landing",
+            "start": "0:01:53",
+            "end": "0:06:22",
+            "characters": [
+                {
+                    "name": "Eddard Stark",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 1
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:06:22",
+            "end": "0:07:50",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon",
+                    "born": false
+                },
+                {
+                    "name": "Rhaegal",
+                    "born": false
+                },
+                {
+                    "name": "Viserion",
+                    "born": false
+                },
+                {
+                    "name": "Irri"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:07:50",
+            "end": "0:08:25",
+            "characters": [
+                {
+                    "name": "Three-Eyed Raven"
+                },
+                {
+                    "name": "Bran Stark"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:08:25",
+            "end": "0:08:36",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Hodor"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Wolfswood",
+            "start": "0:08:36",
+            "end": "0:09:42",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Robb Stark"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Wolfswood",
+            "start": "0:09:42",
+            "end": "0:13:09",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Stiv",
+                    "alive": false,
+                    "mannerOfDeath": "Arrow",
+                    "killedBy": [
+                        "Theon Greyjoy"
+                    ]
+                },
+                {
+                    "name": "Wallen",
+                    "alive": false,
+                    "mannerOfDeath": "Throat slash",
+                    "killedBy": [
+                        "Robb Stark"
+                    ]
+                },
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:13:09",
+            "end": "0:14:16",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Mord"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:16",
+            "end": "0:16:08",
+            "characters": [
+                {
+                    "name": "Syrio Forel"
+                },
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:16:08",
+            "end": "0:19:39",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal"
+                },
+                {
+                    "name": "Viserys Targaryen"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Irri"
+                },
+                {
+                    "name": "Dothraki Crone"
+                },
+                {
+                    "name": "Doreah"
+                },
+                {
+                    "name": "Rhaego",
+                    "born": false
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:19:39",
+            "end": "0:21:54",
+            "characters": [
+                {
+                    "name": "Drogon",
+                    "born": false
+                },
+                {
+                    "name": "Rhaegal",
+                    "born": false
+                },
+                {
+                    "name": "Viserion",
+                    "born": false
+                },
+                {
+                    "name": "Viserys Targaryen"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:21:54",
+            "end": "0:23:52",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Mord"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:23:52",
+            "end": "0:29:27",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lysa Arryn"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Robin Arryn"
+                },
+                {
+                    "name": "Vardis Egen"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Rodrik Cassel"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Kingswood",
+            "start": "0:29:27",
+            "end": "0:31:20",
+            "characters": [
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Lancel Lannister"
+                },
+                {
+                    "name": "Renly Baratheon"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:20",
+            "end": "0:35:25",
+            "characters": [
+                {
+                    "name": "Eddard Stark",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                },
+                {
+                    "name": "Joss"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:35:25",
+            "end": "0:39:52",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Vardis Egen",
+                    "alive": false,
+                    "mannerOfDeath": "Neck stab",
+                    "killedBy": [
+                        "Bronn"
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lysa Arryn"
+                },
+                {
+                    "name": "Robin Arryn"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Mord"
+                },
+                {
+                    "name": "Rodrik Cassel"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:52",
+            "end": "0:42:45",
+            "characters": [
+                {
+                    "name": "Septa Mordane"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Joffrey Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Joffrey Baratheon": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:42:45",
+            "end": "0:44:18",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Ros"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:18",
+            "end": "0:46:45",
+            "characters": [
+                {
+                    "name": "Eddard Stark",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:46:45",
+            "end": "0:51:30",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal"
+                },
+                {
+                    "name": "Doreah"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Viserys Targaryen",
+                    "alive": false,
+                    "mannerOfDeath": "Molten gold",
+                    "killedBy": [
+                        "Khal Drogo"
+                    ]
+                },
+                {
+                    "name": "Irri"
+                },
+                {
+                    "name": "Qotho"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Drogon": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Vaes Dothrak",
+                    "priority": 1
+                },
+                "Grand Maester Pycelle": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Pypar": {
+                    "location": "Castle Black",
+                    "priority": 4
+                },
+                "Lancel Lannister": {
+                    "location": "The Kingswood",
+                    "priority": 3
+                },
+                "Rakharo": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Maester Aemon": {
+                    "location": "Castle Black",
+                    "priority": 3
+                },
+                "Three-Eyed Raven": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Janos Slynt": {
+                    "location": "King's Landing",
+                    "priority": 4
+                },
+                "Gendry": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Robin Arryn": {
+                    "location": "The Eyrie",
+                    "priority": 3
+                },
+                "Osha": {
+                    "location": "The Wolfswood",
+                    "priority": 4
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        }
+    ]
+}

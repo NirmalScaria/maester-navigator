@@ -1,0 +1,1779 @@
+{
+    "title": "The Dance of Dragons",
+    "link": "/title/tt3866826/",
+    "scenes": [
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:04:22",
+            "end": "0:04:37",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:04:37",
+            "end": "0:05:02",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:05:02",
+            "end": "0:05:17",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:05:17",
+            "end": "0:05:23",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:05:23",
+            "end": "0:06:13",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:06:13",
+            "end": "0:06:38",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Selyse Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:06:38",
+            "end": "0:07:21",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Wun Wun"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Willa"
+                },
+                {
+                    "name": "Johnna"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:07:21",
+            "end": "0:07:29",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:07:29",
+            "end": "0:07:41",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Wun Wun"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Willa"
+                },
+                {
+                    "name": "Johnna"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:07:41",
+            "end": "0:07:48",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:07:48",
+            "end": "0:07:52",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:07:52",
+            "end": "0:08:01",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:08:01",
+            "end": "0:08:12",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eddison Tollett"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:08:12",
+            "end": "0:08:47",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Othell Yarwyck"
+                },
+                {
+                    "name": "Bowen Marsh"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:08:47",
+            "end": "0:09:17",
+            "characters": [
+                {
+                    "name": "Wun Wun"
+                },
+                {
+                    "name": "Othell Yarwyck"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Olly"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:09:17",
+            "end": "0:09:26",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Alliser Thorne"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:09:26",
+            "end": "0:09:53",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:09:53",
+            "end": "0:11:22",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:11:22",
+            "end": "0:11:43",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:11:43",
+            "end": "0:13:38",
+            "characters": [
+                {
+                    "name": "Shireen Baratheon"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:13:38",
+            "end": "0:16:40",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Areo Hotah"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Trystane Martell"
+                },
+                {
+                    "name": "Myrcella Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:16:40",
+            "end": "0:17:22",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Areo Hotah"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Trystane Martell"
+                },
+                {
+                    "name": "Myrcella Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:17:22",
+            "end": "0:18:17",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Obara Sand"
+                },
+                {
+                    "name": "Tyene Sand"
+                },
+                {
+                    "name": "Nymeria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:18:17",
+            "end": "0:18:48",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Obara Sand"
+                },
+                {
+                    "name": "Tyene Sand"
+                },
+                {
+                    "name": "Nymeria Sand"
+                },
+                {
+                    "name": "Areo Hotah"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:18:48",
+            "end": "0:19:31",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Areo Hotah"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Trystane Martell"
+                },
+                {
+                    "name": "Myrcella Baratheon"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:19:31",
+            "end": "0:19:53",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Sailor"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:19:53",
+            "end": "0:20:47",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Thin Man"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:20:47",
+            "end": "0:21:08",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Thin Man"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:21:08",
+            "end": "0:21:48",
+            "characters": [
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Tycho Nestoris"
+                },
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:21:48",
+            "end": "0:22:37",
+            "characters": [
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Tycho Nestoris"
+                },
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:22:37",
+            "end": "0:23:08",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Tycho Nestoris"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:23:08",
+            "end": "0:23:39",
+            "characters": [
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Lannister Guard #1"
+                },
+                {
+                    "name": "Lannister Guard #2"
+                },
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:23:39",
+            "end": "0:24:21",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Brusco"
+                },
+                {
+                    "name": "Lhara"
+                },
+                {
+                    "name": "Young Braavosi"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:24:21",
+            "end": "0:27:03",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Meryn Trant",
+                    "sex": {
+                        "with": [
+                            "Aya"
+                        ],
+                        "when": "future",
+                        "type": "paid"
+                    }
+                },
+                {
+                    "name": "Braavosi Madam"
+                },
+                {
+                    "name": "Whore"
+                },
+                {
+                    "name": "Brea"
+                },
+                {
+                    "name": "Anara"
+                },
+                {
+                    "name": "Lannister Guard #1"
+                },
+                {
+                    "name": "Lannister Guard #2"
+                },
+                {
+                    "name": "Aya",
+                    "sex": {
+                        "with": [
+                            "Meryn Trant"
+                        ],
+                        "when": "future",
+                        "type": "paid"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:27:03",
+            "end": "0:27:57",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Jaqen H'ghar"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:27:57",
+            "end": "0:28:57",
+            "characters": [
+                {
+                    "name": "Areo Hotah"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Obara Sand"
+                },
+                {
+                    "name": "Tyene Sand"
+                },
+                {
+                    "name": "Nymeria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:28:57",
+            "end": "0:30:43",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Ellaria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:30:43",
+            "end": "0:33:36",
+            "characters": [
+                {
+                    "name": "Shireen Baratheon"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:33:36",
+            "end": "0:36:42",
+            "characters": [
+                {
+                    "name": "Shireen Baratheon",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Melisandre"
+                    ]
+                },
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Selyse Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:36:42",
+            "end": "0:37:02",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:37:02",
+            "end": "0:37:30",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:37:30",
+            "end": "0:38:58",
+            "characters": [
+                {
+                    "name": "Pit Announcer"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:38:58",
+            "end": "0:41:31",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:41:31",
+            "end": "0:42:20",
+            "characters": [
+                {
+                    "name": "Pit Announcer"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:42:20",
+            "end": "0:46:54",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:46:54",
+            "end": "0:47:04",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:47:04",
+            "end": "0:48:12",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Hizdahr zo Loraq",
+                    "alive": false,
+                    "mannerOfDeath": "Multiple stabs",
+                    "killedBy": [
+                        "Sons of the Harpy"
+                    ]
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:48:12",
+            "end": "0:50:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:50:23",
+            "end": "0:51:56",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:51:56",
+            "end": "0:52:10",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:52:10",
+            "end": "0:52:55",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:52:55",
+            "end": "0:53:10",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:53:10",
+            "end": "0:53:25",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

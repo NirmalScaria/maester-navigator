@@ -1,0 +1,2798 @@
+{
+    "title": "Blackwater",
+    "link": "/title/tt2084342/",
+    "scenes": [
+        {
+            "location": "Blackwater Bay",
+            "start": "0:01:54",
+            "end": "0:02:41",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:02:41",
+            "end": "0:02:57",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:02:57",
+            "end": "0:03:25",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:03:25",
+            "end": "0:04:46",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Matthos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:04:46",
+            "end": "0:06:30",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand",
+                    "sex": {
+                        "with": [
+                            "Shae"
+                        ],
+                        "when": "past",
+                        "type": "love"
+                    }
+                },
+                {
+                    "name": "Shae",
+                    "sex": {
+                        "with": [
+                            "Tyrion Lannister"
+                        ],
+                        "when": "past",
+                        "type": "love"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:06:30",
+            "end": "0:08:03",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:08:03",
+            "end": "0:09:37",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Armeca"
+                },
+                {
+                    "name": "Singing Lannister Soldier"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:09:37",
+            "end": "0:12:08",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Armeca"
+                },
+                {
+                    "name": "Singing Lannister Soldier"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:08",
+            "end": "0:15:00",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:15:00",
+            "end": "0:15:07",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:15:07",
+            "end": "0:15:23",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Matthos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:15:23",
+            "end": "0:15:41",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:15:42",
+            "end": "0:15:46",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:15:46",
+            "end": "0:16:22",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:16:22",
+            "end": "0:16:47",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:16:47",
+            "end": "0:17:13",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:17:13",
+            "end": "0:17:15",
+            "characters": [
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:17:15",
+            "end": "0:18:18",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:18",
+            "end": "0:18:40",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:40",
+            "end": "0:18:46",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:46",
+            "end": "0:19:02",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lancel Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:19:02",
+            "end": "0:19:12",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:19:12",
+            "end": "0:20:12",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lancel Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:20:12",
+            "end": "0:20:34",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Matthos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:20:34",
+            "end": "0:20:44",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Ilyn Payne",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:20:44",
+            "end": "0:21:05",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Ilyn Payne",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:21:05",
+            "end": "0:21:52",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Ilyn Payne",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:21:52",
+            "end": "0:22:20",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Ilyn Payne",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Mandon Moore"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:20",
+            "end": "0:22:34",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:34",
+            "end": "0:22:39",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:39",
+            "end": "0:22:57",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lancel Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Captain of the Archers"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:57",
+            "end": "0:23:01",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:23:01",
+            "end": "0:23:06",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:23:06",
+            "end": "0:23:22",
+            "characters": [
+                {
+                    "name": "Lancel Lannister"
+                },
+                {
+                    "name": "Captain of the Archers"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:23:22",
+            "end": "0:23:25",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:23:25",
+            "end": "0:23:31",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Captain of the Archers"
+                },
+                {
+                    "name": "Lancel Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:23:31",
+            "end": "0:24:13",
+            "characters": [
+                {
+                    "name": "Matthos Seaworth"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:13",
+            "end": "0:24:17",
+            "characters": [
+                {
+                    "name": "Hallyne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:17",
+            "end": "0:24:26",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Hallyne"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:24:26",
+            "end": "0:24:45",
+            "characters": [
+                {
+                    "name": "Matthos Seaworth"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:45",
+            "end": "0:24:47",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Hallyne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:47",
+            "end": "0:24:50",
+            "characters": [
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:50",
+            "end": "0:24:51",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Hallyne"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:51",
+            "end": "0:24:58",
+            "characters": [
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:24:58",
+            "end": "0:25:16",
+            "characters": [
+                {
+                    "name": "Matthos Seaworth",
+                    "alive": false,
+                    "mannerOfDeath": "Wildfire",
+                    "killedBy": [
+                        "Bronn"
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:16",
+            "end": "0:25:20",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:20",
+            "end": "0:25:24",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Hallyne"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:24",
+            "end": "0:25:31",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:31",
+            "end": "0:25:36",
+            "characters": [
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:36",
+            "end": "0:25:43",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:43",
+            "end": "0:25:44",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Hallyne"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:44",
+            "end": "0:26:09",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:26:09",
+            "end": "0:26:22",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Hallyne"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:26:22",
+            "end": "0:26:25",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:26:25",
+            "end": "0:26:33",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:26:33",
+            "end": "0:26:43",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:26:43",
+            "end": "0:27:26",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:27:26",
+            "end": "0:27:47",
+            "characters": [
+                {
+                    "name": "Dontos Hollard"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:27:47",
+            "end": "0:30:39",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:39",
+            "end": "0:30:42",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:42",
+            "end": "0:31:05",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:05",
+            "end": "0:31:20",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:20",
+            "end": "0:31:24",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:24",
+            "end": "0:31:47",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Captain of the Archers"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:47",
+            "end": "0:31:55",
+            "characters": [
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:55",
+            "end": "0:32:07",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lancel Lannister"
+                },
+                {
+                    "name": "Captain of the Archers"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:07",
+            "end": "0:32:10",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:10",
+            "end": "0:32:13",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:13",
+            "end": "0:32:24",
+            "characters": [
+                {
+                    "name": "Captain of the Archers"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:24",
+            "end": "0:32:33",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:33",
+            "end": "0:32:37",
+            "characters": [
+                {
+                    "name": "Captain of the Archers"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:37",
+            "end": "0:32:46",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:46",
+            "end": "0:32:51",
+            "characters": [
+                {
+                    "name": "Captain of the Archers"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:50",
+            "end": "0:32:55",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:55",
+            "end": "0:32:57",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hallyne"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:57",
+            "end": "0:33:07",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:07",
+            "end": "0:33:10",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:10",
+            "end": "0:33:15",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:15",
+            "end": "0:33:17",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hallyne"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:17",
+            "end": "0:33:25",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:25",
+            "end": "0:33:29",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:29",
+            "end": "0:33:35",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:35",
+            "end": "0:33:40",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:40",
+            "end": "0:33:49",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lancel Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:49",
+            "end": "0:34:00",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:00",
+            "end": "0:34:20",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lancel Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:20",
+            "end": "0:35:00",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:00",
+            "end": "0:36:22",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:22",
+            "end": "0:37:09",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Lancel Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:09",
+            "end": "0:37:33",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Ilyn Payne",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:33",
+            "end": "0:38:32",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:32",
+            "end": "0:38:34",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:34",
+            "end": "0:38:36",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:36",
+            "end": "0:38:44",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:44",
+            "end": "0:39:09",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:09",
+            "end": "0:39:36",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Captain of the Archers"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Singing Lannister Soldier"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:36",
+            "end": "0:40:21",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:21",
+            "end": "0:41:26",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:41:26",
+            "end": "0:42:14",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Hearteater"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lancel Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Mandon Moore"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:42:14",
+            "end": "0:42:19",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:42:19",
+            "end": "0:43:16",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Mandon Moore"
+                },
+                {
+                    "name": "Singing Lannister Soldier"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:16",
+            "end": "0:43:21",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:21",
+            "end": "0:43:46",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Mandon Moore"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:46",
+            "end": "0:43:52",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:52",
+            "end": "0:44:18",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Mandon Moore"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:18",
+            "end": "0:44:43",
+            "characters": [
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Lancel Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:43",
+            "end": "0:45:41",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Ilyn Payne",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:41",
+            "end": "0:46:07",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:07",
+            "end": "0:48:05",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:05",
+            "end": "0:48:15",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:15",
+            "end": "0:48:25",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:25",
+            "end": "0:49:12",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:12",
+            "end": "0:49:25",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:25",
+            "end": "0:49:35",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:35",
+            "end": "0:50:02",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Mandon Moore",
+                    "alive": false,
+                    "mannerOfDeath": "Face stab",
+                    "killedBy": [
+                        "Podrick Payne"
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:50:02",
+            "end": "0:50:51",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:50:51",
+            "end": "0:50:54",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:50:54",
+            "end": "0:51:01",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:01",
+            "end": "0:51:02",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:02",
+            "end": "0:51:14",
+            "characters": [
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:14",
+            "end": "0:51:41",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:41",
+            "end": "0:51:47",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:47",
+            "end": "0:51:58",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:58",
+            "end": "0:52:02",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:02",
+            "end": "0:52:08",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:08",
+            "end": "0:52:13",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:13",
+            "end": "0:52:26",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:26",
+            "end": "0:52:32",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:32",
+            "end": "0:52:36",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:36",
+            "end": "0:52:39",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:39",
+            "end": "0:52:42",
+            "characters": [],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:42",
+            "end": "0:52:45",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:45",
+            "end": "0:53:04",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Tywin Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        }
+    ]
+}

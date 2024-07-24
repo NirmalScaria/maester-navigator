@@ -4,12 +4,15 @@ import GeoJsonMap from './map';
 import episodes from './data/knownEpisodes.json'
 import locations from './data/knownLocations.json' assert { type: "json" };
 import { LatLngExpression } from 'leaflet';
+import characters from './data/knownCharacters.json' assert { type: "json" };
 
 const Popup = () => {
   const [currentLocation, setCurrentLocation] = React.useState<LatLngExpression | null>(null);
   const [currentSeason, setCurrentSeason] = React.useState<number>(1);
   const [selectedSeason, setSelectedSeason] = React.useState<number>(1);
   const [currentEpisode, setCurrentEpisode] = React.useState<number>(1);
+
+  var episodeData = {}
 
   const currentSeasonRef = useRef(currentSeason);
   const currentEpisodeRef = useRef(currentEpisode);
@@ -49,26 +52,37 @@ const Popup = () => {
             return null;
           }
         },
-        (results) => {
+        async (results) => {
           if (results && results[0] && results[0].result) {
-            getLocation(results[0].result);
+            var currentEpisodeData;
+            if (`s${currentSeasonRef.current}e${currentEpisodeRef.current}` in episodeData) {
+              // @ts-ignore
+              currentEpisodeData = episodeData[`s${currentSeasonRef.current}e${currentEpisodeRef.current}` as string]
+            }
+            else {
+              currentEpisodeData = await importEpisodeData({ season: currentSeasonRef.current, episode: currentEpisodeRef.current })
+              // @ts-ignore
+              episodeData[`s${currentSeasonRef.current}e${currentEpisodeRef.current}`] = currentEpisodeData
+            }
+            const scenes = currentEpisodeData.scenes
+            const currentTime = results[0].result.currentTime
+            const currentScene = scenes.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
+            if(currentScene && currentScene.location) {
+              const locationName: string = currentScene.location
+              // @ts-ignore
+              const location: any = locations[locationName]
+              if (currentLocation != location)
+                setCurrentLocation(location)
+            }
           }
         }
       );
     });
   }
 
-  function getLocation({ currentTime }: { currentTime: number }) {
-    const episode = episodes[currentSeasonRef.current][currentEpisodeRef.current]
-    const scenes = episode.scenes
-    const currentScene = scenes!.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
-    if (currentScene && currentScene.location) {
-      const locationName: string = currentScene.location
-      // @ts-ignore
-      const location: any = locations[locationName]
-      if (currentLocation != location)
-        setCurrentLocation(location)
-    }
+  async function importEpisodeData({ season, episode }: { season: number, episode: number }) {
+    const response = await import(`./data/episodes/${season}/${episode}.json`)
+    return response;
   }
 
   useEffect(() => {

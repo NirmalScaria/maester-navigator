@@ -1,0 +1,1714 @@
+{
+    "title": "Dark Wings, Dark Words",
+    "link": "/title/tt2178772/",
+    "scenes": [
+        {
+            "location": "Winterfell",
+            "start": "0:01:54",
+            "end": "0:02:42",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Three-Eyed Raven"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:02:42",
+            "end": "0:02:59",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Three-Eyed Raven"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Robb Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:02:59",
+            "end": "0:03:07",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:03:07",
+            "end": "0:03:20",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Three-Eyed Raven"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:03:20",
+            "end": "0:04:28",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Rickon Stark"
+                },
+                {
+                    "name": "Shaggydog"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Osha"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:04:28",
+            "end": "0:05:05",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Talisa Maegyr"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:05:05",
+            "end": "0:05:28",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Roose Bolton"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:05:28",
+            "end": "0:06:30",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:06:30",
+            "end": "0:07:13",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Master Torturer"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "East to King's Landing",
+            "start": "0:07:13",
+            "end": "0:09:50",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "East to King's Landing",
+            "start": "0:09:50",
+            "end": "0:10:51",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Riverlands Traveller"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:10:51",
+            "end": "0:11:20",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "King's Landing Tailor"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:11:20",
+            "end": "0:12:50",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:50",
+            "end": "0:13:02",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "King's Landing Tailor"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:13:02",
+            "end": "0:14:13",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:13",
+            "end": "0:14:33",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:33",
+            "end": "0:15:00",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:15:00",
+            "end": "0:15:18",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:15:18",
+            "end": "0:18:09",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Olenna Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:09",
+            "end": "0:18:31",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Tyrell Servant"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:31",
+            "end": "0:19:47",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:19:47",
+            "end": "0:19:54",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Tyrell Servant"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:19:54",
+            "end": "0:21:00",
+            "characters": [
+                {
+                    "name": "Grey Wind"
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Rickard Karstark"
+                },
+                {
+                    "name": "Talisa Maegyr"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:21:00",
+            "end": "0:24:23",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Talisa Maegyr"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Wildlings March South",
+            "start": "0:24:23",
+            "end": "0:25:29",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Mance Rayder",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Frostfang Mountains",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Wildlings March South",
+            "start": "0:25:29",
+            "end": "0:26:46",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mance Rayder",
+                    "title": "King"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Orell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Orell": {
+                    "location": "Wildlings March South",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Nightswatch March South",
+            "start": "0:26:46",
+            "end": "0:27:37",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Rast"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Nightswatch March South",
+            "start": "0:27:37",
+            "end": "0:27:49",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Jeor Mormont"
+                },
+                {
+                    "name": "Rast"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Nightswatch March South",
+            "start": "0:27:49",
+            "end": "0:29:26",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Rast"
+                },
+                {
+                    "name": "Jeor Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:29:26",
+            "end": "0:30:00",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:30:00",
+            "end": "0:30:14",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:30:14",
+            "end": "0:30:43",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Jojen Reed"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Jojen Reed": {
+                    "location": "North to the Wall",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:30:43",
+            "end": "0:32:00",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Meera Reed": {
+                    "location": "North to the Wall",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "North to the Red Fork",
+            "start": "0:32:00",
+            "end": "0:32:57",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Hot Pie"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "North to the Red Fork",
+            "start": "0:32:57",
+            "end": "0:36:06",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Anguy"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:06",
+            "end": "0:39:27",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "sex": {
+                        "with": [
+                            "Shae"
+                        ],
+                        "when": "future",
+                        "type": "love"
+                    }
+                },
+                {
+                    "name": "Shae",
+                    "sex": {
+                        "with": [
+                            "Tyrion Lannister"
+                        ],
+                        "when": "future",
+                        "type": "love"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:27",
+            "end": "0:39:35",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:35",
+            "end": "0:44:21",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:44:21",
+            "end": "0:45:43",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Master Torturer"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:45:43",
+            "end": "0:46:23",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Ramsay Snow"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                },
+                "Ramsay Snow": {
+                    "location": "The Dreadfort",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:46:23",
+            "end": "0:47:22",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Rickon Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:47:22",
+            "end": "0:47:46",
+            "characters": [
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Osha"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:47:46",
+            "end": "0:47:50",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Osha"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:47:50",
+            "end": "0:48:39",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:48:39",
+            "end": "0:48:46",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Osha"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "North to the Red Fork",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:48:46",
+            "end": "0:50:38",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Thoros of Myr"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Thoros of Myr": {
+                    "location": "Crossroads Inn",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:50:38",
+            "end": "0:51:30",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Anguy"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "East to King's Landing",
+            "start": "0:51:30",
+            "end": "0:54:45",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "East to King's Landing",
+            "start": "0:54:45",
+            "end": "0:55:43",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Riverlands Traveller"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Locke": {
+                    "location": "East to King's Landing",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

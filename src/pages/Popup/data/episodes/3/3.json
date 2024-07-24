@@ -1,0 +1,1350 @@
+{
+    "title": "Walk of Punishment",
+    "link": "/title/tt2178802/",
+    "scenes": [
+        {
+            "location": "Riverrun",
+            "start": "0:01:55",
+            "end": "0:04:06",
+            "characters": [
+                {
+                    "name": "Hoster Tully",
+                    "alive": false,
+                    "mannerOfDeath": "Old age"
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Brynden Tully"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Edmure Tully"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Locke": {
+                    "location": "East to King's Landing",
+                    "priority": 4
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                },
+                "Edmure Tully": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:04:06",
+            "end": "0:06:29",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Brynden Tully"
+                },
+                {
+                    "name": "Edmure Tully"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Locke": {
+                    "location": "East to King's Landing",
+                    "priority": 4
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:06:29",
+            "end": "0:10:33",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Locke": {
+                    "location": "East to King's Landing",
+                    "priority": 4
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:10:33",
+            "end": "0:10:50",
+            "characters": [
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Locke": {
+                    "location": "Harrenhal",
+                    "priority": 4
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:10:50",
+            "end": "0:12:22",
+            "characters": [
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:12:22",
+            "end": "0:13:02",
+            "characters": [
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:13:02",
+            "end": "0:13:27",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Anguy"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:13:27",
+            "end": "0:15:01",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Gendry"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:15:01",
+            "end": "0:15:21",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Hot Pie"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:15:21",
+            "end": "0:17:50",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Brynden Tully"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Brynden Tully": {
+                    "location": "Riverrun",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:17:50",
+            "end": "0:18:37",
+            "characters": [
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Martyn Lannister"
+                },
+                {
+                    "name": "Willem Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Wildlings March South",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:18:37",
+            "end": "0:20:53",
+            "characters": [
+                {
+                    "name": "Mance Rayder",
+                    "title": "King"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Orell"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:20:53",
+            "end": "0:21:30",
+            "characters": [
+                {
+                    "name": "Jeor Mormont"
+                },
+                {
+                    "name": "Ghost"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Karl Tanner"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:21:30",
+            "end": "0:22:11",
+            "characters": [
+                {
+                    "name": "Jeor Mormont"
+                },
+                {
+                    "name": "Craster"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Karl Tanner"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:22:11",
+            "end": "0:24:03",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Karl Tanner"
+                },
+                {
+                    "name": "Craster"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Jeor Mormont"
+                },
+                {
+                    "name": "Eddison Tollett"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:24:03",
+            "end": "0:24:27",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:24:27",
+            "end": "0:25:02",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Craster's Wife"
+                },
+                {
+                    "name": "Craster's Younger Wife"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                },
+                "Baby Sam": {
+                    "location": "Craster's Keep",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:25:02",
+            "end": "0:26:09",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Ramsay Snow"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:26:09",
+            "end": "0:26:31",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Ramsay Snow"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:26:31",
+            "end": "0:28:25",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:28:25",
+            "end": "0:29:22",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Tortured Slave"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:29:22",
+            "end": "0:30:52",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:30:52",
+            "end": "0:33:48",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Kraznys mo Nakloz"
+                },
+                {
+                    "name": "Greizhen mo Ullhor"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:33:48",
+            "end": "0:34:10",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:34:10",
+            "end": "0:34:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                },
+                "Missandei": {
+                    "location": "Astapor",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:34:23",
+            "end": "0:34:40",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Astapor",
+            "start": "0:34:40",
+            "end": "0:35:15",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:15",
+            "end": "0:35:57",
+            "characters": [
+                {
+                    "name": "Ros"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:57",
+            "end": "0:37:22",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:22",
+            "end": "0:37:39",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:39",
+            "end": "0:38:11",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:11",
+            "end": "0:39:25",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Podrick Payne",
+                    "sex": {
+                        "with": [
+                            "Genna",
+                            "Marei",
+                            "Kayla"
+                        ],
+                        "when": "present",
+                        "type": "fun"
+                    }
+                },
+                {
+                    "name": "Genna",
+                    "sex": {
+                        "with": [
+                            "Podrick Payne"
+                        ],
+                        "when": "present",
+                        "type": "fun"
+                    }
+                },
+                {
+                    "name": "Marei",
+                    "sex": {
+                        "with": [
+                            "Podrick Payne"
+                        ],
+                        "when": "present",
+                        "type": "fun"
+                    }
+                },
+                {
+                    "name": "Kayla",
+                    "sex": {
+                        "with": [
+                            "Podrick Payne"
+                        ],
+                        "when": "present",
+                        "type": "fun"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:25",
+            "end": "0:40:46",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:46",
+            "end": "0:42:05",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:42:05",
+            "end": "0:44:56",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Master Torturer"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:44:56",
+            "end": "0:45:42",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Master Torturer",
+                    "alive": false,
+                    "mannerOfDeath": "Arrow",
+                    "killedBy": [
+                        "Ramsay Snow"
+                    ]
+                },
+                {
+                    "name": "Ramsay Snow"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:45:42",
+            "end": "0:46:51",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:46:51",
+            "end": "0:48:05",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:48:05",
+            "end": "0:48:49",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:48:49",
+            "end": "0:49:30",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:49:30",
+            "end": "0:50:15",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:50:15",
+            "end": "0:51:27",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Tormund Giantsbane": {
+                    "location": "Fist of the First Men",
+                    "priority": 2
+                }
+            }
+        }
+    ]
+}

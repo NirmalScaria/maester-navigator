@@ -1,0 +1,2052 @@
+{
+    "title": "Garden of Bones",
+    "link": "/title/tt2069319/",
+    "scenes": [
+        {
+            "location": "Oxcross",
+            "start": "0:01:53",
+            "end": "0:03:42",
+            "characters": [
+                {
+                    "name": "Rennick",
+                    "alive": false,
+                    "mannerOfDeath": "Mauling",
+                    "killedBy": [
+                        "Grey Wind"
+                    ]
+                },
+                {
+                    "name": "Lannister Guard"
+                },
+                {
+                    "name": "Grey Wind"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Oxcross",
+            "start": "0:03:42",
+            "end": "0:03:55",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Oxcross",
+            "start": "0:03:55",
+            "end": "0:04:59",
+            "characters": [
+                {
+                    "name": "Rennick",
+                    "alive": false
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Roose Bolton"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Roose Bolton": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oxcross",
+            "start": "0:04:59",
+            "end": "0:05:18",
+            "characters": [
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Wounded Lannister Soldier"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oxcross",
+            "start": "0:05:18",
+            "end": "0:05:49",
+            "characters": [
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Wounded Lannister Soldier"
+                },
+                {
+                    "name": "Roose Bolton"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oxcross",
+            "start": "0:05:49",
+            "end": "0:06:00",
+            "characters": [],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oxcross",
+            "start": "0:06:00",
+            "end": "0:07:47",
+            "characters": [
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:07:47",
+            "end": "0:09:03",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lancel Lannister"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:09:03",
+            "end": "0:10:39",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lancel Lannister"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:10:39",
+            "end": "0:11:04",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:11:04",
+            "end": "0:11:28",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:11:28",
+            "end": "0:14:44",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Ros",
+                    "sex": {
+                        "with": [
+                            "Daisy"
+                        ],
+                        "when": "present",
+                        "type": "paid"
+                    }
+                },
+                {
+                    "name": "Daisy",
+                    "sex": {
+                        "with": [
+                            "Ros"
+                        ],
+                        "when": "present",
+                        "type": "paid"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:14:44",
+            "end": "0:14:56",
+            "characters": [],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:14:56",
+            "end": "0:15:09",
+            "characters": [
+                {
+                    "name": "Renly Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:15:09",
+            "end": "0:16:44",
+            "characters": [
+                {
+                    "name": "Renly Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:16:44",
+            "end": "0:17:20",
+            "characters": [
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:17:20",
+            "end": "0:18:37",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Red Waste",
+            "start": "0:18:37",
+            "end": "0:19:42",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Kovarro"
+                },
+                {
+                    "name": "Doreah"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "The Kingsroad",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:19:42",
+            "end": "0:20:29",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Gendry"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "Harrenhal",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:20:29",
+            "end": "0:21:30",
+            "characters": [
+                {
+                    "name": "Old Woman Prisoner"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Hot Pie"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Hot Pie": {
+                    "location": "Harrenhal",
+                    "priority": 4
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:21:30",
+            "end": "0:21:58",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:21:58",
+            "end": "0:25:46",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:25:46",
+            "end": "0:27:07",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Tortured Prisoner"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:27:07",
+            "end": "0:28:26",
+            "characters": [
+                {
+                    "name": "Tortured Prisoner"
+                },
+                {
+                    "name": "The Tickler"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Lannister Guard"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:28:26",
+            "end": "0:28:47",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Old Woman Prisoner"
+                },
+                {
+                    "name": "Polliver"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Dragonstone",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:28:47",
+            "end": "0:32:00",
+            "characters": [
+                {
+                    "name": "Renly Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:32:00",
+            "end": "0:37:27",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Spice King"
+                },
+                {
+                    "name": "Xaro Xhoan Daxos"
+                },
+                {
+                    "name": "Pyat Pree"
+                },
+                {
+                    "name": "Silk King"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:37:27",
+            "end": "0:38:15",
+            "characters": [
+                {
+                    "name": "Tortured Prisoner",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "The Tickler"
+                    ]
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "The Tickler"
+                },
+                {
+                    "name": "Lannister Guard"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:38:15",
+            "end": "0:39:50",
+            "characters": [
+                {
+                    "name": "Tywin Lannister"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "The Tickler"
+                },
+                {
+                    "name": "Amory Lorch"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:50",
+            "end": "0:43:41",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Lancel Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:43:41",
+            "end": "0:45:34",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Davos Seaworth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Stannis Baratheon": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:45:34",
+            "end": "0:46:42",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Stannis Baratheon": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Storm's End",
+            "start": "0:46:42",
+            "end": "0:49:18",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Drogon": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "The Red Waste",
+                    "priority": 1
+                },
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Stannis Baratheon": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Jaqen H'ghar": {
+                    "location": "The Kingsroad",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Storm's End",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        }
+    ]
+}

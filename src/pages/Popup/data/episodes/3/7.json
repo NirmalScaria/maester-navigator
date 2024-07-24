@@ -1,0 +1,1133 @@
+{
+    "title": "The Bear and the Maiden Fair",
+    "link": "/title/tt2178814/",
+    "scenes": [
+        {
+            "location": "The Gift",
+            "start": "0:01:54",
+            "end": "0:02:06",
+            "characters": [
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:02:06",
+            "end": "0:03:22",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:03:22",
+            "end": "0:04:14",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Orell"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:04:14",
+            "end": "0:05:19",
+            "characters": [
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Brynden Tully"
+                },
+                {
+                    "name": "Edmure Tully"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:05:19",
+            "end": "0:05:27",
+            "characters": [
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:05:27",
+            "end": "0:09:22",
+            "characters": [
+                {
+                    "name": "Talisa Maegyr",
+                    "sex": {
+                        "with": [
+                            "Robb Stark"
+                        ],
+                        "when": "present",
+                        "type": "love"
+                    }
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King",
+                    "sex": {
+                        "with": [
+                            "Talisa Maegyr"
+                        ],
+                        "when": "present",
+                        "type": "love"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:09:22",
+            "end": "0:09:28",
+            "characters": [],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:09:28",
+            "end": "0:10:03",
+            "characters": [
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:10:03",
+            "end": "0:10:08",
+            "characters": [
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Orell"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:10:08",
+            "end": "0:11:23",
+            "characters": [
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Orell"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:11:23",
+            "end": "0:14:32",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:32",
+            "end": "0:15:53",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:15:53",
+            "end": "0:19:21",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:19:21",
+            "end": "0:20:35",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:20:35",
+            "end": "0:21:01",
+            "characters": [],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:21:01",
+            "end": "0:21:31",
+            "characters": [
+                {
+                    "name": "Razdal mo Eraz"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:21:31",
+            "end": "0:21:39",
+            "characters": [],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:21:39",
+            "end": "0:21:42",
+            "characters": [
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:21:42",
+            "end": "0:25:24",
+            "characters": [
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Razdal mo Eraz"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:25:24",
+            "end": "0:25:43",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:25:43",
+            "end": "0:25:54",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:54",
+            "end": "0:28:09",
+            "characters": [
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:28:09",
+            "end": "0:28:23",
+            "characters": [],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:28:23",
+            "end": "0:30:01",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Gendry"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Hollow Hill",
+            "start": "0:30:01",
+            "end": "0:30:59",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                },
+                {
+                    "name": "Thoros of Myr"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Hollow Hill",
+            "start": "0:30:59",
+            "end": "0:31:16",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Anguy"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Hollow Hill",
+            "start": "0:31:16",
+            "end": "0:31:45",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                },
+                {
+                    "name": "Thoros of Myr"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Hollow Hill",
+            "start": "0:31:45",
+            "end": "0:31:47",
+            "characters": [
+                {
+                    "name": "Beric Dondarrion"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Hollow Hill",
+            "start": "0:31:47",
+            "end": "0:32:06",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Hollow Hill",
+            "start": "0:32:06",
+            "end": "0:32:19",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:32:19",
+            "end": "0:33:51",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:33:51",
+            "end": "0:34:39",
+            "characters": [
+                {
+                    "name": "Roose Bolton"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Qyburn"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:34:39",
+            "end": "0:35:01",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Qyburn"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:35:01",
+            "end": "0:38:52",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy",
+                    "sex": {
+                        "with": [
+                            "Myranda",
+                            "Violet"
+                        ],
+                        "when": "present",
+                        "type": "torture"
+                    }
+                },
+                {
+                    "name": "Myranda",
+                    "sex": {
+                        "with": [
+                            "Theon Greyjoy"
+                        ],
+                        "when": "present",
+                        "type": "torture"
+                    }
+                },
+                {
+                    "name": "Violet",
+                    "sex": {
+                        "with": [
+                            "Theon Greyjoy"
+                        ],
+                        "when": "present",
+                        "type": "torture"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:38:52",
+            "end": "0:40:24",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Myranda"
+                },
+                {
+                    "name": "Violet"
+                },
+                {
+                    "name": "Ramsay Snow"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:40:24",
+            "end": "0:40:42",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:40:42",
+            "end": "0:40:53",
+            "characters": [
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:40:53",
+            "end": "0:44:21",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:44:21",
+            "end": "0:48:19",
+            "characters": [
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Rickon Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "South to King's Landing",
+            "start": "0:48:19",
+            "end": "0:51:03",
+            "characters": [
+                {
+                    "name": "Qyburn"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "South to King's Landing",
+            "start": "0:51:03",
+            "end": "0:52:11",
+            "characters": [
+                {
+                    "name": "Qyburn"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Steelshanks Walton"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:52:11",
+            "end": "0:52:40",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Steelshanks Walton"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:52:40",
+            "end": "0:52:43",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:52:43",
+            "end": "0:54:01",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "The Bear"
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Qyburn"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:54:01",
+            "end": "0:54:56",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "The Bear"
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Qyburn"
+                },
+                {
+                    "name": "Steelshanks Walton"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:54:56",
+            "end": "0:55:51",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:55:51",
+            "end": "0:56:11",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Qyburn"
+                },
+                {
+                    "name": "Steelshanks Walton"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:56:11",
+            "end": "0:56:16",
+            "characters": [
+                {
+                    "name": "The Bear"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

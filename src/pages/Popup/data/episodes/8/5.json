@@ -1,0 +1,4490 @@
+{
+    "title": "The Bells",
+    "link": "/title/tt6027916/",
+    "scenes": [
+        {
+            "location": "Dragonstone",
+            "start": "0:04:45",
+            "end": "0:05:19",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:05:19",
+            "end": "0:06:12",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Martha"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:06:12",
+            "end": "0:06:18",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:06:18",
+            "end": "0:06:24",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:06:24",
+            "end": "0:06:28",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:06:28",
+            "end": "0:08:17",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:08:17",
+            "end": "0:08:27",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:08:27",
+            "end": "0:08:42",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:08:42",
+            "end": "0:11:35",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:11:35",
+            "end": "0:12:12",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:12:12",
+            "end": "0:12:21",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:12:21",
+            "end": "0:12:40",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:12:40",
+            "end": "0:14:28",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:14:28",
+            "end": "0:15:15",
+            "characters": [
+                {
+                    "name": "Lord Varys",
+                    "alive": false,
+                    "mannerOfDeath": "Dragon",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:15:15",
+            "end": "0:15:20",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:15:20",
+            "end": "0:16:22",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:16:22",
+            "end": "0:16:53",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:16:53",
+            "end": "0:18:48",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:18:48",
+            "end": "0:20:20",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:20:20",
+            "end": "0:21:21",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:21:21",
+            "end": "0:21:31",
+            "characters": [
+                {
+                    "name": "Eleanor"
+                },
+                {
+                    "name": "Eleanor's Daughter"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:21:31",
+            "end": "0:21:44",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:21:44",
+            "end": "0:22:05",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:05",
+            "end": "0:22:14",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:14",
+            "end": "0:22:19",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:19",
+            "end": "0:22:37",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:37",
+            "end": "0:22:51",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:51",
+            "end": "0:23:00",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:23:00",
+            "end": "0:23:36",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Northern Guard"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:23:36",
+            "end": "0:24:37",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Unsullied Soldier"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:37",
+            "end": "0:24:42",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:42",
+            "end": "0:29:16",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:16",
+            "end": "0:29:21",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:21",
+            "end": "0:29:43",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:29:43",
+            "end": "0:29:49",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:29:49",
+            "end": "0:30:01",
+            "characters": [
+                {
+                    "name": "Euron Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:01",
+            "end": "0:30:21",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:21",
+            "end": "0:30:46",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:46",
+            "end": "0:31:06",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:06",
+            "end": "0:31:33",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:33",
+            "end": "0:31:48",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:48",
+            "end": "0:31:54",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:54",
+            "end": "0:31:59",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:59",
+            "end": "0:32:15",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:15",
+            "end": "0:32:39",
+            "characters": [
+                {
+                    "name": "Harry Strickland"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:39",
+            "end": "0:32:45",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:45",
+            "end": "0:33:17",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:17",
+            "end": "0:33:30",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:30",
+            "end": "0:33:39",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:39",
+            "end": "0:33:52",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:52",
+            "end": "0:34:10",
+            "characters": [
+                {
+                    "name": "Eleanor"
+                },
+                {
+                    "name": "Eleanor's Daughter"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:10",
+            "end": "0:34:25",
+            "characters": [
+                {
+                    "name": "Eleanor"
+                },
+                {
+                    "name": "Eleanor's Daughter"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:25",
+            "end": "0:34:29",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:29",
+            "end": "0:35:06",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:06",
+            "end": "0:35:12",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:12",
+            "end": "0:35:18",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:18",
+            "end": "0:35:22",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:35:22",
+            "end": "0:35:32",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:35:32",
+            "end": "0:35:51",
+            "characters": [
+                {
+                    "name": "Euron Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:35:51",
+            "end": "0:36:04",
+            "characters": [
+                {
+                    "name": "Euron Greyjoy"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:36:04",
+            "end": "0:36:07",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:36:07",
+            "end": "0:36:10",
+            "characters": [
+                {
+                    "name": "Euron Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:36:10",
+            "end": "0:36:13",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:36:13",
+            "end": "0:36:50",
+            "characters": [
+                {
+                    "name": "Euron Greyjoy"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:36:50",
+            "end": "0:37:00",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:00",
+            "end": "0:37:09",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:37:09",
+            "end": "0:37:12",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:12",
+            "end": "0:37:19",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:19",
+            "end": "0:37:21",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:21",
+            "end": "0:37:27",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:27",
+            "end": "0:37:29",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:29",
+            "end": "0:37:32",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:32",
+            "end": "0:37:37",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:37",
+            "end": "0:38:12",
+            "characters": [
+                {
+                    "name": "Harry Strickland"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:12",
+            "end": "0:38:29",
+            "characters": [
+                {
+                    "name": "Harry Strickland"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:29",
+            "end": "0:38:33",
+            "characters": [
+                {
+                    "name": "Harry Strickland"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:33",
+            "end": "0:38:43",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:43",
+            "end": "0:39:11",
+            "characters": [
+                {
+                    "name": "Harry Strickland",
+                    "alive": false,
+                    "mannerOfDeath": "Back stab",
+                    "killedBy": [
+                        "Grey Worm"
+                    ]
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:11",
+            "end": "0:39:39",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:39",
+            "end": "0:39:42",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:42",
+            "end": "0:39:52",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:52",
+            "end": "0:39:55",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:55",
+            "end": "0:40:01",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:01",
+            "end": "0:40:16",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:16",
+            "end": "0:40:19",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:19",
+            "end": "0:40:24",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:24",
+            "end": "0:40:35",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:35",
+            "end": "0:40:44",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:44",
+            "end": "0:40:59",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:59",
+            "end": "0:41:02",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:41:02",
+            "end": "0:41:38",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:41:38",
+            "end": "0:41:41",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:41:41",
+            "end": "0:41:53",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:41:53",
+            "end": "0:42:23",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:42:23",
+            "end": "0:42:46",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:42:46",
+            "end": "0:43:02",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:02",
+            "end": "0:43:11",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:11",
+            "end": "0:43:17",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:17",
+            "end": "0:43:21",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:21",
+            "end": "0:43:31",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:31",
+            "end": "0:43:40",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:40",
+            "end": "0:43:45",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:45",
+            "end": "0:43:49",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:49",
+            "end": "0:44:04",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:04",
+            "end": "0:44:10",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:10",
+            "end": "0:44:12",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:12",
+            "end": "0:44:34",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:34",
+            "end": "0:44:39",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:39",
+            "end": "0:44:52",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:52",
+            "end": "0:44:58",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:58",
+            "end": "0:45:13",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:13",
+            "end": "0:45:21",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:21",
+            "end": "0:45:28",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:28",
+            "end": "0:45:31",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:31",
+            "end": "0:45:36",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:36",
+            "end": "0:45:41",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:41",
+            "end": "0:45:45",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:45",
+            "end": "0:45:49",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:49",
+            "end": "0:46:00",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:00",
+            "end": "0:46:08",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:08",
+            "end": "0:46:13",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:13",
+            "end": "0:46:21",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:21",
+            "end": "0:46:31",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:31",
+            "end": "0:46:37",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:37",
+            "end": "0:46:51",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:51",
+            "end": "0:46:53",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:53",
+            "end": "0:46:58",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:58",
+            "end": "0:47:02",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:02",
+            "end": "0:47:12",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:12",
+            "end": "0:47:14",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:14",
+            "end": "0:47:17",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:17",
+            "end": "0:47:21",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:21",
+            "end": "0:47:30",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:30",
+            "end": "0:47:32",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:32",
+            "end": "0:47:36",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:36",
+            "end": "0:48:00",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:00",
+            "end": "0:48:16",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:16",
+            "end": "0:48:28",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:28",
+            "end": "0:48:30",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:30",
+            "end": "0:48:39",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:39",
+            "end": "0:48:44",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:44",
+            "end": "0:49:05",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:05",
+            "end": "0:49:12",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:12",
+            "end": "0:49:15",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:15",
+            "end": "0:49:22",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:22",
+            "end": "0:49:25",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:25",
+            "end": "0:49:31",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:31",
+            "end": "0:49:34",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:34",
+            "end": "0:49:38",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:38",
+            "end": "0:49:52",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:52",
+            "end": "0:49:56",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:56",
+            "end": "0:50:02",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:50:02",
+            "end": "0:50:35",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:50:35",
+            "end": "0:50:41",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:50:41",
+            "end": "0:51:18",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:18",
+            "end": "0:51:26",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:26",
+            "end": "0:51:44",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:44",
+            "end": "0:51:53",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:53",
+            "end": "0:51:57",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:51:57",
+            "end": "0:52:00",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:00",
+            "end": "0:52:04",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:04",
+            "end": "0:52:08",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:08",
+            "end": "0:52:10",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:10",
+            "end": "0:52:14",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:14",
+            "end": "0:52:24",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:52:24",
+            "end": "0:53:11",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Euron Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:53:11",
+            "end": "0:53:13",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:53:13",
+            "end": "0:53:32",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:53:32",
+            "end": "0:53:34",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:53:34",
+            "end": "0:54:48",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Euron Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:54:48",
+            "end": "0:55:43",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:55:43",
+            "end": "0:57:00",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Euron Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:57:00",
+            "end": "0:57:11",
+            "characters": [
+                {
+                    "name": "Euron Greyjoy",
+                    "alive": false,
+                    "mannerOfDeath": "Gut stab",
+                    "killedBy": [
+                        "Jaime Lannister"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:57:11",
+            "end": "0:57:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:57:23",
+            "end": "0:58:48",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:58:48",
+            "end": "0:58:53",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:58:53",
+            "end": "0:59:34",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:59:34",
+            "end": "1:00:28",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand",
+                    "alive": false,
+                    "mannerOfDeath": "Neck snap",
+                    "killedBy": [
+                        "Gregor Clegane"
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:00:28",
+            "end": "1:00:48",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand",
+                    "alive": false
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:00:48",
+            "end": "1:00:51",
+            "characters": [
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand",
+                    "alive": false
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:00:51",
+            "end": "1:01:36",
+            "characters": [
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:01:36",
+            "end": "1:01:58",
+            "characters": [
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:01:58",
+            "end": "1:03:36",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:03:36",
+            "end": "1:04:47",
+            "characters": [
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:04:47",
+            "end": "1:05:56",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:05:56",
+            "end": "1:06:00",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:00",
+            "end": "1:06:20",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:20",
+            "end": "1:06:23",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:23",
+            "end": "1:06:25",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:25",
+            "end": "1:06:28",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:28",
+            "end": "1:06:29",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:29",
+            "end": "1:06:31",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:31",
+            "end": "1:06:33",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:33",
+            "end": "1:06:35",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:35",
+            "end": "1:06:37",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:37",
+            "end": "1:06:41",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:41",
+            "end": "1:06:42",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:42",
+            "end": "1:06:47",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:47",
+            "end": "1:06:49",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:49",
+            "end": "1:06:53",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:06:53",
+            "end": "1:07:21",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eleanor"
+                },
+                {
+                    "name": "Eleanor's Daughter"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:07:21",
+            "end": "1:07:26",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:07:26",
+            "end": "1:08:54",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Gregor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:08:54",
+            "end": "1:09:07",
+            "characters": [
+                {
+                    "name": "Sandor Clegane",
+                    "alive": false,
+                    "mannerOfDeath": "Fire and fall",
+                    "killedBy": [
+                        "Sandor Clegane"
+                    ]
+                },
+                {
+                    "name": "Gregor Clegane",
+                    "alive": false,
+                    "mannerOfDeath": "Fire and fall",
+                    "killedBy": [
+                        "Sandor Clegane"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:09:07",
+            "end": "1:09:16",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:09:16",
+            "end": "1:09:20",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:09:20",
+            "end": "1:09:21",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:09:21",
+            "end": "1:09:24",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:09:24",
+            "end": "1:09:48",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:09:48",
+            "end": "1:09:50",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:09:50",
+            "end": "1:09:53",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:09:53",
+            "end": "1:10:05",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:10:05",
+            "end": "1:11:10",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:11:10",
+            "end": "1:12:45",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eleanor"
+                },
+                {
+                    "name": "Eleanor's Daughter"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:12:45",
+            "end": "1:13:09",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eleanor"
+                },
+                {
+                    "name": "Eleanor's Daughter"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:12:45",
+            "end": "1:13:12",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eleanor",
+                    "alive": false,
+                    "mannerOfDeath": "Dragon",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Eleanor's Daughter",
+                    "alive": false,
+                    "mannerOfDeath": "Dragon",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:13:12",
+            "end": "1:15:37",
+            "characters": [
+                {
+                    "name": "Jaime Lannister",
+                    "alive": false,
+                    "mannerOfDeath": "Crushed via roof collapse"
+                },
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King",
+                    "alive": false,
+                    "mannerOfDeath": "Crushed via roof collapse"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:15:37",
+            "end": "1:17:14",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:17:14",
+            "end": "1:17:39",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Eleanor",
+                    "alive": false
+                },
+                {
+                    "name": "Eleanor's Daughter",
+                    "alive": false
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "1:17:39",
+            "end": "1:19:24",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}
