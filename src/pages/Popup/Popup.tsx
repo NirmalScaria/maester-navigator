@@ -38,11 +38,13 @@ const Popup = () => {
   }, [currentEpisode]);
 
   useEffect(() => {
-    chrome.storage.local.get(['currentSeason', 'currentEpisode'], (result) => {
+    chrome.storage.local.get(['currentSeason', 'currentEpisode', 'currentSeries'], (result) => {
       if (result.currentSeason)
         setCurrentSeason(result.currentSeason)
       if (result.currentEpisode)
         setCurrentEpisode(result.currentEpisode)
+      if (result.currentSeries)
+        setCurrentSeries(result.currentSeries)
     }
     )
   }, [])
@@ -168,7 +170,7 @@ const Popup = () => {
             if (episode === '0')
               return null;
             return <option key={episode} value={episode}>
-              Episode {episode} - {hotdEpisodes[selectedSeason][Number(episode)].title}
+              Episode {episode} - {(currentSeries == "Game of Thrones" ? episodes : hotdEpisodes)[selectedSeason][Number(episode)].title}
             </option>
           })}
         </select>
