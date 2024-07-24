@@ -10,7 +10,7 @@ body {
   position: relative;
 }
 
-.avatar {
+.avatar-container {
   position: absolute;
   height: 30px;
   width: 30px;
@@ -21,10 +21,15 @@ body {
   transition: all 0.3s;
   margin-left: 0px;
   margin-top: 0px;
-  object-fit: cover;
 }
 
-.avatar:hover {
+.avatar {
+  height: 100%;
+  width: 100%;
+  object-fit: fill;
+}
+
+.avatar-container:hover {
   height: 80px;
   width: 80px;
   margin-left: -20px;
