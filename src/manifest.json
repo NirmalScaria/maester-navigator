@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Maester Navigator",
-  "description": "Live map browser extension for Game of Thrones and House of Dragons.",
+  "name": "Maester Navigator - Live Map for Game of Thrones & House of The Dragon",
+  "description": "Experience Game of Thrones & House of the Dragon like never before with our live map. Track scenes & characters in real-time!",
   "action": {
     "default_popup": "popup.html",
     "default_icon": "icon-34.png"
