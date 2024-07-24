@@ -37,3 +37,48 @@ body {
   z-index: 10;
   border-radius: 9999px;
 }
+
+.custom-select {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding: 10px;
+  gap: 10px;
+}
+
+.custom-select select {
+  appearance: none;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #fff;
+  border: 1px solid #caced1;
+  border-radius: 0.25rem;
+  color: #000;
+  cursor: pointer;
+}
+
+.video-status {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.video-status-playing {
+  background-color: #1ca71c;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;;
+}
+
+.video-status-notfound {
+  background-color: #ff5e00;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
