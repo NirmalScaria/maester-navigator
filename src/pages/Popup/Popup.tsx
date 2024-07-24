@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import './Popup.css';
 import GeoJsonMap from './map';
 import episodes from './data/knownEpisodes.json'
+import hotdEpisodes from './data/hotdEpisodes.json'
 import locations from './data/knownLocations.json' assert { type: "json" };
 import { LatLngExpression } from 'leaflet';
 import characters from './data/knownCharacters.json' assert { type: "json" };
@@ -16,6 +17,7 @@ interface Character {
 const Popup = () => {
   const [currentLocation, setCurrentLocation] = React.useState<LatLngExpression | null>(null);
   const [currentSeason, setCurrentSeason] = React.useState<number>(1);
+  const [currentSeries, setCurrentSeries] = React.useState<string>("Game of Thrones");
   const [selectedSeason, setSelectedSeason] = React.useState<number>(1);
   const [currentEpisode, setCurrentEpisode] = React.useState<number>(1);
   const [chars, setChars] = React.useState<Character[]>([]);
@@ -131,10 +133,22 @@ const Popup = () => {
     <div className="App">
       <div className="top-bar custom-select">
         <select
+          value={currentSeries}
+          onChange={(e) => {
+            setCurrentSeries(e.target.value);
+            setSelectedSeason(1);
+            setCurrentSeason(1);
+            setCurrentEpisode(1);
+          }}
+        >
+          <option value="Game of Thrones">Game of Thrones</option>
+          <option value="House of the Dragon">House of the Dragon</option>
+        </select>
+        <select
           value={currentSeason}
           onChange={(e) => setSelectedSeason(parseInt(e.target.value))}
         >
-          {Object.keys(episodes).map((season) => {
+          {Object.keys(currentSeries == "Game of Thrones" ? episodes : hotdEpisodes).map((season) => {
             if (season === '0')
               return null;
             return <option key={season} value={season}>
@@ -145,17 +159,16 @@ const Popup = () => {
         <select
           value={currentEpisode}
           onChange={(e) => {
-            console.log("Setting current episode : ", e.target.value)
             setCurrentSeason(selectedSeason)
             setCurrentEpisode(parseInt(e.target.value))
-            chrome.storage.local.set({ currentSeason: selectedSeason, currentEpisode: parseInt(e.target.value) })
+            chrome.storage.local.set({ currentSeason: selectedSeason, currentEpisode: parseInt(e.target.value), currentSeries: currentSeries })
           }}
         >
-          {Object.keys(episodes[selectedSeason]).map((episode) => {
+          {Object.keys(currentSeries == "Game of Thrones" ? episodes[selectedSeason] : hotdEpisodes[selectedSeason]).map((episode) => {
             if (episode === '0')
               return null;
             return <option key={episode} value={episode}>
-              Episode {episode} - {episodes[selectedSeason][Number(episode)].title}
+              Episode {episode} - {hotdEpisodes[selectedSeason][Number(episode)].title}
             </option>
           })}
         </select>
