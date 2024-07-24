@@ -32,18 +32,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -60,14 +48,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -83,14 +63,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -116,10 +88,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -140,14 +108,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -159,10 +119,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -183,10 +139,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -227,10 +179,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -344,10 +292,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -359,10 +303,6 @@
                 "Ramsay Snow": {
                     "location": "The Dreadfort",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -454,18 +394,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -482,14 +410,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -505,14 +425,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -538,10 +450,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -562,14 +470,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -581,10 +481,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -605,10 +501,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -649,10 +541,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -766,10 +654,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -781,10 +665,6 @@
                 "Ramsay Snow": {
                     "location": "The Dreadfort",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -906,18 +786,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -934,14 +802,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -957,14 +817,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -990,10 +842,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -1014,14 +862,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -1033,10 +873,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -1057,10 +893,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -1101,10 +933,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -1218,10 +1046,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -1233,10 +1057,6 @@
                 "Ramsay Snow": {
                     "location": "The Dreadfort",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -1328,18 +1148,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -1356,14 +1164,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -1379,14 +1179,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -1412,10 +1204,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -1436,14 +1224,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -1455,10 +1235,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -1479,10 +1255,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -1523,10 +1295,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -1640,10 +1408,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -1655,10 +1419,6 @@
                 "Ramsay Snow": {
                     "location": "The Dreadfort",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -1762,18 +1522,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -1790,14 +1538,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -1813,14 +1553,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -1846,10 +1578,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -1870,14 +1598,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -1889,10 +1609,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -1913,10 +1629,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -1957,10 +1669,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -2074,10 +1782,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -2089,10 +1793,6 @@
                 "Ramsay Snow": {
                     "location": "The Dreadfort",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -2181,18 +1881,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -2209,14 +1897,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -2232,14 +1912,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -2265,10 +1937,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -2289,14 +1957,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -2308,10 +1968,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -2332,10 +1988,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -2376,10 +2028,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -2493,10 +2141,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -2508,10 +2152,6 @@
                 "Ramsay Snow": {
                     "location": "The Dreadfort",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -2601,18 +2241,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -2629,14 +2257,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -2652,14 +2272,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -2685,10 +2297,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -2709,14 +2317,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -2728,10 +2328,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -2752,10 +2348,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -2796,10 +2388,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -2913,10 +2501,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -2928,10 +2512,6 @@
                 "Ramsay Snow": {
                     "location": "The Dreadfort",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -3020,18 +2600,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -3048,14 +2616,6 @@
                     "location": "The Dreadfort",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -3071,14 +2631,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -3104,10 +2656,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -3128,14 +2676,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -3147,10 +2687,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -3171,10 +2707,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -3215,10 +2747,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -3332,10 +2860,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -3347,10 +2871,6 @@
                 "Ramsay Snow": {
                     "location": "The Dreadfort",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -3439,18 +2959,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -3467,14 +2975,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -3490,14 +2990,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -3523,10 +3015,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -3547,14 +3035,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -3566,10 +3046,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -3590,10 +3066,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -3634,10 +3106,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -3751,10 +3219,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -3766,10 +3230,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -3855,18 +3315,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -3883,14 +3331,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -3906,14 +3346,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -3939,10 +3371,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -3963,14 +3391,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -3982,10 +3402,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -4006,10 +3422,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -4050,10 +3462,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -4167,10 +3575,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -4182,10 +3586,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -4282,18 +3682,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -4310,14 +3698,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -4333,14 +3713,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -4366,10 +3738,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -4390,14 +3758,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -4409,10 +3769,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -4433,10 +3789,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -4477,10 +3829,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -4594,10 +3942,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -4609,10 +3953,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -4701,18 +4041,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -4729,14 +4057,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -4752,14 +4072,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -4785,10 +4097,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -4809,14 +4117,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -4828,10 +4128,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -4852,10 +4148,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -4896,10 +4188,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -5013,10 +4301,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -5028,10 +4312,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -5128,18 +4408,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -5156,14 +4424,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -5179,14 +4439,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -5212,10 +4464,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -5236,14 +4484,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -5255,10 +4495,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -5279,10 +4515,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -5323,10 +4555,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -5440,10 +4668,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -5455,10 +4679,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -5553,18 +4773,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -5581,14 +4789,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -5604,14 +4804,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -5637,10 +4829,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -5661,14 +4849,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -5680,10 +4860,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -5704,10 +4880,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -5748,10 +4920,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -5865,10 +5033,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -5880,10 +5044,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -5985,18 +5145,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -6013,14 +5161,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -6036,14 +5176,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -6069,10 +5201,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -6093,14 +5221,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -6112,10 +5232,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -6136,10 +5252,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -6180,10 +5292,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -6297,10 +5405,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -6312,10 +5416,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -6411,18 +5511,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -6439,14 +5527,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -6462,14 +5542,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -6495,10 +5567,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -6519,14 +5587,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -6538,10 +5598,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -6562,10 +5618,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -6606,10 +5658,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -6723,10 +5771,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -6738,10 +5782,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -6834,18 +5874,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -6862,14 +5890,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -6885,14 +5905,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -6918,10 +5930,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -6942,14 +5950,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -6961,10 +5961,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -6985,10 +5981,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -7029,10 +6021,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -7146,10 +6134,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -7161,10 +6145,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -7257,18 +6237,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -7285,14 +6253,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -7308,14 +6268,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -7341,10 +6293,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -7365,14 +6313,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -7384,10 +6324,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -7408,10 +6344,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -7452,10 +6384,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -7569,10 +6497,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -7584,10 +6508,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -7690,18 +6610,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -7718,14 +6626,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -7741,14 +6641,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -7774,10 +6666,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -7798,14 +6686,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -7817,10 +6697,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -7841,10 +6717,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -7885,10 +6757,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -8002,10 +6870,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -8017,10 +6881,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -8110,18 +6970,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -8138,14 +6986,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -8161,14 +7001,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -8194,10 +7026,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -8218,14 +7046,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -8237,10 +7057,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -8261,10 +7077,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -8305,10 +7117,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -8422,10 +7230,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -8437,10 +7241,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -8533,18 +7333,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -8561,14 +7349,6 @@
                     "location": "Moat Cailin",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -8584,14 +7364,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -8617,10 +7389,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -8641,14 +7409,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -8660,10 +7420,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -8684,10 +7440,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -8728,10 +7480,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -8845,10 +7593,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -8860,10 +7604,6 @@
                 "Ramsay Snow": {
                     "location": "Moat Cailin",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -8959,18 +7699,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -8987,14 +7715,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -9010,14 +7730,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -9043,10 +7755,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -9067,14 +7775,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -9086,10 +7786,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -9110,10 +7806,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -9154,10 +7846,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -9271,10 +7959,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -9286,10 +7970,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -9382,18 +8062,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -9410,14 +8078,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -9433,14 +8093,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -9466,10 +8118,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -9490,14 +8138,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -9509,10 +8149,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -9533,10 +8169,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -9577,10 +8209,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -9694,10 +8322,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -9709,10 +8333,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -9811,18 +8431,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -9839,14 +8447,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -9862,14 +8462,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -9895,10 +8487,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -9919,14 +8507,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -9938,10 +8518,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -9962,10 +8538,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -10006,10 +8578,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -10123,10 +8691,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -10138,10 +8702,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -10243,18 +8803,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -10271,14 +8819,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -10294,14 +8834,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -10327,10 +8859,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -10351,14 +8879,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -10370,10 +8890,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -10394,10 +8910,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -10438,10 +8950,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -10555,10 +9063,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -10570,10 +9074,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -10666,18 +9166,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -10694,14 +9182,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -10717,14 +9197,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -10750,10 +9222,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -10774,14 +9242,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -10793,10 +9253,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -10817,10 +9273,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -10861,10 +9313,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -10978,10 +9426,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -10993,10 +9437,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -11092,18 +9532,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -11120,14 +9548,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -11143,14 +9563,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -11176,10 +9588,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -11200,14 +9608,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -11219,10 +9619,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -11243,10 +9639,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -11287,10 +9679,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -11404,10 +9792,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -11419,10 +9803,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -11515,18 +9895,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -11543,14 +9911,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -11566,14 +9926,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -11599,10 +9951,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -11623,14 +9971,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -11642,10 +9982,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -11666,10 +10002,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -11710,10 +10042,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -11827,10 +10155,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -11842,10 +10166,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -11935,18 +10255,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -11963,14 +10271,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -11986,14 +10286,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -12019,10 +10311,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -12043,14 +10331,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -12062,10 +10342,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -12086,10 +10362,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -12130,10 +10402,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -12247,10 +10515,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -12262,10 +10526,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -12368,18 +10628,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -12396,14 +10644,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -12419,14 +10659,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -12452,10 +10684,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -12476,14 +10704,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -12495,10 +10715,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -12519,10 +10735,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -12563,10 +10775,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -12680,10 +10888,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -12695,10 +10899,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -12794,18 +10994,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -12822,14 +11010,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -12845,14 +11025,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -12878,10 +11050,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -12902,14 +11070,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -12921,10 +11081,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -12945,10 +11101,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -12989,10 +11141,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -13106,10 +11254,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -13121,10 +11265,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -13239,18 +11379,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -13267,14 +11395,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -13290,14 +11410,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -13323,10 +11435,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -13347,14 +11455,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -13366,10 +11466,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -13390,10 +11486,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -13434,10 +11526,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -13551,10 +11639,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -13566,10 +11650,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -13692,18 +11772,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -13720,14 +11788,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -13743,14 +11803,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -13776,10 +11828,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -13800,14 +11848,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -13819,10 +11859,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -13843,10 +11879,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -13887,10 +11919,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -14004,10 +12032,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -14019,10 +12043,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -14058,10 +12078,6 @@
                 },
                 "Daario Naharis": {
                     "location": "Meereen",
-                    "priority": 3
-                },
-                "Oberyn Martell": {
-                    "location": "King's Landing",
                     "priority": 3
                 },
                 "Ellaria Sand": {
@@ -14138,18 +12154,6 @@
                     "location": "Craster's Keep",
                     "priority": 2
                 },
-                "Robb Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
-                "Eddard Stark": {
-                    "location": "The Haunted Forest",
-                    "priority": 1
-                },
-                "Catelyn Stark": {
-                    "location": "The Twins",
-                    "priority": 2
-                },
                 "Rickon Stark": {
                     "location": "The Gift",
                     "priority": 3
@@ -14166,14 +12170,6 @@
                     "location": "Winterfell",
                     "priority": 3
                 },
-                "Rodrik Cassel": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Jory Cassel": {
-                    "location": "King's Landing",
-                    "priority": 4
-                },
                 "Summer": {
                     "location": "Craster's Keep",
                     "priority": 4
@@ -14189,14 +12185,6 @@
                 "Jaime Lannister": {
                     "location": "King's Landing",
                     "priority": 1
-                },
-                "Maester Luwin": {
-                    "location": "Winterfell",
-                    "priority": 4
-                },
-                "Joffrey Baratheon": {
-                    "location": "King's Landing",
-                    "priority": 3
                 },
                 "Sandor Clegane": {
                     "location": "The Eyrie",
@@ -14222,10 +12210,6 @@
                     "location": "Meereen",
                     "priority": 1
                 },
-                "Viserys Targaryen": {
-                    "location": "Vaes Dothrak",
-                    "priority": 1
-                },
                 "Benjen Stark": {
                     "location": "Castle Black",
                     "priority": 3
@@ -14246,14 +12230,6 @@
                     "location": "Meereen",
                     "priority": 3
                 },
-                "Doreah": {
-                    "location": "Qarth",
-                    "priority": 4
-                },
-                "Rast": {
-                    "location": "Craster's Keep",
-                    "priority": 4
-                },
                 "Lord Varys": {
                     "location": "King's Landing",
                     "priority": 2
@@ -14265,10 +12241,6 @@
                 "Petyr Baelish": {
                     "location": "The Eyrie",
                     "priority": 2
-                },
-                "Jeor Mormont": {
-                    "location": "Craster's Keep",
-                    "priority": 3
                 },
                 "Alliser Thorne": {
                     "location": "Castle Black",
@@ -14289,10 +12261,6 @@
                 "Lancel Lannister": {
                     "location": "King's Landing",
                     "priority": 3
-                },
-                "Yoren": {
-                    "location": "The Kingsroad",
-                    "priority": 4
                 },
                 "Maester Aemon": {
                     "location": "Castle Black",
@@ -14333,10 +12301,6 @@
                 "Osha": {
                     "location": "The Gift",
                     "priority": 4
-                },
-                "Beric Dondarrion": {
-                    "location": "Hollow Hill",
-                    "priority": 3
                 },
                 "Tywin Lannister": {
                     "location": "King's Landing",
@@ -14450,10 +12414,6 @@
                     "location": "King's Landing",
                     "priority": 3
                 },
-                "Orell": {
-                    "location": "The Gift",
-                    "priority": 4
-                },
                 "Meera Reed": {
                     "location": "Craster's Keep",
                     "priority": 3
@@ -14465,10 +12425,6 @@
                 "Ramsay Snow": {
                     "location": "Winterfell",
                     "priority": 3
-                },
-                "Locke": {
-                    "location": "Craster's Keep",
-                    "priority": 4
                 },
                 "Brynden Tully": {
                     "location": "The Twins",
@@ -14504,10 +12460,6 @@
                 },
                 "Daario Naharis": {
                     "location": "Meereen",
-                    "priority": 3
-                },
-                "Oberyn Martell": {
-                    "location": "King's Landing",
                     "priority": 3
                 },
                 "Ellaria Sand": {
