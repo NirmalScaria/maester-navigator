@@ -17,7 +17,7 @@ function ClusterGroup({ group }: { group: any }) {
     var i = 0;
     for (const char of group) {
         if(char.image === undefined) continue;
-        groupHtml+=`<img src=${char.image} class='avatar' style='left:${i * 20}px;' alt=${char.name} />`
+        groupHtml+=`<div class="avatar-container" style='left:${i * 20}px;'><img src=${char.image} class='avatar' alt=${char.name} /></div>`
         i += 1;
     }
     groupHtml+="</div>"

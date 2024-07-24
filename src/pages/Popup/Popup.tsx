@@ -25,6 +25,8 @@ const Popup = () => {
   const currentSeasonRef = useRef(currentSeason);
   const currentEpisodeRef = useRef(currentEpisode);
 
+  var currentSceneValue: any;
+
   useEffect(() => {
     currentSeasonRef.current = currentSeason;
   }, [currentSeason]);
@@ -75,6 +77,11 @@ const Popup = () => {
             const scenes = currentEpisodeData.scenes
             const currentTime = results[0].result.currentTime
             const currentScene = scenes.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
+            if(currentSceneValue == currentScene) {
+              console.log("Same. skipping")
+              return;
+            }
+            currentSceneValue = currentScene;
             if (currentScene && currentScene.location) {
               const locationName: string = currentScene.location
               // @ts-ignore
@@ -85,7 +92,6 @@ const Popup = () => {
             if (currentScene && currentScene.allCharacters) {
               const charactersInScene = currentScene.allCharacters
               const characterList: Character[] = []
-              console.log("Characters in scene: ", charactersInScene)
               // Loop through the dict
               for (const characterName of Object.keys(charactersInScene)) {
                 const thisCharacter = charactersInScene[characterName]
@@ -99,7 +105,6 @@ const Popup = () => {
                 }
                 characterList.push(characterObject)
               }
-              console.log('list: ', characterList)
               if (chars != characterList) {
                 setChars(characterList)
               }
