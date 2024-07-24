@@ -1,0 +1,1069 @@
+{
+    "title": "Oathkeeper",
+    "link": "/title/tt2972428/",
+    "scenes": [
+        {
+            "location": "Meereen",
+            "start": "0:01:54",
+            "end": "0:03:48",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:03:48",
+            "end": "0:04:11",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:04:11",
+            "end": "0:04:18",
+            "characters": [],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:04:18",
+            "end": "0:05:12",
+            "characters": [
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:05:12",
+            "end": "0:05:45",
+            "characters": [
+                {
+                    "name": "Mossador"
+                },
+                {
+                    "name": "Elder Meereen Slave"
+                },
+                {
+                    "name": "Valyrian Slave"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:05:45",
+            "end": "0:07:06",
+            "characters": [
+                {
+                    "name": "Mossador"
+                },
+                {
+                    "name": "Elder Meereen Slave"
+                },
+                {
+                    "name": "Valyrian Slave"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:07:06",
+            "end": "0:07:52",
+            "characters": [
+                {
+                    "name": "Great Master #1",
+                    "alive": false,
+                    "mannerOfDeath": "Multiple stabs"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:07:52",
+            "end": "0:08:56",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:08:56",
+            "end": "0:09:10",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:09:10",
+            "end": "0:09:29",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:09:29",
+            "end": "0:09:51",
+            "characters": [],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:09:51",
+            "end": "0:10:09",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:10:09",
+            "end": "0:12:21",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:21",
+            "end": "0:15:02",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Vale",
+            "start": "0:15:02",
+            "end": "0:18:04",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:04",
+            "end": "0:20:28",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:20:28",
+            "end": "0:20:45",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Grenn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:20:45",
+            "end": "0:22:11",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:22:11",
+            "end": "0:22:58",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Olly"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Olly": {
+                    "location": "Castle Black",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:22:58",
+            "end": "0:23:35",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:23:35",
+            "end": "0:24:34",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:24:34",
+            "end": "0:24:41",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Alliser Thorne"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:41",
+            "end": "0:27:15",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:27:15",
+            "end": "0:27:53",
+            "characters": [
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:27:53",
+            "end": "0:30:51",
+            "characters": [
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:51",
+            "end": "0:33:06",
+            "characters": [
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "gives",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "receives",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:06",
+            "end": "0:35:17",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:35:17",
+            "end": "0:36:38",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:36:38",
+            "end": "0:36:46",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:36:46",
+            "end": "0:37:10",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Janos Slynt"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:37:10",
+            "end": "0:39:44",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Pypar"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:39:44",
+            "end": "0:42:05",
+            "characters": [
+                {
+                    "name": "Karl Tanner"
+                },
+                {
+                    "name": "Sissy"
+                },
+                {
+                    "name": "Rast"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:42:05",
+            "end": "0:43:31",
+            "characters": [
+                {
+                    "name": "Karl Tanner"
+                },
+                {
+                    "name": "Sissy"
+                },
+                {
+                    "name": "Craster's Wife #2"
+                },
+                {
+                    "name": "Craster's Wife #3"
+                },
+                {
+                    "name": "Rast"
+                },
+                {
+                    "name": "Morag"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:43:31",
+            "end": "0:44:35",
+            "characters": [
+                {
+                    "name": "Rast"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:44:35",
+            "end": "0:45:49",
+            "characters": [
+                {
+                    "name": "Rast"
+                },
+                {
+                    "name": "Ghost"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:45:49",
+            "end": "0:46:38",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:46:38",
+            "end": "0:47:02",
+            "characters": [
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Ghost"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:47:02",
+            "end": "0:47:18",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:47:18",
+            "end": "0:48:02",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:48:02",
+            "end": "0:48:15",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:48:15",
+            "end": "0:48:41",
+            "characters": [
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Rast"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Craster's Keep",
+            "start": "0:48:41",
+            "end": "0:51:15",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Karl Tanner"
+                },
+                {
+                    "name": "Sissy"
+                },
+                {
+                    "name": "Rast"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Lands of Always Winter",
+            "start": "0:51:15",
+            "end": "0:52:51",
+            "characters": [
+                {
+                    "name": "White Walker"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Lands of Always Winter",
+            "start": "0:52:51",
+            "end": "0:53:43",
+            "characters": [
+                {
+                    "name": "White Walker"
+                },
+                {
+                    "name": "The Night King",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "The Night King": {
+                    "location": "The Lands of Always Winter",
+                    "priority": 1
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1214 @@
+{
+    "title": "Book of the Stranger",
+    "link": "/title/tt4283016/",
+    "scenes": [
+        {
+            "location": "Castle Black",
+            "start": "0:05:08",
+            "end": "0:06:15",
+            "characters": [
+                {
+                    "name": "Eddison Tollett",
+                    "weapon": [
+                        {
+                            "action": "gives",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "receives",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:06:15",
+            "end": "0:06:47",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:06:47",
+            "end": "0:07:37",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:07:37",
+            "end": "0:10:37",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:10:37",
+            "end": "0:11:26",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:11:26",
+            "end": "0:12:16",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Runestone",
+            "start": "0:12:16",
+            "end": "0:12:35",
+            "characters": [
+                {
+                    "name": "Robin Arryn"
+                },
+                {
+                    "name": "Yohn Royce"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Runestone",
+            "start": "0:12:35",
+            "end": "0:12:39",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Runestone",
+            "start": "0:12:39",
+            "end": "0:15:20",
+            "characters": [
+                {
+                    "name": "Robin Arryn"
+                },
+                {
+                    "name": "Yohn Royce"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Runestone",
+            "start": "0:15:20",
+            "end": "0:15:44",
+            "characters": [
+                {
+                    "name": "Robin Arryn"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Runestone",
+            "start": "0:15:44",
+            "end": "0:15:53",
+            "characters": [
+                {
+                    "name": "Robin Arryn"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Yohn Royce"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:15:53",
+            "end": "0:16:41",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:16:41",
+            "end": "0:19:31",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Yezzan zo Qaggaz"
+                },
+                {
+                    "name": "Razdal mo Eraz"
+                },
+                {
+                    "name": "Belicho Paenymion"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:19:31",
+            "end": "0:21:49",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Kesh"
+                },
+                {
+                    "name": "Ash"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:21:49",
+            "end": "0:22:57",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:22:57",
+            "end": "0:25:56",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:25:56",
+            "end": "0:26:22",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Dothraki Woman Having Sex",
+                    "sex": {
+                        "with": [
+                            "Dothraki Man Having Sex"
+                        ],
+                        "when": "present",
+                        "type": "fun"
+                    }
+                },
+                {
+                    "name": "Dothraki Man Having Sex",
+                    "sex": {
+                        "with": [
+                            "Dothraki Woman Having Sex"
+                        ],
+                        "when": "present",
+                        "type": "fun"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:26:22",
+            "end": "0:28:40",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Akho",
+                    "alive": false,
+                    "mannerOfDeath": "Chest stab",
+                    "killedBy": [
+                        "Daario Naharis"
+                    ]
+                },
+                {
+                    "name": "Iggo",
+                    "alive": false,
+                    "mannerOfDeath": "Neck snap",
+                    "killedBy": [
+                        "Daario Naharis"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:28:40",
+            "end": "0:29:51",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "High Priestess"
+                },
+                {
+                    "name": "Ornela"
+                },
+                {
+                    "name": "Dothraki Widow #1"
+                },
+                {
+                    "name": "Dothraki Widow #2"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:29:51",
+            "end": "0:31:05",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Ornela"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:05",
+            "end": "0:31:41",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Septa Unella"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:41",
+            "end": "0:32:02",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Septa Unella"
+                },
+                {
+                    "name": "High Sparrow"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:02",
+            "end": "0:35:50",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "High Sparrow"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:50",
+            "end": "0:37:41",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:41",
+            "end": "0:38:46",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Tommen Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:46",
+            "end": "0:40:57",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:57",
+            "end": "0:43:33",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Kevan Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Pyke",
+            "start": "0:43:33",
+            "end": "0:44:06",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Pyke",
+            "start": "0:44:06",
+            "end": "0:46:39",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Yara Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:46:39",
+            "end": "0:50:01",
+            "characters": [
+                {
+                    "name": "Ramsay Snow"
+                },
+                {
+                    "name": "Osha",
+                    "alive": false,
+                    "mannerOfDeath": "Throat stab",
+                    "killedBy": [
+                        "Ramsay Snow"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:50:01",
+            "end": "0:50:11",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:50:11",
+            "end": "0:51:00",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:51:00",
+            "end": "0:51:17",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Night's Watchman"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:51:17",
+            "end": "0:53:55",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:53:55",
+            "end": "0:54:30",
+            "characters": [
+                {
+                    "name": "Khal Moro"
+                },
+                {
+                    "name": "Dothraki Bloodrider #1"
+                },
+                {
+                    "name": "Dothraki Bloodrider #2"
+                },
+                {
+                    "name": "Khal Forzho"
+                },
+                {
+                    "name": "Khal Brozho"
+                },
+                {
+                    "name": "Khal Rhalko"
+                },
+                {
+                    "name": "Khal Qorro"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:54:40",
+            "end": "0:54:46",
+            "characters": [
+                {
+                    "name": "Khal Moro"
+                },
+                {
+                    "name": "Dothraki Bloodrider #1"
+                },
+                {
+                    "name": "Dothraki Bloodrider #2"
+                },
+                {
+                    "name": "Khal Forzho"
+                },
+                {
+                    "name": "Khal Brozho"
+                },
+                {
+                    "name": "Khal Rhalko"
+                },
+                {
+                    "name": "Khal Qorro"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "High Priestess"
+                },
+                {
+                    "name": "Ornela"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:54:46",
+            "end": "0:58:15",
+            "characters": [
+                {
+                    "name": "Khal Moro"
+                },
+                {
+                    "name": "Dothraki Bloodrider #1"
+                },
+                {
+                    "name": "Dothraki Bloodrider #2"
+                },
+                {
+                    "name": "Khal Forzho"
+                },
+                {
+                    "name": "Khal Brozho"
+                },
+                {
+                    "name": "Khal Rhalko"
+                },
+                {
+                    "name": "Khal Qorro"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:58:15",
+            "end": "0:58:23",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:58:23",
+            "end": "0:58:39",
+            "characters": [
+                {
+                    "name": "Khal Moro",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Dothraki Bloodrider #1",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Dothraki Bloodrider #2",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Khal Forzho",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Khal Brozho",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Khal Rhalko",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Khal Qorro",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:58:39",
+            "end": "0:59:08",
+            "characters": [
+                {
+                    "name": "Qhono"
+                },
+                {
+                    "name": "High Priestess"
+                },
+                {
+                    "name": "Ornela"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:59:08",
+            "end": "0:59:19",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "High Priestess"
+                },
+                {
+                    "name": "Ornela"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:59:19",
+            "end": "0:59:36",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:59:36",
+            "end": "0:59:40",
+            "characters": [
+                {
+                    "name": "Qhono"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:59:40",
+            "end": "0:59:43",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:59:43",
+            "end": "0:59:54",
+            "characters": [
+                {
+                    "name": "High Priestess"
+                },
+                {
+                    "name": "Ornela"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:59:54",
+            "end": "1:00:33",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1880 @@
+{
+    "title": "The Old Gods and the New",
+    "link": "/title/tt2085238/",
+    "scenes": [
+        {
+            "location": "Winterfell",
+            "start": "0:01:54",
+            "end": "0:02:33",
+            "characters": [
+                {
+                    "name": "Maester Luwin"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:02:33",
+            "end": "0:03:13",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Dagmer Cleftjaw"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:03:13",
+            "end": "0:04:03",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Bran Stark"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:04:03",
+            "end": "0:05:35",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Maester Luwin"
+                },
+                {
+                    "name": "Dagmer Cleftjaw"
+                },
+                {
+                    "name": "Farlen"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Rickon Stark"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:05:35",
+            "end": "0:06:27",
+            "characters": [
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Dagmer Cleftjaw"
+                },
+                {
+                    "name": "Bran Stark"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:06:27",
+            "end": "0:10:03",
+            "characters": [
+                {
+                    "name": "Rodrik Cassel",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "Theon Greyjoy"
+                    ]
+                },
+                {
+                    "name": "Black Lorren"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Maester Luwin"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Dagmer Cleftjaw"
+                },
+                {
+                    "name": "Rickon Stark"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:10:03",
+            "end": "0:12:44",
+            "characters": [
+                {
+                    "name": "Ghost"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Qhorin Halfhand"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:12:44",
+            "end": "0:14:22",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Tywin Lannister"
+                },
+                {
+                    "name": "Amory Lorch"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:14:22",
+            "end": "0:17:20",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Tywin Lannister"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:17:20",
+            "end": "0:20:38",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Qhorin Halfhand"
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                },
+                "Ygritte": {
+                    "location": "Frostfang Mountains",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:20:38",
+            "end": "0:22:12",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:22:12",
+            "end": "0:23:41",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:23:41",
+            "end": "0:24:38",
+            "characters": [
+                {
+                    "name": "Myrcella Baratheon"
+                },
+                {
+                    "name": "High Septon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                },
+                "High Septon": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:38",
+            "end": "0:25:01",
+            "characters": [
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                },
+                "High Septon": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:01",
+            "end": "0:25:12",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                },
+                "High Septon": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:12",
+            "end": "0:25:39",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                },
+                "High Septon": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:39",
+            "end": "0:27:09",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "High Septon",
+                    "alive": false,
+                    "mannerOfDeath": "Torn apart",
+                    "killedBy": [
+                        "King's Landing Mob"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                },
+                "High Septon": {
+                    "location": "King's Landing",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:27:09",
+            "end": "0:27:13",
+            "characters": [
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:27:13",
+            "end": "0:27:18",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:27:18",
+            "end": "0:27:28",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "King's Landing Rioter #1"
+                },
+                {
+                    "name": "King's Landing Rioter #2"
+                },
+                {
+                    "name": "King's Landing Rioter #3"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:27:28",
+            "end": "0:28:11",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:11",
+            "end": "0:28:25",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "King's Landing Rioter #1"
+                },
+                {
+                    "name": "King's Landing Rioter #2"
+                },
+                {
+                    "name": "King's Landing Rioter #3"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:25",
+            "end": "0:28:34",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:34",
+            "end": "0:29:15",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "King's Landing Rioter #1",
+                    "alive": false,
+                    "mannerOfDeath": "Gutted",
+                    "killedBy": [
+                        "Sandor Clegane"
+                    ]
+                },
+                {
+                    "name": "King's Landing Rioter #2",
+                    "alive": false,
+                    "mannerOfDeath": "Back stab",
+                    "killedBy": [
+                        "Sandor Clegane"
+                    ]
+                },
+                {
+                    "name": "King's Landing Rioter #3",
+                    "alive": false,
+                    "mannerOfDeath": "Throat slash",
+                    "killedBy": [
+                        "Sandor Clegane"
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:15",
+            "end": "0:29:24",
+            "characters": [],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:24",
+            "end": "0:29:43",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:29:43",
+            "end": "0:30:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Xaro Xhoan Daxos"
+                },
+                {
+                    "name": "Kovarro"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:30:23",
+            "end": "0:34:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Xaro Xhoan Daxos"
+                },
+                {
+                    "name": "Kovarro"
+                },
+                {
+                    "name": "Spice King"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:34:23",
+            "end": "0:36:53",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Tywin Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:36:53",
+            "end": "0:37:11",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:37:11",
+            "end": "0:38:12",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Amory Lorch"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:38:12",
+            "end": "0:38:41",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Jaqen H'ghar"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:38:41",
+            "end": "0:38:51",
+            "characters": [
+                {
+                    "name": "Tywin Lannister"
+                },
+                {
+                    "name": "Amory Lorch",
+                    "alive": false,
+                    "mannerOfDeath": "Poison dart",
+                    "killedBy": [
+                        "Jaqen H'ghar"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:38:51",
+            "end": "0:39:27",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Quent"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Oxcross",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:39:27",
+            "end": "0:41:04",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Talisa Maegyr"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "The Woods",
+                    "priority": 2
+                },
+                "Talisa Maegyr": {
+                    "location": "Camp of the North",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:41:04",
+            "end": "0:41:50",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Talisa Maegyr"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Brienne of Tarth": {
+                    "location": "Camp of the North",
+                    "priority": 2
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:41:50",
+            "end": "0:42:24",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Roose Bolton"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:42:24",
+            "end": "0:45:08",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:45:08",
+            "end": "0:46:29",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Roose Bolton"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:46:29",
+            "end": "0:48:17",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy",
+                    "sex": {
+                        "with": [
+                            "Osha"
+                        ],
+                        "when": "future",
+                        "type": "served"
+                    }
+                },
+                {
+                    "name": "Osha",
+                    "sex": {
+                        "with": [
+                            "Theon Greyjoy"
+                        ],
+                        "when": "future",
+                        "type": "served"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:48:17",
+            "end": "0:49:10",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:49:10",
+            "end": "0:49:43",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Osha"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:49:43",
+            "end": "0:50:24",
+            "characters": [
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Drennan",
+                    "alive": false,
+                    "mannerOfDeath": "Throat slash",
+                    "killedBy": [
+                        "Osha"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:50:24",
+            "end": "0:50:43",
+            "characters": [
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Rickon Stark"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Shaggydog"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:50:43",
+            "end": "0:51:33",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Xaro Xhoan Daxos"
+                },
+                {
+                    "name": "Kovarro"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:51:33",
+            "end": "0:52:17",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Xaro Xhoan Daxos"
+                },
+                {
+                    "name": "Kovarro"
+                },
+                {
+                    "name": "Irri",
+                    "alive": false,
+                    "killedBy": [
+                        "Doreah"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:52:17",
+            "end": "0:52:37",
+            "characters": [
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                }
+            ],
+            "allCharacters": {
+                "Gregor Clegane": {
+                    "location": "Harrenhal",
+                    "priority": 3
+                },
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Podrick Payne": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        }
+    ]
+}

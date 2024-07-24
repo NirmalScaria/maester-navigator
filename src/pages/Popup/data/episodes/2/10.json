@@ -1,0 +1,1128 @@
+{
+    "title": "Valar Morghulis",
+    "link": "/title/tt2112510/",
+    "scenes": [
+        {
+            "location": "King's Landing",
+            "start": "0:01:54",
+            "end": "0:02:45",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:02:45",
+            "end": "0:03:34",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:03:34",
+            "end": "0:04:37",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:04:37",
+            "end": "0:08:07",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:08:07",
+            "end": "0:09:22",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Petyr Baelish"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:09:22",
+            "end": "0:11:49",
+            "characters": [
+                {
+                    "name": "Ros"
+                },
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "East to King's Landing",
+            "start": "0:11:49",
+            "end": "0:13:24",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "East to King's Landing",
+            "start": "0:13:24",
+            "end": "0:16:47",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Soldier Tom",
+                    "alive": false,
+                    "mannerOfDeath": "Multiple stabs",
+                    "killedBy": [
+                        "Brienne of Tarth"
+                    ]
+                },
+                {
+                    "name": "Stark Soldier",
+                    "alive": false,
+                    "mannerOfDeath": "Throat slash",
+                    "killedBy": [
+                        "Brienne of Tarth"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:16:47",
+            "end": "0:18:31",
+            "characters": [
+                {
+                    "name": "Robb Stark",
+                    "title": "King"
+                },
+                {
+                    "name": "Catelyn Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:18:31",
+            "end": "0:22:05",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:22:05",
+            "end": "0:26:49",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Maester Luwin"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:26:49",
+            "end": "0:28:28",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Dagmer Cleftjaw"
+                },
+                {
+                    "name": "Black Lorren"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:28:28",
+            "end": "0:28:54",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Dagmer Cleftjaw"
+                },
+                {
+                    "name": "Black Lorren"
+                },
+                {
+                    "name": "Maester Luwin"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:54",
+            "end": "0:30:11",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:11",
+            "end": "0:30:46",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:46",
+            "end": "0:33:32",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Camp of the North",
+            "start": "0:33:32",
+            "end": "0:34:23",
+            "characters": [
+                {
+                    "name": "Septon"
+                },
+                {
+                    "name": "Robb Stark",
+                    "title": "King",
+                    "married": {
+                        "to": "Talisa Maegyr",
+                        "when": "present",
+                        "type": "love",
+                        "consummated": true
+                    }
+                },
+                {
+                    "name": "Talisa Maegyr",
+                    "married": {
+                        "to": "Robb Stark",
+                        "when": "present",
+                        "type": "love",
+                        "consummated": true
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:34:23",
+            "end": "0:35:26",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Kovarro"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:35:26",
+            "end": "0:35:41",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:35:41",
+            "end": "0:36:04",
+            "characters": [
+                {
+                    "name": "Kovarro"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:36:04",
+            "end": "0:36:31",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:36:31",
+            "end": "0:36:43",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Gendry"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:36:43",
+            "end": "0:37:00",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Hot Pie"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Jaqen H'ghar"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:37:00",
+            "end": "0:39:12",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Jaqen H'ghar"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Harrenhal",
+            "start": "0:39:12",
+            "end": "0:39:36",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Jaqen H'ghar"
+                },
+                {
+                    "name": "Jaqen's Disguise"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:39:36",
+            "end": "0:40:49",
+            "characters": [
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Rickon Stark"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Shaggydog"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:40:49",
+            "end": "0:42:29",
+            "characters": [
+                {
+                    "name": "Maester Luwin"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Rickon Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:42:29",
+            "end": "0:43:08",
+            "characters": [
+                {
+                    "name": "Maester Luwin",
+                    "alive": false,
+                    "killedBy": [
+                        "Osha"
+                    ]
+                },
+                {
+                    "name": "Osha"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:43:08",
+            "end": "0:43:35",
+            "characters": [
+                {
+                    "name": "Shaggydog"
+                },
+                {
+                    "name": "Summer"
+                },
+                {
+                    "name": "Osha"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Rickon Stark"
+                },
+                {
+                    "name": "Bran Stark"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:43:35",
+            "end": "0:44:28",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:28",
+            "end": "0:46:11",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:46:11",
+            "end": "0:46:51",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Vaes Dothrak",
+            "start": "0:46:51",
+            "end": "0:49:31",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal",
+                    "alive": false
+                },
+                {
+                    "name": "Rhaego"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:49:31",
+            "end": "0:51:47",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                },
+                {
+                    "name": "Pyat Pree",
+                    "alive": false,
+                    "mannerOfDeath": "Dragon",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:51:47",
+            "end": "0:54:51",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "receives",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ygritte",
+                    "weapon": [
+                        {
+                            "action": "gives",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Qhorin Halfhand",
+                    "alive": false,
+                    "mannerOfDeath": "Chest stab",
+                    "killedBy": [
+                        "Jon Snow"
+                    ]
+                },
+                {
+                    "name": "Rattleshirt",
+                    "weapon": [
+                        {
+                            "action": "takes",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Frostfang Mountains",
+            "start": "0:54:51",
+            "end": "0:55:31",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Ygritte"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:55:31",
+            "end": "0:56:05",
+            "characters": [
+                {
+                    "name": "Xaro Xhoan Daxos",
+                    "sex": {
+                        "with": [
+                            "Doreah"
+                        ],
+                        "when": "past",
+                        "type": "coerced"
+                    }
+                },
+                {
+                    "name": "Kovarro"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Doreah",
+                    "sex": {
+                        "with": [
+                            "Xaro Xhoan Daxos"
+                        ],
+                        "when": "past",
+                        "type": "coerced"
+                    }
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:56:05",
+            "end": "0:57:08",
+            "characters": [
+                {
+                    "name": "Xaro Xhoan Daxos",
+                    "alive": false,
+                    "mannerOfDeath": "Safe",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Kovarro"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Doreah",
+                    "alive": false,
+                    "mannerOfDeath": "Safe",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:57:08",
+            "end": "0:57:20",
+            "characters": [
+                {
+                    "name": "Kovarro"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:57:20",
+            "end": "0:57:53",
+            "characters": [
+                {
+                    "name": "Kovarro"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Qarth",
+            "start": "0:57:53",
+            "end": "0:58:11",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:58:11",
+            "end": "0:59:54",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Grenn"
+                },
+                {
+                    "name": "Eddison Tollett"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "0:59:54",
+            "end": "1:00:24",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "1:00:24",
+            "end": "1:01:23",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "White Walker"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Fist of the First Men",
+            "start": "1:01:23",
+            "end": "1:02:04",
+            "characters": [
+                {
+                    "name": "White Walker"
+                }
+            ],
+            "allCharacters": {
+                "Beric Dondarrion": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        }
+    ]
+}

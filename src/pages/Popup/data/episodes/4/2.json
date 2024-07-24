@@ -1,0 +1,3363 @@
+{
+    "title": "The Lion and the Rose",
+    "link": "/title/tt2832378/",
+    "scenes": [
+        {
+            "location": "The Dreadfort",
+            "start": "0:01:54",
+            "end": "0:04:15",
+            "characters": [
+                {
+                    "name": "Tansy",
+                    "alive": false,
+                    "mannerOfDeath": "Mauling",
+                    "killedBy": [
+                        "Ramsay's hounds"
+                    ]
+                },
+                {
+                    "name": "Ramsay Snow"
+                },
+                {
+                    "name": "Myranda"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:04:15",
+            "end": "0:05:00",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:05:00",
+            "end": "0:05:56",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:05:56",
+            "end": "0:07:31",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:07:31",
+            "end": "0:07:47",
+            "characters": [],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:07:47",
+            "end": "0:08:23",
+            "characters": [
+                {
+                    "name": "Roose Bolton",
+                    "married": {
+                        "to": "Walda Bolton",
+                        "when": "past",
+                        "type": "arranged",
+                        "consummated": true
+                    }
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Ramsay Snow"
+                },
+                {
+                    "name": "Walda Bolton",
+                    "married": {
+                        "to": "Ramsay Snow",
+                        "when": "past",
+                        "type": "arranged",
+                        "consummated": true
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:08:23",
+            "end": "0:08:35",
+            "characters": [
+                {
+                    "name": "Roose Bolton"
+                },
+                {
+                    "name": "Ramsay Snow"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:08:35",
+            "end": "0:08:45",
+            "characters": [
+                {
+                    "name": "Roose Bolton"
+                },
+                {
+                    "name": "Ramsay Snow"
+                },
+                {
+                    "name": "Locke"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dreadfort",
+            "start": "0:08:45",
+            "end": "0:13:40",
+            "characters": [
+                {
+                    "name": "Roose Bolton"
+                },
+                {
+                    "name": "Locke"
+                },
+                {
+                    "name": "Ramsay Snow"
+                },
+                {
+                    "name": "Theon Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:13:40",
+            "end": "0:14:43",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:43",
+            "end": "0:15:02",
+            "characters": [
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:15:02",
+            "end": "0:15:23",
+            "characters": [
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:15:23",
+            "end": "0:16:04",
+            "characters": [
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:16:04",
+            "end": "0:16:06",
+            "characters": [
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:16:06",
+            "end": "0:16:48",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand",
+                    "weapon": [
+                        {
+                            "action": "gives",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "receives",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:16:48",
+            "end": "0:16:50",
+            "characters": [
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:16:50",
+            "end": "0:17:15",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:17:15",
+            "end": "0:17:18",
+            "characters": [
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:17:18",
+            "end": "0:17:27",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:17:27",
+            "end": "0:19:22",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:19:22",
+            "end": "0:19:48",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:19:48",
+            "end": "0:20:01",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:20:01",
+            "end": "0:20:34",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Axell Florent",
+                    "alive": false,
+                    "mannerOfDeath": "Burning",
+                    "killedBy": [
+                        "Melisandre"
+                    ]
+                },
+                {
+                    "name": "Selyse Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:20:34",
+            "end": "0:20:54",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Selyse Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:20:54",
+            "end": "0:21:18",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lightbringer"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:21:18",
+            "end": "0:21:33",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Selyse Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:21:33",
+            "end": "0:23:15",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Selyse Baratheon"
+                },
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:23:15",
+            "end": "0:24:41",
+            "characters": [
+                {
+                    "name": "Shireen Baratheon"
+                },
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:24:41",
+            "end": "0:25:16",
+            "characters": [
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:25:16",
+            "end": "0:26:22",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:26:22",
+            "end": "0:26:39",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:26:39",
+            "end": "0:26:49",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:26:49",
+            "end": "0:27:30",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:27:30",
+            "end": "0:28:04",
+            "characters": [
+                {
+                    "name": "Three-Eyed Raven"
+                },
+                {
+                    "name": "Eddard Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Ice"
+                        }
+                    ]
+                },
+                {
+                    "name": "Wight Wildling Girl"
+                },
+                {
+                    "name": "White Walker"
+                },
+                {
+                    "name": "Bran Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Haunted Forest",
+            "start": "0:28:04",
+            "end": "0:28:17",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Hodor"
+                },
+                {
+                    "name": "Jojen Reed"
+                },
+                {
+                    "name": "Meera Reed"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:17",
+            "end": "0:28:22",
+            "characters": [],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:22",
+            "end": "0:29:00",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "High Septon"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:56",
+            "end": "0:29:03",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "High Septon"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:03",
+            "end": "0:29:06",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "High Septon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:06",
+            "end": "0:29:11",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "High Septon"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:11",
+            "end": "0:29:14",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "High Septon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:14",
+            "end": "0:29:19",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:19",
+            "end": "0:29:30",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "High Septon"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:30",
+            "end": "0:29:41",
+            "characters": [
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:41",
+            "end": "0:29:48",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "married": {
+                        "to": "Margaery Tyrell",
+                        "when": "present",
+                        "type": "arranged",
+                        "consummated": false
+                    }
+                },
+                {
+                    "name": "Margaery Tyrell",
+                    "married": {
+                        "to": "Joffrey Baratheon",
+                        "when": "present",
+                        "type": "arranged",
+                        "consummated": false
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:48",
+            "end": "0:29:54",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:54",
+            "end": "0:30:00",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "High Septon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:00",
+            "end": "0:30:12",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:12",
+            "end": "0:30:25",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Mace Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                },
+                "Mace Tyrell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:30:25",
+            "end": "0:31:00",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:00",
+            "end": "0:31:43",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:43",
+            "end": "0:31:58",
+            "characters": [
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Kayla"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:58",
+            "end": "0:32:12",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:12",
+            "end": "0:32:28",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:28",
+            "end": "0:32:30",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:30",
+            "end": "0:32:33",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:33",
+            "end": "0:32:52",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:52",
+            "end": "0:32:59",
+            "characters": [
+                {
+                    "name": "Musician #1"
+                },
+                {
+                    "name": "Musician #2"
+                },
+                {
+                    "name": "Musician #3"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:59",
+            "end": "0:33:06",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:06",
+            "end": "0:33:08",
+            "characters": [
+                {
+                    "name": "Musician #1"
+                },
+                {
+                    "name": "Musician #2"
+                },
+                {
+                    "name": "Musician #3"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:08",
+            "end": "0:33:22",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Musician #1"
+                },
+                {
+                    "name": "Musician #2"
+                },
+                {
+                    "name": "Musician #3"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:22",
+            "end": "0:33:25",
+            "characters": [
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:25",
+            "end": "0:33:31",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:31",
+            "end": "0:33:40",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:40",
+            "end": "0:34:18",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:18",
+            "end": "0:34:32",
+            "characters": [
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:32",
+            "end": "0:35:26",
+            "characters": [
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:26",
+            "end": "0:36:11",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Mace Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:11",
+            "end": "0:36:18",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:18",
+            "end": "0:37:21",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:21",
+            "end": "0:37:26",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:26",
+            "end": "0:38:25",
+            "characters": [
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:25",
+            "end": "0:38:52",
+            "characters": [
+                {
+                    "name": "Dontos Hollard"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:52",
+            "end": "0:40:22",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:22",
+            "end": "0:40:55",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Meryn Trant"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:55",
+            "end": "0:45:27",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "King Joffrey Baratheon Dwarf"
+                },
+                {
+                    "name": "King Stannis Baratheon Dwarf"
+                },
+                {
+                    "name": "King Renly Baratheon Dwarf"
+                },
+                {
+                    "name": "King Robb Stark Dwarf"
+                },
+                {
+                    "name": "King Balon Greyjoy Dwarf"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Oberyn Martell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:27",
+            "end": "0:46:28",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:46:28",
+            "end": "0:49:15",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:15",
+            "end": "0:49:36",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:36",
+            "end": "0:49:38",
+            "characters": [
+                {
+                    "name": "Dontos Hollard"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:49:38",
+            "end": "0:50:43",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Dontos Hollard"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false,
+                    "mannerOfDeath": "Poison",
+                    "killedBy": [
+                        "Olenna Tyrell",
+                        "Petyr Baelish"
+                    ]
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:50:43",
+            "end": "0:51:10",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King",
+                    "alive": false
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

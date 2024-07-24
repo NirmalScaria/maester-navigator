@@ -1,0 +1,1583 @@
+{
+    "title": "Eastwatch",
+    "link": "/title/tt5775854/",
+    "scenes": [
+        {
+            "location": "Blackwater Rush",
+            "start": "0:03:55",
+            "end": "0:05:41",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Rush",
+            "start": "0:05:41",
+            "end": "0:05:46",
+            "characters": [
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Rush",
+            "start": "0:05:46",
+            "end": "0:06:29",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Rush",
+            "start": "0:06:29",
+            "end": "0:06:38",
+            "characters": [
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Rush",
+            "start": "0:06:38",
+            "end": "0:06:41",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Rush",
+            "start": "0:06:41",
+            "end": "0:11:21",
+            "characters": [
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Qhono"
+                },
+                {
+                    "name": "Randyll Tarly",
+                    "alive": false,
+                    "mannerOfDeath": "Dragon",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                },
+                {
+                    "name": "Dickon Tarly",
+                    "alive": false,
+                    "mannerOfDeath": "Dragon",
+                    "killedBy": [
+                        "Daenerys Targaryen"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Blackwater Rush",
+            "start": "0:11:21",
+            "end": "0:11:53",
+            "characters": [
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Qhono"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:11:53",
+            "end": "0:12:04",
+            "characters": [
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:04",
+            "end": "0:14:33",
+            "characters": [
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Widow's Wail"
+                        }
+                    ]
+                },
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:14:33",
+            "end": "0:16:31",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:16:31",
+            "end": "0:16:58",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Rhaegal"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:16:58",
+            "end": "0:17:51",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:17:51",
+            "end": "0:18:58",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Qhono"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:18:58",
+            "end": "0:19:10",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:19:10",
+            "end": "0:19:23",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Eastwatch",
+            "start": "0:19:23",
+            "end": "0:19:29",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:19:29",
+            "end": "0:19:36",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "South to the Wall",
+            "start": "0:19:36",
+            "end": "0:20:08",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "South to the Wall",
+            "start": "0:20:08",
+            "end": "0:20:14",
+            "characters": [
+                {
+                    "name": "The Night King",
+                    "title": "King"
+                },
+                {
+                    "name": "White Walker"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:20:14",
+            "end": "0:20:26",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Maester Wolkan"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:20:26",
+            "end": "0:23:09",
+            "characters": [
+                {
+                    "name": "Archmaester Ebrose"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Maester Sandhu"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:23:09",
+            "end": "0:23:27",
+            "characters": [
+                {
+                    "name": "Archmaester Ebrose"
+                },
+                {
+                    "name": "Maester Sandhu"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:23:27",
+            "end": "0:25:09",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:25:09",
+            "end": "0:28:45",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:28:45",
+            "end": "0:29:35",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Robett Glover"
+                },
+                {
+                    "name": "Yohn Royce"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:29:35",
+            "end": "0:31:43",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:43",
+            "end": "0:32:23",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:23",
+            "end": "0:32:50",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:50",
+            "end": "0:33:03",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:03",
+            "end": "0:34:46",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:46",
+            "end": "0:37:10",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Gendry"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:10",
+            "end": "0:39:16",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Kevin Eldon"
+                },
+                {
+                    "name": "Laurence Spellman"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:39:16",
+            "end": "0:40:19",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Kevin Eldon",
+                    "alive": false,
+                    "mannerOfDeath": "Head crush",
+                    "killedBy": [
+                        "Gendry"
+                    ]
+                },
+                {
+                    "name": "Laurence Spellman",
+                    "alive": false,
+                    "mannerOfDeath": "Head crush",
+                    "killedBy": [
+                        "Gendry"
+                    ]
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:19",
+            "end": "0:40:35",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Qyburn",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:35",
+            "end": "0:43:14",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Cersei Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:43:14",
+            "end": "0:43:34",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Gendry"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:43:34",
+            "end": "0:45:18",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Jon Snow",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:45:18",
+            "end": "0:45:56",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:45:56",
+            "end": "0:46:19",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Qhono"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:46:19",
+            "end": "0:47:21",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Qhono"
+                },
+                {
+                    "name": "Jon Snow",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Gendry"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:47:21",
+            "end": "0:49:09",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:49:09",
+            "end": "0:50:01",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Oldtown",
+            "start": "0:50:01",
+            "end": "0:50:43",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:50:43",
+            "end": "0:51:19",
+            "characters": [
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Adele Smyth-Kennedy"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:51:19",
+            "end": "0:51:39",
+            "characters": [
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Yohn Royce"
+                },
+                {
+                    "name": "Robett Glover"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:51:39",
+            "end": "0:52:27",
+            "characters": [
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Maester Wolkan"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:52:27",
+            "end": "0:52:50",
+            "characters": [
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:52:50",
+            "end": "0:54:15",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:54:14",
+            "end": "0:54:33",
+            "characters": [
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        },
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Eastwatch",
+            "start": "0:54:33",
+            "end": "0:54:52",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Eastwatch",
+            "start": "0:54:52",
+            "end": "0:55:47",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Eastwatch",
+            "start": "0:55:47",
+            "end": "0:58:08",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Eastwatch",
+            "start": "0:58:08",
+            "end": "0:58:53",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Wall",
+            "start": "0:58:53",
+            "end": "0:59:10",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "title": "King",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Thoros of Myr"
+                },
+                {
+                    "name": "Beric Dondarrion"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "The Narrow Sea",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Winterfell",
+                    "priority": 3
+                }
+            }
+        }
+    ]
+}

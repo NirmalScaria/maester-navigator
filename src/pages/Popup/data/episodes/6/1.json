@@ -1,0 +1,1288 @@
+{
+    "title": "The Red Woman",
+    "link": "/title/tt3658014/",
+    "scenes": [
+        {
+            "location": "Castle Black",
+            "start": "0:07:04",
+            "end": "0:08:03",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "alive": false
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:08:03",
+            "end": "0:08:09",
+            "characters": [
+                {
+                    "name": "Ghost"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:08:09",
+            "end": "0:08:48",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jon Snow",
+                    "alive": false
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:08:48",
+            "end": "0:09:17",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jon Snow",
+                    "alive": false
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Loyal Night's Watchman #1"
+                },
+                {
+                    "name": "Loyal Night's Watchman #2"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:09:17",
+            "end": "0:10:33",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jon Snow",
+                    "alive": false
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Loyal Night's Watchman #1"
+                },
+                {
+                    "name": "Loyal Night's Watchman #2"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:10:33",
+            "end": "0:11:36",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Jon Snow",
+                    "alive": false
+                },
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Loyal Night's Watchman #1"
+                },
+                {
+                    "name": "Loyal Night's Watchman #2"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:11:36",
+            "end": "0:13:33",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Othell Yarwyck"
+                },
+                {
+                    "name": "Bowen Marsh"
+                },
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Night's Watchman #1"
+                },
+                {
+                    "name": "Night's Watchman #2"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:13:33",
+            "end": "0:14:41",
+            "characters": [
+                {
+                    "name": "Ghost"
+                },
+                {
+                    "name": "Jon Snow",
+                    "alive": false
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Eddison Tollett"
+                },
+                {
+                    "name": "Loyal Night's Watchman #1"
+                },
+                {
+                    "name": "Loyal Night's Watchman #2"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:14:41",
+            "end": "0:14:47",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:14:47",
+            "end": "0:16:03",
+            "characters": [
+                {
+                    "name": "Ramsay Snow"
+                },
+                {
+                    "name": "Myranda",
+                    "alive": false
+                },
+                {
+                    "name": "Maester Wolkan"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Maester Wolkan": {
+                    "location": "Winterfell",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:16:03",
+            "end": "0:17:28",
+            "characters": [
+                {
+                    "name": "Ramsay Snow"
+                },
+                {
+                    "name": "Roose Bolton"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Wolfswood",
+            "start": "0:17:28",
+            "end": "0:19:57",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Wolfswood",
+            "start": "0:19:57",
+            "end": "0:20:52",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Bolton Officer"
+                },
+                {
+                    "name": "Bolton Soldier"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Wolfswood",
+            "start": "0:20:52",
+            "end": "0:22:42",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Bolton Officer",
+                    "alive": false,
+                    "mannerOfDeath": "Chest stab",
+                    "killedBy": [
+                        "Brienne of Tarth"
+                    ]
+                },
+                {
+                    "name": "Bolton Soldier",
+                    "alive": false,
+                    "mannerOfDeath": "Multiple stabs",
+                    "killedBy": [
+                        "Podrick Payne"
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Wolfswood",
+            "start": "0:22:42",
+            "end": "0:24:12",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:24:12",
+            "end": "0:24:27",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:27",
+            "end": "0:24:47",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:47",
+            "end": "0:24:59",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Handmaid"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:24:59",
+            "end": "0:25:51",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:51",
+            "end": "0:28:40",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:40",
+            "end": "0:29:19",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Septa Unella"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:19",
+            "end": "0:29:29",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Septa Unella"
+                },
+                {
+                    "name": "High Sparrow"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:29:29",
+            "end": "0:30:44",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "High Sparrow"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:30:44",
+            "end": "0:31:26",
+            "characters": [
+                {
+                    "name": "Areo Hotah"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Tyene Sand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                },
+                "Tyene Sand": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:31:26",
+            "end": "0:32:06",
+            "characters": [
+                {
+                    "name": "Areo Hotah",
+                    "alive": false,
+                    "mannerOfDeath": "Back stab",
+                    "killedBy": [
+                        "Tyene Sand"
+                    ]
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Tyene Sand"
+                },
+                {
+                    "name": "Maester Caleotte",
+                    "alive": false,
+                    "mannerOfDeath": "Back stab",
+                    "killedBy": [
+                        "Tyene Sand"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:32:06",
+            "end": "0:32:59",
+            "characters": [
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Doran Martell",
+                    "alive": false,
+                    "mannerOfDeath": "Chest stab",
+                    "killedBy": [
+                        "Ellaria Sand"
+                    ]
+                },
+                {
+                    "name": "Tyene Sand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Dorne",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Blackwater Bay",
+            "start": "0:32:59",
+            "end": "0:34:09",
+            "characters": [
+                {
+                    "name": "Trystane Martell",
+                    "alive": false,
+                    "mannerOfDeath": "Face stab",
+                    "killedBy": [
+                        "Obara Sand"
+                    ]
+                },
+                {
+                    "name": "Obara Sand"
+                },
+                {
+                    "name": "Nymeria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:34:09",
+            "end": "0:34:44",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:34:44",
+            "end": "0:35:22",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Meereenese Homeless Mother"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:35:22",
+            "end": "0:36:00",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:36:00",
+            "end": "0:36:31",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Zanrush"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:36:31",
+            "end": "0:37:42",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:37:42",
+            "end": "0:37:48",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dothraki Sea",
+            "start": "0:37:48",
+            "end": "0:40:39",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dothraki Sea",
+            "start": "0:40:39",
+            "end": "0:40:51",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dothraki Sea",
+            "start": "0:40:51",
+            "end": "0:42:08",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Akho"
+                },
+                {
+                    "name": "Qhono"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Qhono": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dothraki Sea",
+            "start": "0:42:08",
+            "end": "0:42:27",
+            "characters": [],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dothraki Sea",
+            "start": "0:42:27",
+            "end": "0:42:48",
+            "characters": [
+                {
+                    "name": "Qhono"
+                },
+                {
+                    "name": "Akho"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Dothraki Sea",
+            "start": "0:42:48",
+            "end": "0:46:28",
+            "characters": [
+                {
+                    "name": "Qhono"
+                },
+                {
+                    "name": "Akho"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Khal Moro"
+                },
+                {
+                    "name": "Moro's Wife #1"
+                },
+                {
+                    "name": "Moro's Wife #2"
+                },
+                {
+                    "name": "Dothraki Bloodrider #1"
+                },
+                {
+                    "name": "Dothraki Bloodrider #2"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:46:28",
+            "end": "0:47:32",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:47:32",
+            "end": "0:48:46",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "The Waif"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:48:46",
+            "end": "0:50:28",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Bowen Marsh"
+                },
+                {
+                    "name": "Othell Yarwyck"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Loyal Night's Watchman #1"
+                },
+                {
+                    "name": "Loyal Night's Watchman #2"
+                },
+                {
+                    "name": "Ghost"
+                },
+                {
+                    "name": "Jon Snow",
+                    "alive": false
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:50:28",
+            "end": "0:51:04",
+            "characters": [
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Loyal Night's Watchman #1"
+                },
+                {
+                    "name": "Loyal Night's Watchman #2"
+                },
+                {
+                    "name": "Ghost"
+                },
+                {
+                    "name": "Jon Snow",
+                    "alive": false
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:51:04",
+            "end": "0:53:45",
+            "characters": [
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

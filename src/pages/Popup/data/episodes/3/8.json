@@ -1,0 +1,1546 @@
+{
+    "title": "Second Sons",
+    "link": "/title/tt2178806/",
+    "scenes": [
+        {
+            "location": "Red Fork",
+            "start": "0:01:54",
+            "end": "0:02:49",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Red Fork",
+            "start": "0:02:49",
+            "end": "0:04:41",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:04:41",
+            "end": "0:04:50",
+            "characters": [],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:04:50",
+            "end": "0:05:56",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:05:56",
+            "end": "0:09:01",
+            "characters": [
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Mero"
+                },
+                {
+                    "name": "Prendahl na Ghezn"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:09:01",
+            "end": "0:09:05",
+            "characters": [
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:09:05",
+            "end": "0:09:32",
+            "characters": [
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:09:32",
+            "end": "0:10:16",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:10:16",
+            "end": "0:10:56",
+            "characters": [
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Melisandre"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:10:56",
+            "end": "0:11:43",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:11:43",
+            "end": "0:15:36",
+            "characters": [
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:15:36",
+            "end": "0:15:54",
+            "characters": [],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:15:54",
+            "end": "0:17:58",
+            "characters": [
+                {
+                    "name": "Mero"
+                },
+                {
+                    "name": "Prendahl na Ghezn"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Yunkai'i Whore"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:17:58",
+            "end": "0:18:59",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:59",
+            "end": "0:20:24",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:20:24",
+            "end": "0:20:27",
+            "characters": [],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:20:27",
+            "end": "0:21:09",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:21:09",
+            "end": "0:22:26",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:22:26",
+            "end": "0:25:31",
+            "characters": [
+                {
+                    "name": "Sansa Stark",
+                    "married": {
+                        "to": "Tyrion Lannister",
+                        "when": "present",
+                        "type": "arranged",
+                        "consummated": false
+                    }
+                },
+                {
+                    "name": "Tyrion Lannister",
+                    "married": {
+                        "to": "Sansa Stark",
+                        "when": "present",
+                        "type": "arranged",
+                        "consummated": false
+                    }
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "High Septon"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:25:31",
+            "end": "0:31:05",
+            "characters": [
+                {
+                    "name": "Gendry",
+                    "sex": {
+                        "with": [
+                            "Melisandre"
+                        ],
+                        "when": "present",
+                        "type": "magic"
+                    }
+                },
+                {
+                    "name": "Melisandre",
+                    "sex": {
+                        "with": [
+                            "Gendry"
+                        ],
+                        "when": "present",
+                        "type": "magic"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Dragonstone",
+            "start": "0:31:05",
+            "end": "0:32:19",
+            "characters": [
+                {
+                    "name": "Gendry"
+                },
+                {
+                    "name": "Melisandre"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:19",
+            "end": "0:32:24",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:24",
+            "end": "0:32:35",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:32:35",
+            "end": "0:33:08",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:08",
+            "end": "0:33:34",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:34",
+            "end": "0:33:50",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:33:50",
+            "end": "0:34:01",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:01",
+            "end": "0:34:05",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Lord Varys"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:34:01",
+            "end": "0:35:06",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:06",
+            "end": "0:35:15",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:15",
+            "end": "0:35:26",
+            "characters": [
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:35:26",
+            "end": "0:36:00",
+            "characters": [
+                {
+                    "name": "Loras Tyrell"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:00",
+            "end": "0:36:05",
+            "characters": [
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:05",
+            "end": "0:36:20",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:20",
+            "end": "0:36:52",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:52",
+            "end": "0:38:44",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "King"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:44",
+            "end": "0:38:49",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:49",
+            "end": "0:42:53",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:42:53",
+            "end": "0:43:05",
+            "characters": [],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:43:05",
+            "end": "0:43:24",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Daario Naharis": {
+                    "location": "Yunkai",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:43:24",
+            "end": "0:44:12",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:44:12",
+            "end": "0:45:14",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:45:14",
+            "end": "0:45:19",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Mero",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "Daario Naharis"
+                    ]
+                },
+                {
+                    "name": "Prendahl na Ghezn",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "Daario Naharis"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Yunkai",
+            "start": "0:45:19",
+            "end": "0:47:02",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:47:02",
+            "end": "0:47:55",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Destroyed Cabin",
+            "start": "0:47:55",
+            "end": "0:52:48",
+            "characters": [
+                {
+                    "name": "Samwell Tarly",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Dragonglass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Destroyed Cabin",
+            "start": "0:52:48",
+            "end": "0:53:22",
+            "characters": [
+                {
+                    "name": "Samwell Tarly",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Dragonglass"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Destroyed Cabin",
+            "start": "0:53:22",
+            "end": "0:53:41",
+            "characters": [
+                {
+                    "name": "Samwell Tarly",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Dragonglass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Destroyed Cabin",
+            "start": "0:53:41",
+            "end": "0:54:44",
+            "characters": [
+                {
+                    "name": "Samwell Tarly",
+                    "weapon": [
+                        {
+                            "action": "loses",
+                            "name": "Dragonglass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                },
+                {
+                    "name": "White Walker",
+                    "alive": false,
+                    "mannerOfDeath": "Back stab",
+                    "killedBy": [
+                        "Samwell Tarly"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Destroyed Cabin",
+            "start": "0:54:44",
+            "end": "0:55:00",
+            "characters": [
+                {
+                    "name": "Samwell Tarly",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Dragonglass"
+                        }
+                    ]
+                },
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Baby Sam"
+                }
+            ],
+            "allCharacters": {
+                "Lothar Frey": {
+                    "location": "Riverrun",
+                    "priority": 4
+                },
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

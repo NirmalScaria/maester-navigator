@@ -1,0 +1,1636 @@
+{
+    "title": "Two Swords",
+    "link": "/title/tt2816136/",
+    "scenes": [
+        {
+            "location": "King's Landing",
+            "start": "0:00:07",
+            "end": "0:01:47",
+            "characters": [
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand",
+                    "weapon": [
+                        {
+                            "action": "destroys",
+                            "name": "Ice"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:03:36",
+            "end": "0:06:29",
+            "characters": [
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Tywin Lannister",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:06:29",
+            "end": "0:08:02",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:08:02",
+            "end": "0:09:25",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Lord Blackmont"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:09:25",
+            "end": "0:11:11",
+            "characters": [
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Olyvar"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Marei"
+                },
+                {
+                    "name": "Whore #1"
+                },
+                {
+                    "name": "Whore #2"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Ellaria Sand": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:11:11",
+            "end": "0:12:10",
+            "characters": [
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Olyvar"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Marei"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Ellaria Sand": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:10",
+            "end": "0:13:54",
+            "characters": [
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Morgan"
+                },
+                {
+                    "name": "Morgan's Friend"
+                },
+                {
+                    "name": "Olyvar"
+                },
+                {
+                    "name": "Ellaria Sand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Ellaria Sand": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:13:54",
+            "end": "0:14:04",
+            "characters": [
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Morgan"
+                },
+                {
+                    "name": "Morgan's Friend"
+                },
+                {
+                    "name": "Olyvar"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:04",
+            "end": "0:14:42",
+            "characters": [
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Olyvar"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:42",
+            "end": "0:14:53",
+            "characters": [
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:53",
+            "end": "0:16:59",
+            "characters": [
+                {
+                    "name": "Oberyn Martell"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:16:59",
+            "end": "0:17:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:17:23",
+            "end": "0:18:09",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                },
+                {
+                    "name": "Viserion"
+                },
+                {
+                    "name": "Rhaegal"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:18:09",
+            "end": "0:18:24",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:18:24",
+            "end": "0:19:07",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:19:07",
+            "end": "0:19:28",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:19:28",
+            "end": "0:20:05",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:20:05",
+            "end": "0:20:19",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:20:19",
+            "end": "0:20:39",
+            "characters": [
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Handmaid"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:20:39",
+            "end": "0:21:20",
+            "characters": [
+                {
+                    "name": "Shae"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:21:20",
+            "end": "0:23:08",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:23:08",
+            "end": "0:25:06",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:06",
+            "end": "0:25:13",
+            "characters": [
+                {
+                    "name": "Handmaid"
+                },
+                {
+                    "name": "Shae"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:25:13",
+            "end": "0:26:18",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Qyburn"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:26:18",
+            "end": "0:28:20",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:28:20",
+            "end": "0:28:28",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Handmaid"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:28:28",
+            "end": "0:29:35",
+            "characters": [
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:29:35",
+            "end": "0:29:44",
+            "characters": [
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:29:44",
+            "end": "0:31:53",
+            "characters": [
+                {
+                    "name": "Ygritte"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Styr"
+                },
+                {
+                    "name": "Thenn Warg"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:31:53",
+            "end": "0:32:18",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Ser Endrew Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:32:18",
+            "end": "0:33:21",
+            "characters": [
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:33:21",
+            "end": "0:35:52",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Maester Aemon"
+                },
+                {
+                    "name": "Othell Yarwyck"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:35:52",
+            "end": "0:36:17",
+            "characters": [
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Maester Aemon"
+                },
+                {
+                    "name": "Othell Yarwyck"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:36:17",
+            "end": "0:37:15",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:15",
+            "end": "0:37:47",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:37:47",
+            "end": "0:38:23",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:38:23",
+            "end": "0:40:18",
+            "characters": [
+                {
+                    "name": "Joffrey Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Jaime Lannister",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:40:18",
+            "end": "0:40:27",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:40:27",
+            "end": "0:40:31",
+            "characters": [],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:40:31",
+            "end": "0:40:48",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:40:48",
+            "end": "0:41:22",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:41:22",
+            "end": "0:42:23",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:42:23",
+            "end": "0:42:30",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Missandei"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:42:30",
+            "end": "0:43:13",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:13",
+            "end": "0:43:24",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:43:24",
+            "end": "0:44:22",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brienne of Tarth"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:44:22",
+            "end": "0:45:04",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:45:04",
+            "end": "0:46:36",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Dontos Hollard"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:46:36",
+            "end": "0:48:07",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:48:07",
+            "end": "0:48:49",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Polliver",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:48:49",
+            "end": "0:49:07",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:49:07",
+            "end": "0:50:12",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Polliver",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Innkeeper's Daughter"
+                },
+                {
+                    "name": "Innkeeper"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:50:12",
+            "end": "0:50:42",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Polliver",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Innkeeper"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:50:42",
+            "end": "0:55:29",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "takes",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Polliver",
+                    "weapon": [
+                        {
+                            "action": "loses",
+                            "name": "Needle"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:55:29",
+            "end": "0:56:24",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Polliver",
+                    "alive": false,
+                    "mannerOfDeath": "Neck stab",
+                    "killedBy": [
+                        "Arya Stark"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Eyrie",
+            "start": "0:56:24",
+            "end": "0:56:51",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Oberyn Martell": {
+                    "location": "King's Landing",
+                    "priority": 3
+                },
+                "Styr": {
+                    "location": "The Gift",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

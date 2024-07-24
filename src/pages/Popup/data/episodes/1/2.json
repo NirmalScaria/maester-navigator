@@ -1,0 +1,2450 @@
+{
+    "title": "The Kingsroad",
+    "link": "/title/tt1668746/",
+    "scenes": [
+        {
+            "location": "The Dothraki Sea",
+            "start": "0:02:22",
+            "end": "0:05:28",
+            "characters": [
+                {
+                    "name": "Jorah Mormont"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal"
+                },
+                {
+                    "name": "Viserys Targaryen"
+                },
+                {
+                    "name": "Doreah"
+                },
+                {
+                    "name": "Irri"
+                },
+                {
+                    "name": "Jhiqui"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:05:28",
+            "end": "0:07:05",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lion's Tooth"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Sandor Clegane": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:07:05",
+            "end": "0:09:18",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Tommen Baratheon"
+                },
+                {
+                    "name": "Myrcella Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Myrcella Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:09:18",
+            "end": "0:11:44",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Cersei Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:11:44",
+            "end": "0:13:26",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:13:26",
+            "end": "0:15:43",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "receives",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Nymeria"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "gives",
+                            "name": "Needle"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:15:43",
+            "end": "0:19:22",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Eddard Stark"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:19:22",
+            "end": "0:20:07",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Robb Stark"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Robb Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:20:07",
+            "end": "0:21:51",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Benjen Stark"
+                },
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Jon Snow"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Kingsroad South to King's Landing",
+            "start": "0:21:51",
+            "end": "0:25:10",
+            "characters": [
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Eddard Stark"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "The Dothraki Sea",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Pentos",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dothraki Camp",
+            "start": "0:25:10",
+            "end": "0:25:56",
+            "characters": [
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal",
+                    "sex": {
+                        "with": [
+                            "Daenerys Targaryen"
+                        ],
+                        "when": "present",
+                        "type": "rape"
+                    }
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi",
+                    "sex": {
+                        "with": [
+                            "Khal Drogo"
+                        ],
+                        "when": "present",
+                        "type": "rape"
+                    }
+                },
+                {
+                    "name": "Drogon",
+                    "born": false
+                },
+                {
+                    "name": "Rhaegal",
+                    "born": false
+                },
+                {
+                    "name": "Viserion",
+                    "born": false
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "North to the Wall",
+            "start": "0:25:56",
+            "end": "0:29:16",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Ghost"
+                },
+                {
+                    "name": "Benjen Stark"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Rast"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "North to the Wall",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Rast": {
+                    "location": "North to the Wall",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:29:16",
+            "end": "0:32:28",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Maester Luwin"
+                },
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Catspaw Assassin",
+                    "alive": false,
+                    "mannerOfDeath": "Mauling",
+                    "killedBy": [
+                        "Summer"
+                    ],
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "North to the Wall",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "The Dothraki Sea",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dothraki Camp",
+            "start": "0:32:28",
+            "end": "0:34:21",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Doreah"
+                },
+                {
+                    "name": "Irri"
+                },
+                {
+                    "name": "Jhiqui"
+                },
+                {
+                    "name": "Drogon",
+                    "born": false
+                },
+                {
+                    "name": "Rhaegal",
+                    "born": false
+                },
+                {
+                    "name": "Viserion",
+                    "born": false
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "North to the Wall",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Gift",
+            "start": "0:34:21",
+            "end": "0:34:53",
+            "characters": [
+                {
+                    "name": "Benjen Stark"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Tyrion Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:34:53",
+            "end": "0:36:12",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Catelyn Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:36:12",
+            "end": "0:38:01",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Robb Stark"
+                },
+                {
+                    "name": "Maester Luwin"
+                },
+                {
+                    "name": "Rodrik Cassel",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Valyrian Steel Dagger"
+                        }
+                    ]
+                },
+                {
+                    "name": "Theon Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:38:01",
+            "end": "0:38:54",
+            "characters": [
+                {
+                    "name": "Catelyn Stark"
+                },
+                {
+                    "name": "Bran Stark"
+                }
+            ],
+            "allCharacters": {
+                "Bran Stark": {
+                    "location": "Winterfell",
+                    "priority": 2
+                },
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dothraki Camp",
+            "start": "0:38:54",
+            "end": "0:40:37",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Doreah"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Doreah": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Dothraki Camp",
+            "start": "0:40:37",
+            "end": "0:42:47",
+            "characters": [
+                {
+                    "name": "Drogon",
+                    "born": false
+                },
+                {
+                    "name": "Rhaegal",
+                    "born": false
+                },
+                {
+                    "name": "Viserion",
+                    "born": false
+                },
+                {
+                    "name": "Khal Drogo",
+                    "title": "Khal",
+                    "sex": {
+                        "with": [
+                            "Daenerys Targaryen"
+                        ],
+                        "when": "present",
+                        "type": "love"
+                    }
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi",
+                    "sex": {
+                        "with": [
+                            "Khal Drogo"
+                        ],
+                        "when": "present",
+                        "type": "love"
+                    }
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:42:47",
+            "end": "0:44:38",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Lady"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Lion's Tooth"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Ilyn Payne"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Winterfell",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:44:38",
+            "end": "0:47:21",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Mycah"
+                },
+                {
+                    "name": "Joffrey Baratheon",
+                    "weapon": [
+                        {
+                            "action": "loses",
+                            "name": "Lion's Tooth"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Nymeria"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:47:21",
+            "end": "0:48:12",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Nymeria"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Winterfell",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:48:12",
+            "end": "0:48:50",
+            "characters": [
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Jory Cassel"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Jory Cassel": {
+                    "location": "Crossroads Inn",
+                    "priority": 4
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "The Kingsroad South to King's Landing",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:48:50",
+            "end": "0:52:59",
+            "characters": [
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Joffrey Baratheon"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Robert Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Ilyn Payne"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Jory Cassel"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:52:59",
+            "end": "0:53:30",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Mycah",
+                    "alive": false,
+                    "mannerOfDeath": "Horse",
+                    "killedBy": [
+                        "Sandor Clegane"
+                    ]
+                },
+                {
+                    "name": "Eddard Stark"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:53:30",
+            "end": "0:53:41",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:53:41",
+            "end": "0:54:09",
+            "characters": [
+                {
+                    "name": "Lady"
+                },
+                {
+                    "name": "Eddard Stark"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:54:09",
+            "end": "0:54:25",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Crossroads Inn",
+            "start": "0:54:25",
+            "end": "0:54:35",
+            "characters": [
+                {
+                    "name": "Eddard Stark"
+                },
+                {
+                    "name": "Lady",
+                    "alive": false,
+                    "mannerOfDeath": "Stab",
+                    "killedBy": [
+                        "Eddard Stark"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Winterfell",
+            "start": "0:54:35",
+            "end": "0:54:44",
+            "characters": [
+                {
+                    "name": "Bran Stark"
+                },
+                {
+                    "name": "Summer"
+                }
+            ],
+            "allCharacters": {
+                "Rickon Stark": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Arya Stark": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Joffrey Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 3
+                },
+                "Hodor": {
+                    "location": "Winterfell",
+                    "priority": 3
+                },
+                "Robert Baratheon": {
+                    "location": "Crossroads Inn",
+                    "priority": 1
+                },
+                "Khal Drogo": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Benjen Stark": {
+                    "location": "The Gift",
+                    "priority": 3
+                },
+                "Jorah Mormont": {
+                    "location": "The Dothraki Sea",
+                    "priority": 2
+                },
+                "Drogon": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Rhaegal": {
+                    "location": "Dothraki Camp",
+                    "priority": 1
+                },
+                "Irri": {
+                    "location": "Dothraki Camp",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}

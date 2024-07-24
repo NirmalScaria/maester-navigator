@@ -1,0 +1,1080 @@
+{
+    "title": "The Broken Man",
+    "link": "/title/tt4283060/",
+    "scenes": [
+        {
+            "location": "Village",
+            "start": "0:03:02",
+            "end": "0:03:39",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:03:39",
+            "end": "0:04:12",
+            "characters": [
+                {
+                    "name": "Brother Ray"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:04:12",
+            "end": "0:04:44",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:06:33",
+            "end": "0:07:11",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Brother Ray"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:07:11",
+            "end": "0:07:19",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:07:19",
+            "end": "0:07:24",
+            "characters": [
+                {
+                    "name": "Brother Ray"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:07:24",
+            "end": "0:07:29",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:07:29",
+            "end": "0:09:49",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Brother Ray"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:09:49",
+            "end": "0:12:38",
+            "characters": [
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "High Sparrow"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:12:38",
+            "end": "0:14:55",
+            "characters": [
+                {
+                    "name": "Septa Unella"
+                },
+                {
+                    "name": "Margaery Tyrell"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:14:55",
+            "end": "0:15:10",
+            "characters": [
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:15:10",
+            "end": "0:17:20",
+            "characters": [
+                {
+                    "name": "Dim Dalba"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                },
+                {
+                    "name": "Wun Wun"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:17:20",
+            "end": "0:17:55",
+            "characters": [
+                {
+                    "name": "Dim Dalba"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:17:55",
+            "end": "0:18:13",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Tormund Giantsbane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:18:13",
+            "end": "0:20:23",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Gregor Clegane"
+                },
+                {
+                    "name": "Olenna Tyrell"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:20:23",
+            "end": "0:20:28",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:20:28",
+            "end": "0:22:00",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:22:00",
+            "end": "0:22:20",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:22:20",
+            "end": "0:22:32",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Black Walder Rivers"
+                },
+                {
+                    "name": "Lothar Frey"
+                },
+                {
+                    "name": "Edmure Tully"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:22:32",
+            "end": "0:22:47",
+            "characters": [
+                {
+                    "name": "Brynden Tully"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:22:47",
+            "end": "0:23:49",
+            "characters": [
+                {
+                    "name": "Brynden Tully"
+                },
+                {
+                    "name": "Black Walder Rivers"
+                },
+                {
+                    "name": "Lothar Frey"
+                },
+                {
+                    "name": "Edmure Tully"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:23:49",
+            "end": "0:25:15",
+            "characters": [
+                {
+                    "name": "Edmure Tully"
+                },
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Black Walder Rivers"
+                },
+                {
+                    "name": "Lothar Frey"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:25:15",
+            "end": "0:25:35",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Bronn"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Bear Island",
+            "start": "0:25:35",
+            "end": "0:25:41",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Bear Island",
+            "start": "0:25:41",
+            "end": "0:30:56",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Lyanna Mormont"
+                },
+                {
+                    "name": "Bear Island Maester"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:30:56",
+            "end": "0:31:54",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Riverrun",
+            "start": "0:31:54",
+            "end": "0:34:26",
+            "characters": [
+                {
+                    "name": "Jaime Lannister"
+                },
+                {
+                    "name": "Brynden Tully"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Deepwood Motte",
+            "start": "0:34:26",
+            "end": "0:36:55",
+            "characters": [
+                {
+                    "name": "Robett Glover"
+                },
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Volantis",
+            "start": "0:36:55",
+            "end": "0:37:21",
+            "characters": [],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Volantis",
+            "start": "0:37:21",
+            "end": "0:38:05",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Yara Greyjoy"
+                },
+                {
+                    "name": "Volantene Whore #1"
+                },
+                {
+                    "name": "Volantene Whore #2"
+                },
+                {
+                    "name": "Volantene Whore #3"
+                },
+                {
+                    "name": "Volantene Whore #4"
+                },
+                {
+                    "name": "Volantene Whore #5"
+                },
+                {
+                    "name": "Ironborn at Brothel"
+                },
+                {
+                    "name": "Ironborn Abusing a Volantene Whore"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Volantis",
+            "start": "0:38:05",
+            "end": "0:40:38",
+            "characters": [
+                {
+                    "name": "Theon Greyjoy"
+                },
+                {
+                    "name": "Yara Greyjoy"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:40:38",
+            "end": "0:41:53",
+            "characters": [
+                {
+                    "name": "Jon Snow",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Longclaw"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Davos Seaworth"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:41:53",
+            "end": "0:42:16",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Davos Seaworth"
+                },
+                {
+                    "name": "Northman Rioter"
+                },
+                {
+                    "name": "Wildling Rioter"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Bear Island",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:42:16",
+            "end": "0:42:26",
+            "characters": [
+                {
+                    "name": "Lyanna Mormont"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Bear Island Maester"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Stannis Baratheon's Camp",
+            "start": "0:42:26",
+            "end": "0:42:57",
+            "characters": [
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:42:57",
+            "end": "0:44:57",
+            "characters": [
+                {
+                    "name": "Brother Ray"
+                },
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:44:57",
+            "end": "0:46:27",
+            "characters": [
+                {
+                    "name": "Brother Ray"
+                },
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Lem Lemoncloak"
+                },
+                {
+                    "name": "Gatins"
+                },
+                {
+                    "name": "Morgan"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:46:27",
+            "end": "0:47:40",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Brother Ray"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:47:40",
+            "end": "0:48:27",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "Westerosi Trader"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:48:27",
+            "end": "0:48:41",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:48:41",
+            "end": "0:49:03",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                },
+                {
+                    "name": "The Waif"
+                },
+                {
+                    "name": "The Waif's Disguise"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:49:03",
+            "end": "0:49:23",
+            "characters": [
+                {
+                    "name": "The Waif"
+                },
+                {
+                    "name": "The Waif's Disguise"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:49:23",
+            "end": "0:50:22",
+            "characters": [
+                {
+                    "name": "Arya Stark"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:50:22",
+            "end": "0:50:50",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:50:50",
+            "end": "0:51:17",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:51:17",
+            "end": "0:51:48",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                },
+                {
+                    "name": "Brother Ray",
+                    "alive": false,
+                    "mannerOfDeath": "Hanging",
+                    "killedBy": [
+                        "Lem Lemoncloak"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        },
+        {
+            "location": "Village",
+            "start": "0:51:48",
+            "end": "0:51:52",
+            "characters": [
+                {
+                    "name": "Sandor Clegane"
+                }
+            ],
+            "allCharacters": {
+                "Obara Sand": {
+                    "location": "Blackwater Bay",
+                    "priority": 4
+                },
+                "Lyanna Mormont": {
+                    "location": "Stannis Baratheon's Camp",
+                    "priority": 3
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1367 @@
+{
+    "title": "The House of Black and White",
+    "link": "/title/tt3846626/",
+    "scenes": [
+        {
+            "location": "Braavos",
+            "start": "0:03:30",
+            "end": "0:04:20",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ternesio Terys"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:04:20",
+            "end": "0:05:44",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Ternesio Terys"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:05:44",
+            "end": "0:06:53",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Faceless Man"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:06:53",
+            "end": "0:08:27",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Inn",
+            "start": "0:08:27",
+            "end": "0:08:36",
+            "characters": [
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Inn",
+            "start": "0:08:36",
+            "end": "0:09:56",
+            "characters": [
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Inn Waitress"
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Sansa Stark"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Inn",
+            "start": "0:09:56",
+            "end": "0:12:55",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Petyr Baelish"
+                },
+                {
+                    "name": "Sansa Stark"
+                },
+                {
+                    "name": "Eyrie Guard"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Inn",
+            "start": "0:12:55",
+            "end": "0:13:14",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Eyrie Guard"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "the Inn",
+            "start": "0:13:14",
+            "end": "0:16:05",
+            "characters": [
+                {
+                    "name": "Brienne of Tarth",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Oathkeeper"
+                        }
+                    ]
+                },
+                {
+                    "name": "Podrick Payne"
+                },
+                {
+                    "name": "Eyrie Guard",
+                    "alive": false,
+                    "mannerOfDeath": "Throat slash",
+                    "killedBy": [
+                        "Brienne of Tarth"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:16:05",
+            "end": "0:18:30",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Stokeworth",
+            "start": "0:18:30",
+            "end": "0:19:59",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Lollys Stokeworth"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Stokeworth",
+            "start": "0:19:59",
+            "end": "0:20:32",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Lollys Stokeworth"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Stokeworth",
+            "start": "0:20:32",
+            "end": "0:21:23",
+            "characters": [
+                {
+                    "name": "Bronn"
+                },
+                {
+                    "name": "Jaime Lannister"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:21:23",
+            "end": "0:21:52",
+            "characters": [
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Myrcella Baratheon"
+                },
+                {
+                    "name": "Trystane Martell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:21:52",
+            "end": "0:22:55",
+            "characters": [
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Areo Hotah"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                },
+                "Areo Hotah": {
+                    "location": "The Water Gardens",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:22:55",
+            "end": "0:22:59",
+            "characters": [
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Myrcella Baratheon"
+                },
+                {
+                    "name": "Trystane Martell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:22:59",
+            "end": "0:23:41",
+            "characters": [
+                {
+                    "name": "Ellaria Sand"
+                },
+                {
+                    "name": "Doran Martell"
+                },
+                {
+                    "name": "Areo Hotah"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "The Water Gardens",
+            "start": "0:23:41",
+            "end": "0:23:48",
+            "characters": [
+                {
+                    "name": "Areo Hotah"
+                },
+                {
+                    "name": "Doran Martell"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:23:48",
+            "end": "0:25:11",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Grey Worm"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:25:11",
+            "end": "0:25:32",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Son of the Harpy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:25:32",
+            "end": "0:25:46",
+            "characters": [
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Son of the Harpy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:25:46",
+            "end": "0:27:17",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Mossador"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:27:17",
+            "end": "0:28:34",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Barristan Selmy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Pentos to Volantis",
+            "start": "0:28:34",
+            "end": "0:31:00",
+            "characters": [
+                {
+                    "name": "Tyrion Lannister"
+                },
+                {
+                    "name": "Lord Varys"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:00",
+            "end": "0:31:35",
+            "characters": [
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Dwarf Hunter #1"
+                },
+                {
+                    "name": "Dwarf Hunter #2"
+                },
+                {
+                    "name": "Qyburn"
+                },
+                {
+                    "name": "Meryn Trant"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "King's Landing",
+            "start": "0:31:35",
+            "end": "0:34:33",
+            "characters": [
+                {
+                    "name": "Kevan Lannister"
+                },
+                {
+                    "name": "Grand Maester Pycelle"
+                },
+                {
+                    "name": "Mace Tyrell"
+                },
+                {
+                    "name": "Cersei Lannister"
+                },
+                {
+                    "name": "Qyburn"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:34:33",
+            "end": "0:36:52",
+            "characters": [
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Shireen Baratheon"
+                },
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:36:52",
+            "end": "0:37:05",
+            "characters": [
+                {
+                    "name": "Gilly"
+                },
+                {
+                    "name": "Shireen Baratheon"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Selyse Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:37:05",
+            "end": "0:37:34",
+            "characters": [
+                {
+                    "name": "Shireen Baratheon"
+                },
+                {
+                    "name": "Selyse Baratheon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:37:34",
+            "end": "0:39:55",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Stannis Baratheon",
+                    "title": "King"
+                },
+                {
+                    "name": "Davos Seaworth",
+                    "title": "Hand"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:39:55",
+            "end": "0:40:36",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Samwell Tarly"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:40:36",
+            "end": "0:44:29",
+            "characters": [
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Maester Aemon"
+                },
+                {
+                    "name": "Othell Yarwyck"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Denys Mallister"
+                },
+                {
+                    "name": "Mallister Supporter"
+                },
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Eddison Tollett"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Castle Black",
+            "start": "0:44:29",
+            "end": "0:45:38",
+            "characters": [
+                {
+                    "name": "Othell Yarwyck"
+                },
+                {
+                    "name": "Samwell Tarly"
+                },
+                {
+                    "name": "Janos Slynt"
+                },
+                {
+                    "name": "Alliser Thorne"
+                },
+                {
+                    "name": "Denys Mallister"
+                },
+                {
+                    "name": "Olly"
+                },
+                {
+                    "name": "Jon Snow"
+                },
+                {
+                    "name": "Maester Aemon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:45:38",
+            "end": "0:46:22",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Street Tough #1"
+                },
+                {
+                    "name": "Street Tough #2"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:46:22",
+            "end": "0:46:29",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Street Tough #1"
+                },
+                {
+                    "name": "Street Tough #2"
+                },
+                {
+                    "name": "Faceless Man"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:46:29",
+            "end": "0:46:33",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Faceless Man"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Braavos",
+            "start": "0:46:33",
+            "end": "0:47:40",
+            "characters": [
+                {
+                    "name": "Arya Stark",
+                    "weapon": [
+                        {
+                            "action": "has",
+                            "name": "Needle"
+                        }
+                    ]
+                },
+                {
+                    "name": "Faceless Man"
+                },
+                {
+                    "name": "Jaqen H'ghar"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:47:40",
+            "end": "0:48:13",
+            "characters": [
+                {
+                    "name": "Mossador"
+                },
+                {
+                    "name": "Son of the Harpy"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:48:13",
+            "end": "0:48:26",
+            "characters": [
+                {
+                    "name": "Son of the Harpy",
+                    "alive": false,
+                    "mannerOfDeath": "Multiple stabs",
+                    "killedBy": [
+                        "Mossador"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:48:26",
+            "end": "0:50:06",
+            "characters": [
+                {
+                    "name": "Mossador"
+                },
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:50:06",
+            "end": "0:51:06",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:51:06",
+            "end": "0:52:44",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                },
+                {
+                    "name": "Mossador",
+                    "alive": false,
+                    "mannerOfDeath": "Decapitation",
+                    "killedBy": [
+                        "Daario Naharis"
+                    ]
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:52:44",
+            "end": "0:53:42",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                },
+                {
+                    "name": "Hizdahr zo Loraq"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:53:42",
+            "end": "0:54:01",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Grey Worm"
+                },
+                {
+                    "name": "Barristan Selmy"
+                },
+                {
+                    "name": "Missandei"
+                },
+                {
+                    "name": "Daario Naharis"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:54:01",
+            "end": "0:54:42",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        },
+        {
+            "location": "Meereen",
+            "start": "0:54:42",
+            "end": "0:55:45",
+            "characters": [
+                {
+                    "name": "Daenerys Targaryen",
+                    "title": "Khaleesi"
+                },
+                {
+                    "name": "Drogon"
+                }
+            ],
+            "allCharacters": {
+                "Myranda": {
+                    "location": "The Dreadfort",
+                    "priority": 4
+                },
+                "Yohn Royce": {
+                    "location": "Runestone",
+                    "priority": 4
+                }
+            }
+        }
+    ]
+}
