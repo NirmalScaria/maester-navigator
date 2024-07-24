@@ -9,3 +9,25 @@ body {
   -moz-osx-font-smoothing: grayscale;
   position: relative;
 }
+
+.avatar {
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  border: 2px solid white;
+  border-radius: 9999px;
+  z-index: 3;
+  overflow: hidden;
+  transition: all 0.3s;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+
+.avatar:hover {
+  height: 60px;
+  width: 60px;
+  margin-left: -15px;
+  margin-top: -15px;
+  z-index: 10;
+  border-radius: 9999px;
+}
