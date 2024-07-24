@@ -74,6 +74,9 @@ const Popup = () => {
               if (currentLocation != location)
                 setCurrentLocation(location)
             }
+            if(currentScene && currentScene.allCharacters) {
+              // console.log(currentScene.allCharacters)
+            }
           }
         }
       );
