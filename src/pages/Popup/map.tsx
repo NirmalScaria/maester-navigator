@@ -20,7 +20,6 @@ function GeoJsonMap({ currentLocation, characters }: { currentLocation: LatLngEx
       mapRef.current?.setView(currentLocation, 5);
     }
   })
-
   return (
     <MapContainer
       minZoom={2.32}

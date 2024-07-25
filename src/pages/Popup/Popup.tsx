@@ -6,9 +6,6 @@ import hotdEpisodes from './data/hotdEpisodes.json'
 import locations from './data/knownLocations.json' assert { type: "json" };
 import { LatLngExpression } from 'leaflet';
 import characters from './data/knownCharacters.json' assert { type: "json" };
-import { firebaseApp } from "./firebase-app-config";
-import { initializeApp } from 'firebase/app';
-import { getDatabase, ref, child, get } from "firebase/database";
 
 interface Character {
   name: string;
@@ -24,7 +21,10 @@ const Popup = () => {
   const [selectedSeason, setSelectedSeason] = React.useState<number>(1);
   const [currentEpisode, setCurrentEpisode] = React.useState<number>(1);
   const [chars, setChars] = React.useState<Character[]>([]);
+  // const [remoteCharacters, setRemoteCharacters] = React.useState<any>({});
 
+  var remoteCharacters: any = {};
+  var remoteLocations: any = {};
   var episodeData = {}
 
   const currentSeasonRef = useRef(currentSeason);
@@ -32,8 +32,6 @@ const Popup = () => {
   const currentSeriesRef = useRef(currentSeries);
 
   var currentSceneValue: any;
-
-  const db = getDatabase(firebaseApp);
 
   useEffect(() => {
     currentSeasonRef.current = currentSeason;
@@ -88,15 +86,14 @@ const Popup = () => {
               // @ts-ignore
               episodeData[`${currentSeriesRef.current}s${currentSeasonRef.current}e${currentEpisodeRef.current}`] = currentEpisodeData
             }
-            console.log("Reading from ", currentEpisodeData)
             const scenes = currentEpisodeData.scenes
             const currentTime = results[0].result.currentTime
             const currentScene = scenes.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
             if (currentSceneValue == currentScene) {
-              console.log("Same. skipping")
               return;
             }
             currentSceneValue = currentScene;
+            console.log("Current scene : ", currentScene)
             if (currentScene && currentScene.location) {
               const locationName: string = currentScene.location
               // @ts-ignore
@@ -110,15 +107,27 @@ const Popup = () => {
               // Loop through the dict
               for (const characterName of Object.keys(charactersInScene)) {
                 const thisCharacter = charactersInScene[characterName]
-                const characterObject = {
-                  name: characterName,
-                  // @ts-ignore
-                  image: characters[characterName]["characterImageThumb"],
-                  // @ts-ignore
-                  location: locations[thisCharacter.location],
-                  priority: thisCharacter.priority
+                if (currentSeriesRef.current == "Game of Thrones") {
+                  const characterObject = {
+                    name: characterName,
+                    // @ts-ignore
+                    image: characters[characterName]["characterImageThumb"],
+                    // @ts-ignore
+                    location: locations[thisCharacter.location],
+                    priority: thisCharacter.priority
+                  }
+                  characterList.push(characterObject)
                 }
-                characterList.push(characterObject)
+                else {
+                  const characterObject = {
+                    name: characterName,
+                    image: remoteCharacters[characterName].image,
+                    // @ts-ignore
+                    location: remoteLocations[thisCharacter.location],
+                    priority: 1
+                  }
+                  characterList.push(characterObject)
+                }
               }
               if (chars != characterList) {
                 setChars(characterList)
@@ -131,22 +140,29 @@ const Popup = () => {
   }
 
   async function importEpisodeData({ season, episode, series }: { season: number, episode: number, series: string }) {
-    console.log("Fetching data for", series, season, episode)
     var response;
     if (series == "Game of Thrones") {
       response = await import(`./data/episodes/${season}/${episode}.json`)
       return response;
     }
     else {
-      console.log("Fetching data from firebase for", series, season, episode)
-      const dbRef = ref(getDatabase());
-      const snapshot = await get(child(dbRef, `House of the Dragon/S${season}E${episode}/`))
-      if (snapshot.exists()) {
-        console.log(snapshot.val());
-        return snapshot.val();
-      } else {
-        console.log("No data available");
+      console.log("Series is House of the Dragon")
+      if (Object.keys(remoteCharacters).length == 0) {
+        const url = "https://maester-navigator-dashboard.vercel.app/api/getChars"
+        const response = await fetch(url);
+        const data = await response.json();
+        remoteCharacters = data;
       }
+      if (Object.keys(remoteLocations).length == 0) {
+        const url = "https://maester-navigator-dashboard.vercel.app/api/getLocations"
+        const response = await fetch(url);
+        const data = await response.json();
+        remoteLocations = data;
+      }
+      const url = `https://maester-navigator-dashboard.vercel.app/api/getEpisode?season=${season}&episode=${episode}`
+      const response = await fetch(url);
+      const data = await response.json();
+      return data;
     }
 
   }
