@@ -13,16 +13,28 @@ import { Marker } from 'react-leaflet';
 import places from './data/places.json'
 
 function ClusterGroup({ group }: { group: any }) {
-    var groupHtml="<div style='relative'>"
+    const groupSize = group.length;
+    const numRows = Math.ceil(Math.sqrt(groupSize));
+    var groupHtml = `<div style='position: relative; transform: translate(${ -8 * numRows}px, ${-8 * numRows}px);'>`
+    var rowId = 0;
     var i = 0;
-    for (const char of group) {
-        if(char.image === undefined) continue;
-        groupHtml+=`<div class="avatar-container" style='left:${i * 20}px;'><img src=${char.image} class='avatar' alt=${char.name} />
-        <div>${char.name}</div> 
-        </div>`
-        i += 1;
+    while (i < groupSize) {
+        groupHtml += "<div class='row'>"
+        for (var j = 0; j < numRows; j++) {
+            if (i >= groupSize) break;
+            if (group[i].image === undefined) {
+                i += 1;
+                continue;
+            }
+            groupHtml += `<div class="avatar-container" style='left:${j * 30}px; top:${rowId * 30}px;'><img src=${group[i].image} class='avatar' alt=${group[i].name} />
+            <div>${group[i].name}</div> 
+            </div>`
+            i += 1;
+        }
+        groupHtml += "</div>"
+        rowId += 1;
     }
-    groupHtml+="</div>"
+    groupHtml += "</div>"
     // @ts-ignore
     return <Marker position={group[0].location as LatLngExpression} icon={new L.divIcon({
         className: 'cluster-group',

@@ -35,7 +35,7 @@ function GeoJsonMap({ currentLocation, characters }: { currentLocation: LatLngEx
     >
       {/* <GeoJSON data={geojsonData as any} style={style} /> */}
       <Tier1Characters characters={characters} />
-      {currentLocation && <Marker position={currentLocation} icon={currentLocationMarker} />}
+      {currentLocation && <Marker position={currentLocation} icon={currentLocationMarker} interactive={false} zIndexOffset={1} />}
       <ImageOverlay url={mapImage} bounds={[[-20, -66], [72, 130]]} />
       <CoordinatesCopier />
       <ZoomSetter />
