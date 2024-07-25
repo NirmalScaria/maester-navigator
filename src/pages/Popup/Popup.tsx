@@ -6,6 +6,9 @@ import hotdEpisodes from './data/hotdEpisodes.json'
 import locations from './data/knownLocations.json' assert { type: "json" };
 import { LatLngExpression } from 'leaflet';
 import characters from './data/knownCharacters.json' assert { type: "json" };
+import { firebaseApp } from "./firebase-app-config";
+import { initializeApp } from 'firebase/app';
+import { getDatabase, ref, child, get } from "firebase/database";
 
 interface Character {
   name: string;
@@ -26,8 +29,11 @@ const Popup = () => {
 
   const currentSeasonRef = useRef(currentSeason);
   const currentEpisodeRef = useRef(currentEpisode);
+  const currentSeriesRef = useRef(currentSeries);
 
   var currentSceneValue: any;
+
+  const db = getDatabase(firebaseApp);
 
   useEffect(() => {
     currentSeasonRef.current = currentSeason;
@@ -36,6 +42,10 @@ const Popup = () => {
   useEffect(() => {
     currentEpisodeRef.current = currentEpisode;
   }, [currentEpisode]);
+
+  useEffect(() => {
+    currentSeriesRef.current = currentSeries;
+  }, [currentSeries]);
 
   useEffect(() => {
     chrome.storage.local.get(['currentSeason', 'currentEpisode', 'currentSeries'], (result) => {
@@ -69,15 +79,16 @@ const Popup = () => {
         async (results) => {
           if (results && results[0] && results[0].result) {
             var currentEpisodeData;
-            if (`s${currentSeasonRef.current}e${currentEpisodeRef.current}` in episodeData) {
+            if (`${currentSeriesRef.current}s${currentSeasonRef.current}e${currentEpisodeRef.current}` in episodeData) {
               // @ts-ignore
-              currentEpisodeData = episodeData[`s${currentSeasonRef.current}e${currentEpisodeRef.current}` as string]
+              currentEpisodeData = episodeData[`${currentSeriesRef.current}s${currentSeasonRef.current}e${currentEpisodeRef.current}` as string]
             }
             else {
-              currentEpisodeData = await importEpisodeData({ season: currentSeasonRef.current, episode: currentEpisodeRef.current })
+              currentEpisodeData = await importEpisodeData({ season: currentSeasonRef.current, episode: currentEpisodeRef.current, series: currentSeriesRef.current })
               // @ts-ignore
-              episodeData[`s${currentSeasonRef.current}e${currentEpisodeRef.current}`] = currentEpisodeData
+              episodeData[`${currentSeriesRef.current}s${currentSeasonRef.current}e${currentEpisodeRef.current}`] = currentEpisodeData
             }
+            console.log("Reading from ", currentEpisodeData)
             const scenes = currentEpisodeData.scenes
             const currentTime = results[0].result.currentTime
             const currentScene = scenes.find((scene: any) => stringToNum(scene.start) <= currentTime && stringToNum(scene.end) >= currentTime)
@@ -119,9 +130,25 @@ const Popup = () => {
     });
   }
 
-  async function importEpisodeData({ season, episode }: { season: number, episode: number }) {
-    const response = await import(`./data/episodes/${season}/${episode}.json`)
-    return response;
+  async function importEpisodeData({ season, episode, series }: { season: number, episode: number, series: string }) {
+    console.log("Fetching data for", series, season, episode)
+    var response;
+    if (series == "Game of Thrones") {
+      response = await import(`./data/episodes/${season}/${episode}.json`)
+      return response;
+    }
+    else {
+      console.log("Fetching data from firebase for", series, season, episode)
+      const dbRef = ref(getDatabase());
+      const snapshot = await get(child(dbRef, `House of the Dragon/S${season}E${episode}/`))
+      if (snapshot.exists()) {
+        console.log(snapshot.val());
+        return snapshot.val();
+      } else {
+        console.log("No data available");
+      }
+    }
+
   }
 
   useEffect(() => {
@@ -130,6 +157,37 @@ const Popup = () => {
       getDetails();
     }, 1000);
   }, []);
+
+  function copyTime() {
+    chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
+      chrome.scripting.executeScript(
+        {
+          target: { tabId: tabs[0].id! },
+          func: () => {
+            const video = document.querySelector('video');
+            if (video) {
+              return {
+                currentTime: video!.currentTime,
+                duration: video!.duration,
+                playing: !video!.paused
+              };
+            }
+            return null;
+          }
+        },
+        async (results) => {
+          if (results && results[0] && results[0].result) {
+            const currentTime = results[0].result.currentTime
+            const hours = Math.floor(currentTime / 3600);
+            const minutes = Math.floor((currentTime % 3600) / 60);
+            const seconds = Math.floor(currentTime % 60);
+            const timeString = `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`
+            navigator.clipboard.writeText(timeString)
+          }
+        }
+      );
+    });
+  }
 
   return (
     <div className="App">
@@ -174,6 +232,7 @@ const Popup = () => {
             </option>
           })}
         </select>
+        <div className="video-status video-status-playing" onClick={copyTime}>Copy time</div>
         {currentLocation ? <div className="video-status video-status-playing">Live</div> :
           <div className="video-status video-status-notfound">No Video</div>}
       </div>
