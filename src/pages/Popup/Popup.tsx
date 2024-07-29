@@ -221,7 +221,7 @@ const Popup = () => {
           <option value="House of the Dragon">House of the Dragon</option>
         </select>
         <select
-          value={currentSeason}
+          value={selectedSeason}
           onChange={(e) => setSelectedSeason(parseInt(e.target.value))}
         >
           {Object.keys(currentSeries == "Game of Thrones" ? episodes : hotdEpisodes).map((season) => {
@@ -248,9 +248,9 @@ const Popup = () => {
             </option>
           })}
         </select>
-        <div className="video-status video-status-playing" onClick={copyTime}>Copy time</div>
+        {/* <div className="video-status video-status-playing" onClick={copyTime}>Copy time</div> */}
         {currentLocation ? <div className="video-status video-status-playing">Live</div> :
-          <div className="video-status video-status-notfound">No Video</div>}
+          <div className="video-status video-status-notfound">ⓘ Start playing</div>}
       </div>
       <GeoJsonMap currentLocation={currentLocation} characters={chars} />
     </div>
