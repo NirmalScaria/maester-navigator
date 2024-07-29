@@ -14,11 +14,6 @@
     "activeTab",
     "storage"
   ],
-  "optional_host_permissions": [
-    "http://*/*",
-    "https://*/*",
-    "<all_urls>"
-  ],
   "devtools_page": "devtools.html",
   "web_accessible_resources": [
     {
